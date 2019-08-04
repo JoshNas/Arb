@@ -2,10 +2,9 @@ from bs4 import BeautifulSoup
 import requests
 import datetime as dt
 import get_moneylines as gm
-
-
-rl = 'https://classic.sportsbookreview.com/betting-odds/mlb-baseball/pointspread/'
-tots = 'https://classic.sportsbookreview.com/betting-odds/mlb-baseball/totals/'
+import get_spreads as gs
+import get_totals as gt
+import compare
 
 
 def get_game_date(game):
@@ -32,6 +31,18 @@ def get_games(url):
     return game_days
 
 
+def get_game_info(game):
+    """Get teams and time"""
+    teams = game.find_all('a')
+    away_team = teams[1].get_text().split('-')[0].strip()
+    home_team = teams[2].get_text().split('-')[0].strip()
+    # print(teams[1].get_text().split('-')[0])
+    # print(teams[2].get_text().split('-')[0])
+    time = game.find('div', attrs={'class': 'el-div eventLine-time'}) \
+        .find('div', attrs={'class': "eventLine-book-value"}).get_text()
+    return f'{away_team} vs {home_team} {time}'
+
+
 def get_moneylines():
     """Scrape MLB moneylines from SBR"""
     url = 'https://classic.sportsbookreview.com/betting-odds/money-line/'
@@ -54,18 +65,8 @@ def get_moneylines():
     return money_lines
 
 
-def get_game_info(game):
-    """Get teams and time"""
-    teams = game.find_all('a')
-    away_team = teams[1].get_text()[:3].strip()
-    home_team = teams[2].get_text()[:3].strip()
-    time = game.find('div', attrs={'class': 'el-div eventLine-time'}) \
-        .find('div', attrs={'class': "eventLine-book-value"}).get_text()
-    return f'{away_team} vs {home_team} {time}'
-
-
 def get_runlines():
-    url = 'https://classic.sportsbookreview.com/betting-odds/money-line/'
+    url = 'https://classic.sportsbookreview.com/betting-odds/mlb-baseball/pointspread/'
     game_days = get_games(url)
 
     run_lines = []
@@ -78,8 +79,44 @@ def get_runlines():
             for game in games:
                 teams = get_game_info(game)
                 game_info = f'{teams} {game_date}'
+                lines = gs.spreads(game)
+                line = {'game': game_info, 'away_odds': lines[0], 'home_odds': lines[1]}
+                run_lines.append(line)
+
+    # for r in run_lines:
+    #     print(r)
+    return run_lines
 
 
-mls = get_moneylines()
-for ml in mls:
-    print(ml)
+def get_totals():
+    url = 'https://classic.sportsbookreview.com/betting-odds/mlb-baseball/totals/'
+    game_days = get_games(url)
+
+    totals = []
+
+    for game_day in game_days:
+        game_date = get_game_date(game_day)
+        if game_date:
+            games = game_day.find_all('div', attrs={'class': 'event-holder holder-scheduled'})
+
+            for game in games:
+                teams = get_game_info(game)
+                game_info = f'{teams} {game_date}'
+                total = gt.totals(game)
+                line = {'game': game_info, 'over_odds': total[0], 'under_odds': total[1]}
+                totals.append(line)
+
+    # for t in totals:
+    #     print(t)
+    return totals
+
+# ml = get_moneylines()
+# compare.compare_ml(ml)
+
+# rl = get_runlines()
+# compare.compare_spreads(rl)
+
+tot = get_totals()
+compare.compare_totals(tot)
+# get_runlines()
+# get_totals()

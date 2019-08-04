@@ -46,12 +46,9 @@ def moneyline(game):
     except AttributeError:
         bovada_away, bovada_home = None, None
 
-    # game_info = f'{away_team} vs {home_team} {game_date} {time}'
-
     away_odds = {'pinnacle': pin_away, 'bookmaker': book_away, 'heritage': her_away,
                  'sportsbetting': sports_away, 'bovada': bovada_away}
     home_odds = {'pinnacle': pin_home, 'bookmaker': book_home, 'heritage': her_home,
                  'sportsbetting': sports_home, 'bovada': bovada_home}
 
-    # final = {'game': game_info, 'away_odds': away_odds, 'home_odds': home_odds}
     return away_odds, home_odds
