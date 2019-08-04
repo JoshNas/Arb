@@ -1,0 +1,58 @@
+2019-08-04 16:04:45.158162: Value on STL vs OAK 4:07p current at pinnacle 9.5 102 vs sportsbetting 9.0 102 
+--------------------------------------------------
+2019-08-04 16:04:45.678305: Value on STL vs OAK 4:07p current at heritage 9.5 100 vs sportsbetting 9.0 102 
+--------------------------------------------------
+2019-08-04 16:04:46.190788: Value on SD vs LAD 4:10p current at bookmaker 8.5 -104 vs pinnacle 8.0 104 
+--------------------------------------------------
+2019-08-04 16:04:46.702970: Value on SD vs LAD 4:10p current at sportsbetting 8.5 100 vs pinnacle 8.0 104 
+--------------------------------------------------
+2019-08-04 16:04:47.214292: Value on MIA vs NYM 4:10p next at pinnacle 7.5 105 vs bookmaker 7.0 105 
+--------------------------------------------------
+2019-08-04 16:04:47.752759: Value on MIA vs NYM 4:10p next at heritage 7.5 105 vs bookmaker 7.0 105 
+--------------------------------------------------
+2019-08-04 16:04:48.263891: Value on MIA vs NYM 4:10p next at sportsbetting 7.5 -102 vs bookmaker 7.0 105 
+--------------------------------------------------
+2019-08-04 16:04:48.771327: Value on MIA vs NYM 4:10p next at bovada 7.5 -105 vs bookmaker 7.0 105 
+--------------------------------------------------
+2019-08-04 16:04:49.286837: Value on MIA vs NYM 7:10p next at pinnacle 9.5 106 vs bookmaker 9.0 -105 
+--------------------------------------------------
+2019-08-04 16:04:49.799346: Value on MIA vs NYM 7:10p next at pinnacle 9.5 106 vs heritage 9.0 105 
+--------------------------------------------------
+2019-08-04 16:04:50.311037: Value on MIA vs NYM 7:10p next at pinnacle 9.5 106 vs sportsbetting 9.0 -105 
+--------------------------------------------------
+2019-08-04 16:04:50.823907: Value on MIA vs NYM 7:10p next at pinnacle 9.5 106 vs bovada 9.0 -105 
+--------------------------------------------------
+2019-08-04 16:04:51.336963: Value on PHI vs ARI 9:40p next at pinnacle 10.0 101 vs bookmaker 9.5 -101 
+--------------------------------------------------
+2019-08-04 16:04:51.851196: Value on STL vs LAD 10:10p next at heritage 9.5 110 vs pinnacle 9.0 105 
+--------------------------------------------------
+2019-08-04 16:04:52.363555: Value on STL vs LAD 10:10p next at heritage 9.5 110 vs bookmaker 9.0 100 
+--------------------------------------------------
+2019-08-04 16:04:52.869126: Value on STL vs LAD 10:10p next at heritage 9.5 110 vs sportsbetting 9.0 100 
+--------------------------------------------------
+2019-08-04 16:04:53.388065: Value on STL vs LAD 10:10p next at heritage 9.5 110 vs bovada 9.0 100 
+--------------------------------------------------
+2019-08-04 16:05:22.483950: Value on STL vs OAK 4:07p current at pinnacle 9.5 106 vs sportsbetting 9.0 102 
+--------------------------------------------------
+2019-08-04 16:05:22.990386: Value on SD vs LAD 4:10p current at heritage 8.5 100 vs pinnacle 8.0 104 
+--------------------------------------------------
+2019-08-04 16:06:48.764891: Value on STL vs OAK 4:07p current at pinnacle 9.5 106 vs heritage 9.0 110 
+--------------------------------------------------
+2019-08-04 16:06:49.271794: Value on STL vs OAK 4:07p current at pinnacle 9.5 106 vs sportsbetting 9.0 100 
+--------------------------------------------------
+2019-08-04 16:06:49.780954: Value on STL vs OAK 4:07p current at bookmaker 9.5 -105 vs heritage 9.0 110 
+--------------------------------------------------
+2019-08-04 16:06:50.284562: Value on STL vs OAK 4:07p current at bovada 9.5 -105 vs heritage 9.0 110 
+--------------------------------------------------
+2019-08-04 16:06:50.788172: Value on SD vs LAD 4:10p current at heritage 8.5 100 vs pinnacle 8.0 100 
+--------------------------------------------------
+2019-08-04 16:06:51.291865: Value on SD vs LAD 4:10p current at sportsbetting 8.5 100 vs pinnacle 8.0 100 
+--------------------------------------------------
+2019-08-04 16:08:53.038759: Value on WSH vs ARI 4:10p current at pinnacle WSH -1.5 106 vs bovada ARI 1.5 -105 
+--------------------------------------------------
+2019-08-04 16:08:53.552684: Value on WSH vs ARI 4:10p current at heritage WSH -1.5 105 vs bovada ARI 1.5 -105 
+--------------------------------------------------
+2019-08-04 16:08:54.066606: Value on WSH vs ARI 4:10p current at pinnacle WSH -149 vs bookmaker ARI 149 
+--------------------------------------------------
+2019-08-04 16:08:54.579592: Value on WSH vs ARI 4:10p current at pinnacle WSH -149 vs heritage ARI 149 
+--------------------------------------------------

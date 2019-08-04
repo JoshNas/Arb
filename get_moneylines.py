@@ -46,7 +46,7 @@ def moneyline(game):
     except AttributeError:
         bovada_away, bovada_home = None, None
 
-    away_odds = {'pinnacle': pin_away, 'bookmaker': book_away, 'heritage': her_away,
+    away_odds = {'pinnacle': None, 'bookmaker': book_away, 'heritage': her_away,
                  'sportsbetting': sports_away, 'bovada': bovada_away}
     home_odds = {'pinnacle': pin_home, 'bookmaker': book_home, 'heritage': her_home,
                  'sportsbetting': sports_home, 'bovada': bovada_home}

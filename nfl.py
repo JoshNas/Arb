@@ -3,7 +3,7 @@ import requests
 import get_moneylines as gm
 
 
-def nfl_money_lines():
+def get_money_lines():
     money_lines = []
 
     url = 'https://classic.sportsbookreview.com/betting-odds/nfl-football/money-line/'

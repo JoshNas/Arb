@@ -18,17 +18,21 @@ def compare_ml(lines):
                     home_ml = game['home_odds'].get(home_site)
                 except TypeError:
                     break
-                # if away_ml and home_ml:
-                #     teams = game['game']
-                #     split = teams.split(' ')
-                #     print(f'Comparing {teams} at {away_site} {split[0]} {away_ml} vs '
-                #           f'{home_site} {split[2]} {home_ml} {breaker}')
-                if away_ml + home_ml >= 0:
-                    teams = game['game']
-                    split = teams.split(' ')
-                    # print(f'Value on {teams} at {away_site} {away_ml} vs {home_site} {home_ml} {breaker}')
-                    value.append(f'Value on {teams} at {away_site} {split[0]} {away_ml} vs '
-                                 f'{home_site} {split[2]} {home_ml} {breaker}')
+
+                teams = game['game']
+                split = teams.split(' ')
+                print(f'Comparing {teams} at {away_site} {split[0]} {away_ml} vs '
+                      f'{home_site} {split[2]} {home_ml} {breaker}')
+                try:
+                    if away_ml + home_ml >= 0:
+                        teams = game['game']
+                        split = teams.split(' ')
+                        # print(f'Value on {teams} at {away_site} {away_ml} vs {home_site} {home_ml} {breaker}')
+                        value.append(f'Value on {teams} at {away_site} {split[0]} {away_ml} vs '
+                                     f'{home_site} {split[2]} {home_ml} {breaker}')
+                except TypeError:
+                    pass
+
 
     return value
 
@@ -52,12 +56,10 @@ def compare_spreads(lines):
                     home_odds = game['home_odds'].get(home_site)[1]
                 except TypeError:
                     break
-
-                teams = game['game']
-                split = teams.split(' ')
-
-                print(f'Comparing {teams} at {away_site} {split[0]} {away_spread} {away_odds} vs '
-                      f'{home_site} {split[2]} {home_spread} {home_odds} {breaker}')
+                # teams = game['game']
+                # split = teams.split(' ')
+                # print(f'Comparing {teams} at {away_site} {split[0]} {away_spread} {away_odds} vs '
+                #       f'{home_site} {split[2]} {home_spread} {home_odds} {breaker}')
                 if away_spread + home_spread >= 0 and away_odds + home_odds >= 0:
                     teams = game['game']
                     split = teams.split(' ')
@@ -93,7 +95,7 @@ def compare_totals(lines):
                 # teams = game['game']
                 # print(f'Comparing {teams} at {over_site} {over } {over_odds} vs '
                 #       f'{under_site} {under} {under_odds} {breaker}')
-                if over + under >= 0 and over_odds + under_odds >= 0:
+                if over + under < .5 and over_odds + under_odds >= 0:
                     teams = game['game']
 
                     value.append(f'Value on {teams} at {over_site} {over} {over_odds} vs '
