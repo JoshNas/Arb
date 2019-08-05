@@ -76,3 +76,31 @@
 --------------------------------------------------
 2019-08-05 11:22:27.708167: Value on OAK vs CHC 8:05p current at bookmaker OAK 148 vs sportsbetting CHC -145 
 --------------------------------------------------
+2019-08-05 11:27:13.170931: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs heritage Buffalo 100 
+--------------------------------------------------
+2019-08-05 11:27:13.679789: Value on NFL Indianapolis vs Buffalo at bovada Indianapolis 105 vs heritage Buffalo 100 
+--------------------------------------------------
+2019-08-05 11:27:14.183384: Value on NFL L.A. Rams vs Oakland at pinnacle L.A. 186 vs bovada vs -180 
+--------------------------------------------------
+2019-08-05 11:27:14.699073: Value on NFL L.A. Rams vs Oakland at heritage L.A. 190 vs sportsbetting vs -190 
+--------------------------------------------------
+2019-08-05 11:27:15.213734: Value on NFL L.A. Rams vs Oakland at heritage L.A. 190 vs bovada vs -180 
+--------------------------------------------------
+2019-08-05 11:30:14.247312: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs heritage Buffalo 100 
+--------------------------------------------------
+2019-08-05 11:30:14.763995: Value on NFL Indianapolis vs Buffalo at bovada Indianapolis 105 vs heritage Buffalo 100 
+--------------------------------------------------
+2019-08-05 11:32:43.919573: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs heritage Buffalo 105 
+--------------------------------------------------
+2019-08-05 11:32:44.424373: Value on NFL Indianapolis vs Buffalo at bovada Indianapolis 105 vs heritage Buffalo 105 
+--------------------------------------------------
+2019-08-05 11:34:25.284147: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs heritage Buffalo 105 
+--------------------------------------------------
+2019-08-05 11:34:25.789005: Value on NFL Indianapolis vs Buffalo at bovada Indianapolis 105 vs heritage Buffalo 105 
+--------------------------------------------------
+2019-08-05 11:40:47.815641: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs heritage Buffalo 105 
+--------------------------------------------------
+2019-08-05 11:40:48.325899: Value on NFL Indianapolis vs Buffalo at bovada Indianapolis 105 vs heritage Buffalo 105 
+--------------------------------------------------
+2019-08-05 11:40:48.830704: Value on NFL Washington vs Cleveland at bovada Washington 100 vs pinnacle Cleveland 101 
+--------------------------------------------------

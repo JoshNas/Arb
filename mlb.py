@@ -78,7 +78,7 @@ def get_runlines():
             for game in games:
                 teams = get_game_info(game)
                 game_info = f'{teams} {game_date}'
-                lines = gs.spreads(game)
+                lines = gs.run_lines(game)
                 line = {'game': game_info, 'away_odds': lines[0], 'home_odds': lines[1]}
                 run_lines.append(line)
 

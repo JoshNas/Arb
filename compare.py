@@ -8,12 +8,17 @@ def compare_ml(lines, sport):
             for home_site in game['home_odds']:
                 away_ml = game['away_odds'].get(away_site)
                 home_ml = game['home_odds'].get(home_site)
-                # print(f"Comparing {game['game']} {away_site} {away_ml} vs {home_site} {home_ml}\n")
+                print(f"Comparing {game['game']} {away_site} {away_ml} vs {home_site} {home_ml}\n")
                 if away_ml + home_ml >= 0:
                     teams = game['game']
-                    split = teams.split(' ')
-                    value.append(f'Value on {sport} {teams} at {away_site} {split[0]} {away_ml} vs '
-                                 f'{home_site} {split[2]} {home_ml} {breaker}')
+                    if sport == 'NFL':
+                        split = teams.split('vs')
+                        value.append(f'Value on {sport} {teams} at {away_site} {split[0].strip()} {away_ml} vs '
+                                     f'{home_site} {split[1].strip()} {home_ml} {breaker}')
+                    else:
+                        split = teams.split(' ')
+                        value.append(f'Value on {sport} {teams} at {away_site} {split[0]} {away_ml} vs '
+                                     f'{home_site} {split[2]} {home_ml} {breaker}')
     return value
 
 
@@ -28,13 +33,20 @@ def compare_spreads(lines, sport):
                 away_odds = game['away_odds'].get(away_site)[1]
                 home_spread = game['home_odds'].get(home_site)[0]
                 home_odds = game['home_odds'].get(home_site)[1]
-                # print(f"Comparing {game['game']} {away_site} {away_spread} {away_odds} vs "
-                #       f"{home_site} {home_spread} {home_odds}\n")
+                print(f"Comparing {game['game']} {away_site} {away_spread} {away_odds} vs "
+                      f"{home_site} {home_spread} {home_odds}\n")
                 if away_spread + home_spread >= 0 and away_odds + home_odds >= 0:
                     teams = game['game']
-                    split = teams.split(' ')
-                    value.append(f'Value on {sport} {teams} at {away_site} {split[0]} {away_spread} {away_odds} vs '
-                                 f'{home_site} {split[2]} {home_spread} {home_odds} {breaker}')
+                    if sport == 'NFL':
+                        split = teams.split('vs')
+                        value.append(f'Value on {sport} {teams} at {away_site} {split[0].strip()} '
+                                     f'{away_spread} {away_odds} vs {home_site} {split[1].strip()} '
+                                     f'{home_spread} {home_odds} {breaker}')
+                    else:
+                        split = teams.split(' ')
+                        value.append(f'Value on {sport} {teams} at {away_site} {split[0]} '
+                                     f'{away_spread} {away_odds} vs {home_site} {split[2]} '
+                                     f'{home_spread} {home_odds} {breaker}')
     return value
 
 
