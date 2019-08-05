@@ -26,3 +26,7 @@ def get_money_lines():
         money_lines.append(line)
 
     return money_lines
+
+def get_spreads():
+    spreads = []
+

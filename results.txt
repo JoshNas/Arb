@@ -56,3 +56,23 @@
 --------------------------------------------------
 2019-08-04 16:08:54.579592: Value on WSH vs ARI 4:10p current at pinnacle WSH -149 vs heritage ARI 149 
 --------------------------------------------------
+2019-08-05 11:07:38.427497: Value on MIA vs NYM 4:10p current at heritage MIA 1.5 145 vs pinnacle NYM -1.5 -145 
+--------------------------------------------------
+2019-08-05 11:18:00.155105: Value on Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs heritage Buffalo -105 
+--------------------------------------------------
+2019-08-05 11:18:00.659542: Value on Indianapolis vs Buffalo at bovada Indianapolis 105 vs heritage Buffalo -105 
+--------------------------------------------------
+2019-08-05 11:21:25.782704: Value on OAK vs CHC 8:05p current at bookmaker OAK 148 vs pinnacle CHC -146 
+--------------------------------------------------
+2019-08-05 11:21:26.286817: Value on OAK vs CHC 8:05p current at heritage OAK 147 vs pinnacle CHC -146 
+--------------------------------------------------
+2019-08-05 11:21:26.790564: Value on OAK vs CHC 8:05p current at sportsbetting OAK 146 vs pinnacle CHC -146 
+--------------------------------------------------
+2019-08-05 11:21:28.548750: Value on Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs heritage Buffalo 100 
+--------------------------------------------------
+2019-08-05 11:21:29.052499: Value on Indianapolis vs Buffalo at bovada Indianapolis 105 vs heritage Buffalo 100 
+--------------------------------------------------
+2019-08-05 11:21:57.641853: Value on OAK vs CHC 8:05p current at bookmaker OAK 149 vs pinnacle CHC -146 
+--------------------------------------------------
+2019-08-05 11:22:27.708167: Value on OAK vs CHC 8:05p current at bookmaker OAK 148 vs sportsbetting CHC -145 
+--------------------------------------------------

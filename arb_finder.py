@@ -14,7 +14,7 @@ class ValueFinder(object):
         self.root = tk.Tk()
         self.root.geometry('660x660')
         self.root.title('ArbFinder')
-        # self.root.iconbitmap('images/Baseball.ico')
+        self.root.iconbitmap('images/dollar.ico')
         self.nb = ttk.Notebook(self.root)
 
         results_tab = ttk.Frame(self.nb)
@@ -84,16 +84,16 @@ class ValueFinder(object):
             run_lines = mlb.get_runlines()
             moneylines = mlb.get_moneylines()
             totals = mlb.get_totals()
-            self.add_to_gui(compare.compare_spreads(run_lines))
-            self.add_to_gui(compare.compare_ml(moneylines))
-            self.add_to_gui(compare.compare_totals(totals))
+            self.add_to_gui(compare.compare_spreads(run_lines, 'MLB'))
+            self.add_to_gui(compare.compare_ml(moneylines, 'MLB'))
+            self.add_to_gui(compare.compare_totals(totals, 'MLB'))
         if self.vars[3].get():
             # NHL
             pass
         if self.vars[4].get():
             # NFL
             moneylines = nfl.get_money_lines()
-            self.add_to_gui(compare.compare_ml(moneylines))
+            self.add_to_gui(compare.compare_ml(moneylines, 'NFL'))
         if self.vars[5].get():
             # NCAAF
             pass

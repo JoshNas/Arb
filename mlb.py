@@ -4,7 +4,6 @@ import datetime as dt
 import get_moneylines as gm
 import get_spreads as gs
 import get_totals as gt
-import compare
 
 
 def get_game_date(game):
@@ -83,8 +82,6 @@ def get_runlines():
                 line = {'game': game_info, 'away_odds': lines[0], 'home_odds': lines[1]}
                 run_lines.append(line)
 
-    # for r in run_lines:
-    #     print(r)
     return run_lines
 
 
@@ -102,21 +99,8 @@ def get_totals():
             for game in games:
                 teams = get_game_info(game)
                 game_info = f'{teams} {game_date}'
-                total = gt.totals(game)
-                line = {'game': game_info, 'over_odds': total[0], 'under_odds': total[1]}
+                total = gt.mlb_totals(game)
+                line = {'game': game_info, 'overs': total[0], 'unders': total[1]}
                 totals.append(line)
 
-    # for t in totals:
-    #     print(t)
     return totals
-
-# ml = get_moneylines()
-# compare.compare_ml(ml)
-
-# rl = get_runlines()
-# compare.compare_spreads(rl)
-
-tot = get_totals()
-compare.compare_totals(tot)
-# get_runlines()
-# get_totals()
