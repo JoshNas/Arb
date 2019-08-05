@@ -33,8 +33,8 @@ def compare_spreads(lines, sport):
                 away_odds = game['away_odds'].get(away_site)[1]
                 home_spread = game['home_odds'].get(home_site)[0]
                 home_odds = game['home_odds'].get(home_site)[1]
-                print(f"Comparing {game['game']} {away_site} {away_spread} {away_odds} vs "
-                      f"{home_site} {home_spread} {home_odds}\n")
+                # print(f"Comparing {game['game']} {away_site} {away_spread} {away_odds} vs "
+                #       f"{home_site} {home_spread} {home_odds}\n")
                 if away_spread + home_spread >= 0 and away_odds + home_odds >= 0:
                     teams = game['game']
                     if sport == 'NFL':

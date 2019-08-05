@@ -64,7 +64,7 @@ def get_site_mlb(odds):
         over = [float(odds[0:3].replace('½', '.5')), fix_neg(int(odds[4:7]))]
         under = [float(odds[0:3].replace('½', '.5')), fix_neg(int(odds[-4:]))]
     else:
-        return None
+        return None, None
     return over, under
 
 

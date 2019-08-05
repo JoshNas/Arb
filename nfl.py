@@ -23,9 +23,10 @@ def get_money_lines():
             # Happens when change dates. ex: gap between Sunday and Monday games
             break
         lines = gm.moneyline(game)
-        game_info = f'{away_team} vs {home_team}'
-        line = {'game': game_info, 'away_odds': lines[0], 'home_odds': lines[1]}
-        money_lines.append(line)
+        if lines:
+            # check that lines aren't empty
+            line = {'game': f'{away_team} vs {home_team}', 'away_odds': lines[0], 'home_odds': lines[1]}
+            money_lines.append(line)
 
     return money_lines
 
@@ -43,16 +44,13 @@ def get_spreads():
         try:
             away_team = teams[1].get_text()
             home_team = teams[2].get_text()
-            teams = f'{away_team} vs {home_team}'
-            lines = gs.spreads(game)
-            line = {'game': teams, 'away_odds': lines[0], 'home_odds': lines[1]}
-            spreads.append(line)
         except IndexError:
             # Happens when change dates. ex: gap between Sunday and Monday games
             break
+        lines = gs.spreads(game)
+        if lines:
+            # check that lines aren't empty
+            line = {'game': f'{away_team} vs {home_team}', 'away_odds': lines[0], 'home_odds': lines[1]}
+            spreads.append(line)
 
         return spreads
-
-l = get_spreads()
-compare.compare_spreads(l, 'NFL')
-

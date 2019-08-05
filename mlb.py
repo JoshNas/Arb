@@ -4,6 +4,7 @@ import datetime as dt
 import get_moneylines as gm
 import get_spreads as gs
 import get_totals as gt
+import compare
 
 
 def get_game_date(game):
@@ -58,8 +59,10 @@ def get_moneylines():
                 teams = get_game_info(game)
                 game_info = f'{teams} {game_date}'
                 lines = gm.moneyline(game)
-                line = {'game': game_info, 'away_odds': lines[0], 'home_odds': lines[1]}
-                money_lines.append(line)
+                if lines:
+                    # check that lines aren't empty
+                    line = {'game': game_info, 'away_odds': lines[0], 'home_odds': lines[1]}
+                    money_lines.append(line)
 
     return money_lines
 
@@ -79,8 +82,10 @@ def get_runlines():
                 teams = get_game_info(game)
                 game_info = f'{teams} {game_date}'
                 lines = gs.run_lines(game)
-                line = {'game': game_info, 'away_odds': lines[0], 'home_odds': lines[1]}
-                run_lines.append(line)
+                if lines[0]:
+                    # check that lines aren't empty
+                    line = {'game': game_info, 'away_odds': lines[0], 'home_odds': lines[1]}
+                    run_lines.append(line)
 
     return run_lines
 
@@ -100,7 +105,11 @@ def get_totals():
                 teams = get_game_info(game)
                 game_info = f'{teams} {game_date}'
                 total = gt.mlb_totals(game)
-                line = {'game': game_info, 'overs': total[0], 'unders': total[1]}
-                totals.append(line)
+                if total:
+                    # check that lines aren't empty
+                    line = {'game': game_info, 'overs': total[0], 'unders': total[1]}
+                    totals.append(line)
 
     return totals
+
+get_runlines()
