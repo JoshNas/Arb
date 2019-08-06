@@ -160,3 +160,189 @@
 --------------------------------------------------
 2019-08-05 12:52:18.868509: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs bovada Buffalo 110 
 --------------------------------------------------
+2019-08-05 12:56:04.417393: Value on MLB MIA vs NYM 4:10p current at bovada MIA 1.5 145 vs pinnacle NYM -1.5 -145 
+--------------------------------------------------
+2019-08-05 12:56:04.937600: Value on MLB TOR vs TB 7:10p current at bovada TOR 1.5 120 vs pinnacle TB -1.5 -119 
+--------------------------------------------------
+2019-08-05 12:56:06.852176: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs bovada Buffalo 110 
+--------------------------------------------------
+2019-08-05 12:56:07.356744: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs heritage Buffalo 105 
+--------------------------------------------------
+2019-08-05 12:56:07.861102: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs bovada Buffalo 110 
+--------------------------------------------------
+2019-08-05 12:57:45.958436: Value on MLB MIA vs NYM 4:10p current at bovada MIA 1.5 145 vs pinnacle NYM -1.5 -145 
+--------------------------------------------------
+2019-08-05 12:57:46.465945: Value on MLB TOR vs TB 7:10p current at bovada TOR 1.5 120 vs pinnacle TB -1.5 -119 
+--------------------------------------------------
+2019-08-05 12:57:48.132563: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs bovada Buffalo 110 
+--------------------------------------------------
+2019-08-05 12:57:48.641432: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs heritage Buffalo 105 
+--------------------------------------------------
+2019-08-05 12:57:49.157733: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs bovada Buffalo 110 
+--------------------------------------------------
+2019-08-05 13:09:07.332800: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-05 13:09:07.838429: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-05 13:09:36.310926: Value on MLB TOR vs TB 7:10p current at bovada TOR 1.5 120 vs pinnacle TB -1.5 -120 
+--------------------------------------------------
+2019-08-05 13:10:06.382247: Value on MLB TOR vs TB 7:10p current at heritage TOR 1.5 120 vs pinnacle TB -1.5 -120 
+--------------------------------------------------
+2019-08-05 13:51:06.602817: Value on MLB MIA vs NYM 4:10p current at bookmaker MIA 1.5 155 vs pinnacle NYM -1.5 -145 
+--------------------------------------------------
+2019-08-05 13:51:07.108984: Value on MLB MIA vs NYM 4:10p current at heritage MIA 1.5 161 vs pinnacle NYM -1.5 -145 
+--------------------------------------------------
+2019-08-05 13:51:07.615141: Value on MLB MIA vs NYM 4:10p current at sportsbetting MIA 1.5 157 vs pinnacle NYM -1.5 -145 
+--------------------------------------------------
+2019-08-05 13:51:08.121367: Value on MLB MIA vs NYM 4:10p current at bovada MIA 1.5 145 vs pinnacle NYM -1.5 -145 
+--------------------------------------------------
+2019-08-05 13:51:08.628549: Value on MLB TOR vs TB 7:10p current at bovada TOR 1.5 120 vs pinnacle TB -1.5 -120 
+--------------------------------------------------
+2019-08-05 13:51:09.134599: Value on MLB TOR vs TB 7:10p current at bovada TOR 1.5 120 vs heritage TB -1.5 -120 
+--------------------------------------------------
+2019-08-05 13:51:10.870095: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-05 13:51:11.374021: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs bovada Buffalo 110 
+--------------------------------------------------
+2019-08-05 13:51:11.879905: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-05 13:51:12.384652: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs bovada Buffalo 110 
+--------------------------------------------------
+2019-08-05 13:57:33.854181: Value on MLB MIA vs NYM 4:10p current at bookmaker MIA 1.5 146 vs pinnacle NYM -1.5 -145 
+--------------------------------------------------
+2019-08-05 13:57:34.358886: Value on MLB MIA vs NYM 4:10p current at bovada MIA 1.5 160 vs pinnacle NYM -1.5 -145 
+--------------------------------------------------
+2019-08-05 13:59:32.979582: Value on MLB MIA vs NYM 4:10p current at bookmaker MIA 1.5 155 vs pinnacle NYM -1.5 -148 
+--------------------------------------------------
+2019-08-05 13:59:33.483407: Value on MLB MIA vs NYM 4:10p current at heritage MIA 1.5 161 vs pinnacle NYM -1.5 -148 
+--------------------------------------------------
+2019-08-05 13:59:33.987885: Value on MLB MIA vs NYM 4:10p current at sportsbetting MIA 1.5 157 vs pinnacle NYM -1.5 -148 
+--------------------------------------------------
+2019-08-05 13:59:34.492062: Value on MLB MIA vs NYM 4:10p current at bovada MIA 1.5 160 vs pinnacle NYM -1.5 -148 
+--------------------------------------------------
+2019-08-05 14:00:33.830768: Value on MLB MIA vs NYM 4:10p current at sportsbetting MIA 1.5 157 vs pinnacle NYM -1.5 -157 
+--------------------------------------------------
+2019-08-05 14:00:34.336285: Value on MLB MIA vs NYM 4:10p current at bovada MIA 1.5 160 vs pinnacle NYM -1.5 -157 
+--------------------------------------------------
+2019-08-05 14:01:33.548234: Value on MLB MIA vs NYM 4:10p current at bovada MIA 1.5 160 vs pinnacle NYM -1.5 -158 
+--------------------------------------------------
+2019-08-05 14:04:31.512993: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs bovada Buffalo 115 
+--------------------------------------------------
+2019-08-05 14:04:32.017906: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs bovada Buffalo 115 
+--------------------------------------------------
+2019-08-05 14:09:25.096977: Value on MLB MIA vs NYM 4:10p current at bovada MIA 1.5 160 vs pinnacle NYM -1.5 -160 
+--------------------------------------------------
+2019-08-05 15:52:54.491774: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-05 15:52:55.006990: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs bovada Buffalo 115 
+--------------------------------------------------
+2019-08-05 15:52:55.515023: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-05 15:52:56.031330: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs bovada Buffalo 115 
+--------------------------------------------------
+2019-08-05 16:05:38.380026: Value on MLB MIA vs NYM 7:10p current at pinnacle MIA 1.5 -120 vs heritage NYM -1.5 120 
+--------------------------------------------------
+2019-08-05 16:05:38.885648: Value on MLB MIA vs NYM 7:10p current at pinnacle MIA 165 vs heritage NYM -162 
+--------------------------------------------------
+2019-08-05 16:05:39.389556: Value on MLB MIA vs NYM 7:10p current at pinnacle MIA 165 vs sportsbetting NYM -160 
+--------------------------------------------------
+2019-08-05 16:56:16.383653: Value on MLB MIL vs PIT 7:05p current at heritage MIL -1.5 110 vs pinnacle PIT 1.5 -110 
+--------------------------------------------------
+2019-08-05 17:29:21.707336: Value on MLB NYY vs BAL 7:05p current at pinnacle NYY -225 vs heritage BAL 226 
+--------------------------------------------------
+2019-08-05 17:29:22.213216: Value on MLB NYY vs BAL 7:05p current at pinnacle NYY -225 vs sportsbetting BAL 225 
+--------------------------------------------------
+2019-08-05 17:29:22.717589: Value on MLB NYY vs BAL 7:05p current at pinnacle NYY -225 vs bovada BAL 225 
+--------------------------------------------------
+2019-08-05 17:29:52.836087: Value on MLB NYY vs BAL 7:05p current at pinnacle NYY -1.5 -155 vs heritage BAL 1.5 155 
+--------------------------------------------------
+2019-08-05 17:29:53.341047: Value on MLB NYY vs BAL 7:05p current at pinnacle NYY -1.5 -155 vs bovada BAL 1.5 155 
+--------------------------------------------------
+2019-08-05 17:36:48.910053: Value on MLB KC vs BOS 7:10p current at bovada KC 1.5 140 vs heritage BOS -1.5 -140 
+--------------------------------------------------
+2019-08-05 17:37:19.103761: Value on MLB KC vs BOS 7:10p current at bookmaker KC 1.5 135 vs pinnacle BOS -1.5 -135 
+--------------------------------------------------
+2019-08-05 17:37:19.609345: Value on MLB KC vs BOS 7:10p current at bovada KC 1.5 140 vs pinnacle BOS -1.5 -135 
+--------------------------------------------------
+2019-08-05 17:37:20.116953: Value on MLB KC vs BOS 7:10p current at bookmaker KC 230 vs pinnacle BOS -229 
+--------------------------------------------------
+2019-08-05 17:38:19.796169: Value on MLB KC vs BOS 7:10p current at bovada KC 1.5 140 vs pinnacle BOS -1.5 -138 
+--------------------------------------------------
+2019-08-05 17:38:20.301930: Value on MLB KC vs BOS 7:10p current at bookmaker KC 230 vs sportsbetting BOS -230 
+--------------------------------------------------
+2019-08-05 17:45:13.661601: Value on MLB KC vs BOS 7:10p current at bovada KC 1.5 135 vs heritage BOS -1.5 -135 
+--------------------------------------------------
+2019-08-05 18:19:09.608930: Value on MLB TOR vs TB 7:10p current at heritage TOR 1.5 135 vs bookmaker TB -1.5 -135 
+--------------------------------------------------
+2019-08-05 18:19:11.420206: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-05 18:19:11.927579: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs bovada Buffalo 115 
+--------------------------------------------------
+2019-08-05 18:19:12.433389: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-05 18:19:12.937827: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs bovada Buffalo 115 
+--------------------------------------------------
+2019-08-05 18:21:47.507569: Value on MLB TOR vs TB 7:10p current at bovada TOR 1.5 135 vs bookmaker TB -1.5 -135 
+--------------------------------------------------
+2019-08-05 18:24:45.877095: Value on MLB TOR vs TB 7:10p current at bovada TOR 1.5 135 vs heritage TB -1.5 -135 
+--------------------------------------------------
+2019-08-05 18:32:10.955197: Value on MLB STL vs LAD 10:10p current at heritage STL 148 vs pinnacle LAD -147 
+--------------------------------------------------
+2019-08-05 18:34:38.977864: Value on MLB PHI vs ARI 9:40p current at sportsbetting PHI 107 vs bookmaker ARI -105 
+--------------------------------------------------
+2019-08-05 18:34:39.484481: Value on MLB PHI vs ARI 9:40p current at sportsbetting PHI 107 vs heritage ARI -105 
+--------------------------------------------------
+2019-08-05 18:36:08.585412: Value on MLB PHI vs ARI 9:40p current at sportsbetting PHI 105 vs bookmaker ARI -105 
+--------------------------------------------------
+2019-08-05 18:42:32.189770: Value on MLB PHI vs ARI 9:40p current at sportsbetting PHI 106 vs bookmaker ARI -105 
+--------------------------------------------------
+2019-08-05 18:57:46.792592: Value on MLB LAA vs CIN 7:10p current at bovada LAA 1.5 -105 vs pinnacle CIN -1.5 107 
+--------------------------------------------------
+2019-08-05 19:05:40.163580: Value on MLB TOR vs TB 7:10p current at bovada TOR 1.5 135 vs pinnacle TB -1.5 -134 
+--------------------------------------------------
+2019-08-05 19:06:10.373170: Value on MLB MIL vs PIT 7:05p current at heritage MIL -1.5 110 vs bovada PIT 1.5 -110 
+--------------------------------------------------
+2019-08-05 19:07:39.312121: Value on MLB TOR vs TB 7:10p current at bovada TOR 1.5 135 vs pinnacle TB -1.5 -135 
+--------------------------------------------------
+2019-08-05 19:07:39.823645: Value on MLB KC vs BOS 7:10p current at bookmaker KC 235 vs pinnacle BOS -234 
+--------------------------------------------------
+2019-08-05 19:11:08.219303: Value on MLB LAA vs CIN 7:10p current at bookmaker LAA 1.5 -110 vs heritage CIN -1.5 110 
+--------------------------------------------------
+2019-08-05 19:11:08.725374: Value on MLB ATL vs MIN 8:10p current at pinnacle ATL 105 vs bookmaker MIN -105 
+--------------------------------------------------
+2019-08-06 08:21:57.175381: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-06 08:21:57.687521: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs bovada Buffalo 115 
+--------------------------------------------------
+2019-08-06 08:21:58.192778: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-06 08:21:58.700858: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs bovada Buffalo 115 
+--------------------------------------------------
+2019-08-06 08:32:06.051356: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-06 08:32:06.568125: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs bovada Buffalo 115 
+--------------------------------------------------
+2019-08-06 08:32:07.084663: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-06 08:32:07.599831: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs bovada Buffalo 115 
+--------------------------------------------------
+2019-08-06 08:32:36.689660: Value on MLB ATL vs MIN 8:10p current at bookmaker ATL 1.5 -110 vs pinnacle MIN -1.5 117 
+--------------------------------------------------
+2019-08-06 08:32:37.195174: Value on MLB ATL vs MIN 8:10p current at bookmaker ATL 1.5 -110 vs heritage MIN -1.5 120 
+--------------------------------------------------
+2019-08-06 08:32:37.707800: Value on MLB ATL vs MIN 8:10p current at bookmaker ATL 1.5 -110 vs sportsbetting MIN -1.5 115 
+--------------------------------------------------
+2019-08-06 08:35:07.883132: Value on MLB ATL vs MIN 8:10p current at bookmaker ATL 1.5 -110 vs pinnacle MIN -1.5 117 
+--------------------------------------------------
+2019-08-06 08:35:08.387423: Value on MLB ATL vs MIN 8:10p current at bookmaker ATL 1.5 -110 vs heritage MIN -1.5 120 
+--------------------------------------------------
+2019-08-06 08:35:08.892437: Value on MLB ATL vs MIN 8:10p current at bookmaker ATL 1.5 -110 vs sportsbetting MIN -1.5 115 
+--------------------------------------------------
+2019-08-06 08:35:12.010164: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-06 08:35:12.514240: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs bovada Buffalo 115 
+--------------------------------------------------
+2019-08-06 08:35:13.018662: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-06 08:35:13.522434: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs bovada Buffalo 115 
+--------------------------------------------------

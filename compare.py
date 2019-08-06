@@ -11,11 +11,12 @@ def compare_ml(lines, sport):
                 # print(f"Comparing {game['game']} {away_site} {away_ml} vs {home_site} {home_ml}\n")
                 if away_ml + home_ml >= 0:
                     teams = game['game']
-                    if sport == 'NFL':
+                    if sport == 'NFL' or sport == 'NCAAF':
                         split = teams.split('vs')
                         value.append(f'Value on {sport} {teams} at {away_site} {split[0].strip()} {away_ml} vs '
                                      f'{home_site} {split[1].strip()} {home_ml} {breaker}')
                     else:
+                        # MLB
                         split = teams.split(' ')
                         value.append(f'Value on {sport} {teams} at {away_site} {split[0]} {away_ml} vs '
                                      f'{home_site} {split[2]} {home_ml} {breaker}')
@@ -37,7 +38,7 @@ def compare_spreads(lines, sport):
                 #       f"{home_site} {home_spread} {home_odds}\n")
                 if away_spread + home_spread >= 0 and away_odds + home_odds >= 0:
                     teams = game['game']
-                    if sport == 'NFL':
+                    if sport == 'NFL' or sport == 'NCAAF':
                         split = teams.split('vs')
                         value.append(f'Value on {sport} {teams} at {away_site} {split[0].strip()} '
                                      f'{away_spread} {away_odds} vs {home_site} {split[1].strip()} '

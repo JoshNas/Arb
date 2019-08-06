@@ -2,13 +2,11 @@ from bs4 import BeautifulSoup
 import requests
 import get_moneylines as gm
 import get_spreads as gs
-import compare
 
 
-def get_money_lines():
+def get_money_lines(url):
     money_lines = []
 
-    url = 'https://classic.sportsbookreview.com/betting-odds/nfl-football/money-line/'
     page = requests.get(url)
     soup = BeautifulSoup(page.content, 'html.parser')
 
@@ -31,9 +29,9 @@ def get_money_lines():
     return money_lines
 
 
-def get_spreads():
+def get_spreads(url):
     spreads = []
-    url = 'https://classic.sportsbookreview.com/betting-odds/nfl-football/'
+
     page = requests.get(url)
     soup = BeautifulSoup(page.content, 'html.parser')
 
