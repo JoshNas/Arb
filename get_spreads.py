@@ -77,7 +77,7 @@ def spreads(game):
             .replace('PK', '0 ').replace('\xa0', ' ').replace('½', '.5').split(' ')
         away_line, home_line = extract_spreads(heritage)
         if away_line:
-            away_odds['heritage'],home_odds['heritage'] = away_line, home_line
+            away_odds['heritage'], home_odds['heritage'] = away_line, home_line
     except AttributeError:
         pass
 
@@ -106,6 +106,6 @@ def extract_spreads(site):
     try:
         away_line = [float(site[0]), int(site[1][:4])]
         home_line = [float(site[1][4:]), int(site[2])]
-    except TypeError:
+    except (TypeError, ValueError):
         return None, None
     return away_line, home_line

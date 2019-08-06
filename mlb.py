@@ -4,7 +4,6 @@ import datetime as dt
 import get_moneylines as gm
 import get_spreads as gs
 import get_totals as gt
-import compare
 
 
 def get_game_date(game):
@@ -104,12 +103,10 @@ def get_totals():
             for game in games:
                 teams = get_game_info(game)
                 game_info = f'{teams} {game_date}'
-                total = gt.mlb_totals(game)
+                total = gt.totals(game)
                 if total:
                     # check that lines aren't empty
                     line = {'game': game_info, 'overs': total[0], 'unders': total[1]}
                     totals.append(line)
 
     return totals
-
-get_runlines()

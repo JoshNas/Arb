@@ -35,7 +35,7 @@ class ValueFinder(object):
 
         self.nfl_ml = 'https://classic.sportsbookreview.com/betting-odds/nfl-football/money-line/'
         self.nfl_spreads = 'https://classic.sportsbookreview.com/betting-odds/nfl-football/'
-        self.nlf_totals = 'https://classic.sportsbookreview.com/betting-odds/nfl-football/totals/'
+        self.nfl_totals = 'https://classic.sportsbookreview.com/betting-odds/nfl-football/totals/'
 
         self.ncaaf_ml = 'https://classic.sportsbookreview.com/betting-odds/college-football/money-line/'
         self.ncaaf_spreads = 'https://classic.sportsbookreview.com/betting-odds/college-football/'
@@ -102,15 +102,19 @@ class ValueFinder(object):
         if self.vars[4].get():
             # NFL
             moneylines = nfl.get_money_lines(self.nfl_ml)
-            spreads = nfl.get_spreads(self.ncaaf_spreads)
+            spreads = nfl.get_spreads(self.nfl_spreads)
+            totals = nfl.get_totals(self.nfl_totals)
             self.add_to_gui(compare.compare_ml(moneylines, 'NFL'))
             self.add_to_gui(compare.compare_spreads(spreads, 'NFL'))
+            self.add_to_gui(compare.compare_totals(totals, 'NFL'))
         if self.vars[5].get():
             # NCAAF
             moneylines = nfl.get_money_lines(self.ncaaf_ml)
             spreads = nfl.get_spreads(self.ncaaf_spreads)
+            totals = nfl.get_totals(self.ncaaf_totals)
             self.add_to_gui(compare.compare_ml(moneylines, 'NCAAF'))
             self.add_to_gui(compare.compare_spreads(spreads, 'NCAAF'))
+            self.add_to_gui(compare.compare_totals(totals, 'NCAAF'))
         if self.vars[6].get() and self.message_value:
             # email
             pass

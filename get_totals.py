@@ -1,10 +1,10 @@
-def mlb_totals(game):
+def totals(game):
     overs = {}
     unders = {}
 
     try:
         pinnacle = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 238}).get_text()
-        over, under = get_site_mlb(pinnacle)
+        over, under = get_site(pinnacle)
         if over:
             overs['pinnacle'] = over
             unders['pinnacle'] = under
@@ -13,7 +13,7 @@ def mlb_totals(game):
 
     try:
         bookmaker = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 93}).get_text()
-        over, under = get_site_mlb(bookmaker)
+        over, under = get_site(bookmaker)
         if over:
             overs['bookmaker'] = over
             unders['bookmaker'] = under
@@ -22,7 +22,7 @@ def mlb_totals(game):
 
     try:
         heritage = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 169}).get_text()
-        over, under = get_site_mlb(heritage)
+        over, under = get_site(heritage)
         if over:
             overs['heritage'] = over
             unders['heritage'] = under
@@ -31,7 +31,7 @@ def mlb_totals(game):
 
     try:
         sportsbetting = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 999991}).get_text()
-        over, under = get_site_mlb(sportsbetting)
+        over, under = get_site(sportsbetting)
         if over:
             overs['sportsbetting'] = over
             unders['sportsbetting'] = under
@@ -40,7 +40,7 @@ def mlb_totals(game):
 
     try:
         bovada = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 999996}).get_text()
-        over, under = get_site_mlb(bovada)
+        over, under = get_site(bovada)
         if over:
             overs['bovada'] = over
             unders['bovada'] = under
@@ -50,7 +50,7 @@ def mlb_totals(game):
     return overs, unders
 
 
-def get_site_mlb(odds):
+def get_site(odds):
     """Pass in odds"""
     if len(odds) == 14:
         # for lines with 1/2 or double digits
@@ -64,6 +64,8 @@ def get_site_mlb(odds):
         over = [float(odds[0:3].replace('½', '.5')), fix_neg(int(odds[4:7]))]
         under = [float(odds[0:3].replace('½', '.5')), fix_neg(int(odds[-4:]))]
     else:
+        # could add something for triple digit NCAAF lines
+        print(odds)
         return None, None
     return over, under
 
