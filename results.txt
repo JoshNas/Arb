@@ -386,3 +386,13 @@
 --------------------------------------------------
 2019-08-06 09:03:23.882008: Value on NFL Green Bay vs Chicago at sportsbetting over 45.5 -11 vs pinnacle under 46.0 104 
 --------------------------------------------------
+2019-08-06 09:05:53.281605: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-06 09:05:53.787772: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs bovada Buffalo 115 
+--------------------------------------------------
+2019-08-06 09:05:54.301847: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-06 09:05:54.817837: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs bovada Buffalo 115 
+--------------------------------------------------
+2019-08-06 09:05:55.341124: Value on NFL Green Bay vs Chicago at sportsbetting over 45.5 -11 vs pinnacle under 46.0 104 
+--------------------------------------------------
