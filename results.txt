@@ -846,3 +846,17 @@
 --------------------------------------------------
 2019-08-16 09:39:24.972009: Value on NCAAF Missouri vs Wyoming at bovada Missouri -100 vs heritage Wyoming 630 
 --------------------------------------------------
+2019-08-16 09:52:14.560980: Value on NCAAF Mississippi State vs Louisiana-Lafayette at heritage Mississippi State -145 vs pinnacle Louisiana-Lafayette 840 
+--------------------------------------------------
+2019-08-16 09:52:15.070765: Value on NCAAF Syracuse vs Liberty at bovada Syracuse -100 vs pinnacle Liberty 559 
+--------------------------------------------------
+2019-08-16 09:52:15.587438: Value on NCAAF Syracuse vs Liberty at bovada Syracuse -100 vs heritage Liberty 605 
+--------------------------------------------------
+2019-08-16 09:52:16.103182: Value on NCAAF Missouri vs Wyoming at bovada Missouri -100 vs pinnacle Wyoming 600 
+--------------------------------------------------
+2019-08-16 09:52:16.618233: Value on NCAAF Missouri vs Wyoming at bovada Missouri -100 vs heritage Wyoming 630 
+--------------------------------------------------
+2019-08-16 09:52:17.134473: Value on NCAAF Georgia vs Vanderbilt at heritage Georgia -118 vs pinnacle Vanderbilt 734 
+--------------------------------------------------
+2019-08-16 09:52:17.649056: Value on NCAAF Notre Dame vs Louisville at heritage Notre Dame -116 vs pinnacle Louisville 720 
+--------------------------------------------------

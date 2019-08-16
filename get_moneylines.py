@@ -8,50 +8,46 @@ def moneyline(game):
 
     try:
         pinnacle = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 238}).get_text()
-        print(pinnacle)
-        odds = re.split(r'(?<=\d)\D', pinnacle)
-        print(odds)
-        try:
-            away_odds['pinnacle'] = int(pinnacle[:4])
-            home_odds['pinnacle'] = int(pinnacle[4:])
-        except ValueError:
-            pass
+        away, home = clean(pinnacle)
+        if away:
+            away_odds['pinnacle'] = away
+            home_odds['pinnacle'] = home
     except AttributeError:
         pass
+
     try:
         bookmaker = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 93}).get_text()
-        try:
-            away_odds['bookmaker'] = int(bookmaker[:4])
-            home_odds['bookmaker'] = int(bookmaker[4:])
-        except ValueError:
-            pass
+        away, home = clean(bookmaker)
+        if away:
+            away_odds['bookmaker'] = away
+            home_odds['bookmaker'] = home
     except AttributeError:
         pass
+
     try:
         heritage = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 169}).get_text()
-        try:
-            away_odds['heritage'] = int(heritage[:4])
-            home_odds['heritage'] = int(heritage[4:])
-        except ValueError:
-            pass
+        away, home = clean(heritage)
+        if away:
+            away_odds['heritage'] = away
+            home_odds['heritage'] = home
     except AttributeError:
         pass
+
     try:
         sportsbetting = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 999991}).get_text()
-        try:
-            away_odds['sportsbetting'] = int(sportsbetting[:4])
-            home_odds['sportsbetting'] = int(sportsbetting[4:])
-        except ValueError:
-            pass
+        away, home = clean(sportsbetting)
+        if away:
+            away_odds['sportsbetting'] = away
+            home_odds['sportsbetting'] = home
     except AttributeError:
         pass
+
     try:
         bovada = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 999996}).get_text()
-        try:
-            away_odds['bovada'] = int(bovada[:4])
-            home_odds['bovada'] = int(bovada[4:])
-        except ValueError:
-            pass
+        away, home = clean(bovada)
+        if away:
+            away_odds['bovada'] = away
+            home_odds['bovada'] = home
     except AttributeError:
         pass
 
@@ -59,9 +55,23 @@ def moneyline(game):
 
 
 def clean(site):
+    """Splits site odds in first non-numeric character and converts to int. Checks if first value is positive or
+    negative and assign opposite to second value
+
+    Parameters:
+    site (str): '+130-145'
+
+    Returns:
+    ints: 130, -145
+
+    """
     odds = re.split(r'(?<=\d)\D', site)
-    away = int(odds[0])
-    home = int(odds[1])
-    if away > 0:
-        home = home * -1
-    return away, home
+    try:
+        away = int(odds[0])
+        home = int(odds[1])
+        if away > 0:
+            home = home * -1
+        return away, home
+    except ValueError:
+        # no odds for this site
+        return None, None
