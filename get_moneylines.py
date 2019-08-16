@@ -65,13 +65,17 @@ def clean(site):
     ints: 130, -145
 
     """
+    negatives = site.count('-')  # find out if both home and away or negative before splitting
     odds = re.split(r'(?<=\d)\D', site)
+
     try:
         away = int(odds[0])
         home = int(odds[1])
-        if away > 0:
+        if negatives == 2 or away > 0:
+            # convert home odds after losing sign on split
             home = home * -1
         return away, home
     except ValueError:
         # no odds for this site
+        print('\n')
         return None, None

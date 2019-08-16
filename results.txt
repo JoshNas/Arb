@@ -860,3 +860,393 @@
 --------------------------------------------------
 2019-08-16 09:52:17.649056: Value on NCAAF Notre Dame vs Louisville at heritage Notre Dame -116 vs pinnacle Louisville 720 
 --------------------------------------------------
+2019-08-16 09:57:31.961315: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 09:57:32.478774: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 09:57:32.993975: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 09:57:33.509222: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 09:57:34.024731: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 09:57:34.540748: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 09:57:35.051352: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 09:57:35.567135: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 09:57:36.082277: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 09:57:36.597456: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 09:57:37.114239: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 09:57:37.629625: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 09:57:38.144823: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 09:57:38.656328: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 09:57:39.171473: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 09:57:39.686850: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 09:57:40.201921: Value on MLB MIN vs TEX 8:05p current at bovada MIN -110 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 09:57:40.706632: Value on MLB CWS vs LAA 10:07p current at pinnacle CWS 105 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 09:57:41.221039: Value on MLB CWS vs LAA 10:07p current at bookmaker CWS 109 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 09:57:41.736154: Value on MLB CWS vs LAA 10:07p current at heritage CWS 107 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 09:57:42.256127: Value on MLB CWS vs LAA 10:07p current at sportsbetting CWS 106 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 09:57:42.768067: Value on MLB CWS vs LAA 10:07p current at bovada CWS -105 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 09:57:47.382731: Value on NFL San Francisco vs Tampa Bay at heritage San Francisco -105 vs heritage Tampa Bay 115 
+--------------------------------------------------
+2019-08-16 09:57:47.898146: Value on NFL San Francisco vs Tampa Bay at heritage San Francisco -105 vs bovada Tampa Bay 115 
+--------------------------------------------------
+2019-08-16 09:57:48.406207: Value on NFL San Francisco vs Tampa Bay at bovada San Francisco -105 vs heritage Tampa Bay 115 
+--------------------------------------------------
+2019-08-16 09:57:48.913513: Value on NFL San Francisco vs Tampa Bay at bovada San Francisco -105 vs bovada Tampa Bay 115 
+--------------------------------------------------
+2019-08-16 09:57:49.431485: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bookmaker L.A. Chargers -3.0 -119 
+--------------------------------------------------
+2019-08-16 09:57:49.947490: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bovada L.A. Chargers -3.0 -120 
+--------------------------------------------------
+2019-08-16 10:10:02.757979: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:10:03.274660: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:10:03.788853: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:10:04.295170: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:10:04.800427: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:10:05.317126: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:10:05.833971: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:10:06.351108: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:10:06.865433: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:10:07.382819: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:10:07.898299: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:10:08.406215: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:10:08.920791: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:10:09.436433: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:10:09.950735: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:10:10.466100: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:10:10.979465: Value on MLB MIN vs TEX 8:05p current at bovada MIN -110 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:10:11.496915: Value on MLB CWS vs LAA 10:07p current at pinnacle CWS 105 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:10:12.014434: Value on MLB CWS vs LAA 10:07p current at bookmaker CWS 109 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:10:12.529806: Value on MLB CWS vs LAA 10:07p current at heritage CWS 107 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:10:13.046544: Value on MLB CWS vs LAA 10:07p current at sportsbetting CWS 106 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:10:13.562139: Value on MLB CWS vs LAA 10:07p current at bovada CWS -105 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:10:59.791878: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:11:00.307854: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:11:00.823840: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:11:01.328904: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:11:01.845248: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:11:02.361160: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:11:02.876755: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:11:03.392836: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:11:03.906989: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:11:04.412623: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:11:04.927310: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:11:05.444110: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:11:05.959195: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:11:06.476082: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:11:06.991451: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:11:07.506552: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:11:08.014271: Value on MLB MIN vs TEX 8:05p current at bovada MIN -110 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:11:08.531773: Value on MLB CWS vs LAA 10:07p current at pinnacle CWS 105 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:11:09.047131: Value on MLB CWS vs LAA 10:07p current at bookmaker CWS 109 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:11:09.563298: Value on MLB CWS vs LAA 10:07p current at heritage CWS 107 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:11:10.080487: Value on MLB CWS vs LAA 10:07p current at sportsbetting CWS 106 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:11:10.595001: Value on MLB CWS vs LAA 10:07p current at bovada CWS -105 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:12:53.300738: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:12:53.809778: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:12:54.319237: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:12:54.824996: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:12:55.330760: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:12:55.835698: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:12:56.350639: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:12:56.861128: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:12:57.376847: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:12:57.897775: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:12:58.412785: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:12:58.930892: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:12:59.447367: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:12:59.963984: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:13:00.480477: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:13:00.996951: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:13:01.511353: Value on MLB MIN vs TEX 8:05p current at bovada MIN -110 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:13:02.020991: Value on MLB CWS vs LAA 10:07p current at pinnacle CWS 105 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:13:02.538311: Value on MLB CWS vs LAA 10:07p current at bookmaker CWS 109 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:13:03.047954: Value on MLB CWS vs LAA 10:07p current at heritage CWS 107 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:13:03.564593: Value on MLB CWS vs LAA 10:07p current at sportsbetting CWS 106 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:13:04.080055: Value on MLB CWS vs LAA 10:07p current at bovada CWS -105 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:13:39.559655: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:13:40.076304: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:13:40.591344: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:13:41.097426: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:13:41.606492: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:13:42.112036: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:13:42.627541: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:13:43.143093: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:13:43.660558: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:13:44.177424: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:13:44.692280: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:13:45.197448: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:13:45.702662: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:13:46.218943: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:13:46.735289: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:13:47.250819: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:13:47.767709: Value on MLB MIN vs TEX 8:05p current at bovada MIN -110 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:13:48.284197: Value on MLB CWS vs LAA 10:07p current at pinnacle CWS 105 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:13:48.796447: Value on MLB CWS vs LAA 10:07p current at bookmaker CWS 109 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:13:49.301149: Value on MLB CWS vs LAA 10:07p current at heritage CWS 107 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:13:49.817405: Value on MLB CWS vs LAA 10:07p current at sportsbetting CWS 106 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:13:50.329381: Value on MLB CWS vs LAA 10:07p current at bovada CWS -105 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:14:11.993957: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:14:12.508425: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:14:13.023788: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:14:13.533705: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:14:14.051283: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:14:14.565795: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:14:15.081659: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:14:15.587997: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:14:16.098147: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:14:16.614539: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:14:17.129255: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:14:17.633918: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:14:18.148710: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:14:18.658977: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:14:19.174152: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:14:19.690939: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:14:20.206414: Value on MLB MIN vs TEX 8:05p current at bovada MIN -110 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:14:20.715582: Value on MLB CWS vs LAA 10:07p current at pinnacle CWS 105 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:14:21.223639: Value on MLB CWS vs LAA 10:07p current at bookmaker CWS 109 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:14:21.740750: Value on MLB CWS vs LAA 10:07p current at heritage CWS 107 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:14:22.256622: Value on MLB CWS vs LAA 10:07p current at sportsbetting CWS 106 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:14:22.771499: Value on MLB CWS vs LAA 10:07p current at bovada CWS -105 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:14:52.716603: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:14:53.226990: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:14:53.738026: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:14:54.254235: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:14:54.767215: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:14:55.276709: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:14:55.783656: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:14:56.298095: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:14:56.813731: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:14:57.317818: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:14:57.821625: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:14:58.336877: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:14:58.852972: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:14:59.369381: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:14:59.884916: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:15:00.400477: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:15:00.914246: Value on MLB MIN vs TEX 8:05p current at bovada MIN -110 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:15:01.431216: Value on MLB CWS vs LAA 10:07p current at pinnacle CWS 105 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:15:01.946710: Value on MLB CWS vs LAA 10:07p current at bookmaker CWS 109 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:15:02.454529: Value on MLB CWS vs LAA 10:07p current at heritage CWS 107 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:15:15.435186: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:15:15.949806: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:15:16.455521: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:15:16.970692: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:15:17.474933: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:15:17.978740: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:15:18.493971: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:15:19.010375: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:15:19.527521: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:15:20.043595: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:15:20.559567: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:15:21.074397: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:15:21.583859: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:15:22.093104: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:15:22.609918: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:15:23.125705: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:15:23.641219: Value on MLB MIN vs TEX 8:05p current at bovada MIN -110 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:15:24.155277: Value on MLB CWS vs LAA 10:07p current at pinnacle CWS 105 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:15:24.670443: Value on MLB CWS vs LAA 10:07p current at bookmaker CWS 109 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:15:25.181751: Value on MLB CWS vs LAA 10:07p current at heritage CWS 107 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:15:25.697971: Value on MLB CWS vs LAA 10:07p current at sportsbetting CWS 106 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:15:26.213150: Value on MLB CWS vs LAA 10:07p current at bovada CWS -105 vs bovada LAA 115 
+--------------------------------------------------
+2019-08-16 10:18:05.933792: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:18:06.452252: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:18:06.958571: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:18:07.463244: Value on MLB MIN vs TEX 8:05p current at pinnacle MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:18:07.979628: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:18:08.484677: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:18:08.999230: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:18:09.508783: Value on MLB MIN vs TEX 8:05p current at bookmaker MIN -101 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:18:10.024761: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:18:10.540137: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs bookmaker TEX 109 
+--------------------------------------------------
+2019-08-16 10:18:11.056120: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs sportsbetting TEX 109 
+--------------------------------------------------
+2019-08-16 10:18:11.570850: Value on MLB MIN vs TEX 8:05p current at heritage MIN 100 vs bovada TEX 110 
+--------------------------------------------------
+2019-08-16 10:18:12.083499: Value on MLB MIN vs TEX 8:05p current at sportsbetting MIN -101 vs pinnacle TEX 107 
+--------------------------------------------------
+2019-08-16 10:19:53.724942: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bookmaker L.A. Chargers -3.0 -119 
+--------------------------------------------------
+2019-08-16 10:19:54.233422: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bovada L.A. Chargers -3.0 -120 
+--------------------------------------------------
