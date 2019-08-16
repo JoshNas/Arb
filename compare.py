@@ -8,7 +8,6 @@ def compare_ml(lines, sport):
             for home_site in game['home_odds']:
                 away_ml = game['away_odds'].get(away_site)
                 home_ml = game['home_odds'].get(home_site)
-                print(f"Comparing {game['game']} {away_site} {away_ml} vs {home_site} {home_ml}\n")
                 if away_ml + home_ml >= 0:
                     teams = game['game']
                     if sport == 'NFL' or sport == 'NCAAF':
