@@ -1,3 +1,6 @@
+import re
+
+
 def moneyline(game):
     # Get lines for each site we want to scrape
     away_odds = {}
@@ -5,6 +8,9 @@ def moneyline(game):
 
     try:
         pinnacle = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 238}).get_text()
+        print(pinnacle)
+        odds = re.split(r'(?<=\d)\D', pinnacle)
+        print(odds)
         try:
             away_odds['pinnacle'] = int(pinnacle[:4])
             home_odds['pinnacle'] = int(pinnacle[4:])
@@ -50,3 +56,12 @@ def moneyline(game):
         pass
 
     return away_odds, home_odds
+
+
+def clean(site):
+    odds = re.split(r'(?<=\d)\D', site)
+    away = int(odds[0])
+    home = int(odds[1])
+    if away > 0:
+        home = home * -1
+    return away, home

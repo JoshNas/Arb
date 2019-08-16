@@ -396,3 +396,453 @@
 --------------------------------------------------
 2019-08-06 09:05:55.341124: Value on NFL Green Bay vs Chicago at sportsbetting over 45.5 -11 vs pinnacle under 46.0 104 
 --------------------------------------------------
+2019-08-06 09:08:50.906515: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-06 09:08:51.411250: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs bovada Buffalo 115 
+--------------------------------------------------
+2019-08-06 09:08:51.915830: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-06 09:08:52.420534: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs bovada Buffalo 115 
+--------------------------------------------------
+2019-08-06 09:08:52.941619: Value on NFL Green Bay vs Chicago at sportsbetting over 45.5 -11 vs pinnacle under 46.0 104 
+--------------------------------------------------
+2019-08-06 09:18:13.122231: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-06 09:18:13.641129: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs bovada Buffalo 115 
+--------------------------------------------------
+2019-08-06 09:18:14.158154: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-06 09:18:14.674284: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs bovada Buffalo 115 
+--------------------------------------------------
+2019-08-06 09:18:15.186538: Value on NFL Green Bay vs Chicago at sportsbetting over 45.5 -11 vs pinnacle under 46.0 104 
+--------------------------------------------------
+2019-08-06 09:20:35.754534: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-06 09:20:36.307055: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs bovada Buffalo 115 
+--------------------------------------------------
+2019-08-06 09:20:36.815696: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-06 09:20:37.326594: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs bovada Buffalo 115 
+--------------------------------------------------
+2019-08-06 09:20:37.861629: Value on NFL Green Bay vs Chicago at sportsbetting over 45.5 -11 vs pinnacle under 46.0 104 
+--------------------------------------------------
+2019-08-06 09:44:40.800115: Value on MLB WSH vs SF 9:45p current at heritage WSH -109 vs pinnacle SF 109 
+--------------------------------------------------
+2019-08-06 09:44:41.320032: Value on MLB WSH vs SF 9:45p current at sportsbetting WSH -109 vs pinnacle SF 109 
+--------------------------------------------------
+2019-08-06 09:50:35.018808: Value on MLB STL vs LAD 10:10p current at bovada STL 1.5 -110 vs pinnacle LAD -1.5 111 
+--------------------------------------------------
+2019-08-06 09:51:45.474183: Value on MLB STL vs LAD 10:10p current at bovada STL 1.5 -110 vs heritage LAD -1.5 110 
+--------------------------------------------------
+2019-08-06 11:39:13.820648: Value on MLB MIA vs NYM 7:10p current at bookmaker MIA 1.5 115 vs pinnacle NYM -1.5 -105 
+--------------------------------------------------
+2019-08-06 11:39:14.333763: Value on MLB MIA vs NYM 7:10p current at bookmaker MIA 1.5 115 vs sportsbetting NYM -1.5 -113 
+--------------------------------------------------
+2019-08-06 11:39:14.845932: Value on MLB MIA vs NYM 7:10p current at heritage MIA 1.5 130 vs pinnacle NYM -1.5 -105 
+--------------------------------------------------
+2019-08-06 11:39:15.361400: Value on MLB MIA vs NYM 7:10p current at heritage MIA 1.5 130 vs sportsbetting NYM -1.5 -113 
+--------------------------------------------------
+2019-08-06 11:39:15.875229: Value on MLB MIA vs NYM 7:10p current at bovada MIA 1.5 130 vs pinnacle NYM -1.5 -105 
+--------------------------------------------------
+2019-08-06 11:39:16.386700: Value on MLB MIA vs NYM 7:10p current at bovada MIA 1.5 130 vs sportsbetting NYM -1.5 -113 
+--------------------------------------------------
+2019-08-06 11:39:20.738402: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-06 11:39:21.252449: Value on NFL Indianapolis vs Buffalo at pinnacle Indianapolis -106 vs bovada Buffalo 115 
+--------------------------------------------------
+2019-08-06 11:39:21.765869: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs heritage Buffalo 110 
+--------------------------------------------------
+2019-08-06 11:39:22.277139: Value on NFL Indianapolis vs Buffalo at sportsbetting Indianapolis 105 vs bovada Buffalo 115 
+--------------------------------------------------
+2019-08-06 11:39:22.788648: Value on NFL Green Bay vs Chicago at sportsbetting over 45.5 -11 vs pinnacle under 46.0 104 
+--------------------------------------------------
+2019-08-06 11:40:33.014401: Value on MLB MIA vs NYM 7:10p current at bookmaker MIA 1.5 125 vs pinnacle NYM -1.5 -105 
+--------------------------------------------------
+2019-08-06 11:40:33.519075: Value on MLB MIA vs NYM 7:10p current at bookmaker MIA 1.5 125 vs sportsbetting NYM -1.5 -113 
+--------------------------------------------------
+2019-08-06 14:01:41.254472: Value on NFL Green Bay vs Chicago at sportsbetting over 45.5 -11 vs pinnacle under 46.0 104 
+--------------------------------------------------
+2019-08-06 14:02:15.483942: Value on MLB NYY vs BAL 7:05p current at bookmaker NYY 183 vs pinnacle BAL 186 
+--------------------------------------------------
+2019-08-06 14:02:15.990225: Value on MLB NYY vs BAL 7:05p current at bookmaker NYY 183 vs heritage BAL 183 
+--------------------------------------------------
+2019-08-06 14:02:16.495584: Value on MLB NYY vs BAL 7:05p current at bookmaker NYY 183 vs sportsbetting BAL 185 
+--------------------------------------------------
+2019-08-06 14:02:17.000073: Value on MLB NYY vs BAL 7:05p current at bookmaker NYY 183 vs bovada BAL 180 
+--------------------------------------------------
+2019-08-06 15:13:01.057543: Value on NFL Green Bay vs Chicago at sportsbetting over 45.5 -11 vs pinnacle under 46.0 104 
+--------------------------------------------------
+2019-08-06 15:39:43.214457: Value on MLB MIL vs PIT 7:05p current at pinnacle MIL -142 vs sportsbetting PIT 146 
+--------------------------------------------------
+2019-08-06 15:40:19.427008: Value on MLB MIL vs PIT 7:05p current at pinnacle MIL -141 vs heritage PIT 141 
+--------------------------------------------------
+2019-08-06 15:40:19.934806: Value on MLB MIL vs PIT 7:05p current at sportsbetting MIL -140 vs bookmaker PIT 140 
+--------------------------------------------------
+2019-08-06 15:40:20.441378: Value on MLB MIL vs PIT 7:05p current at sportsbetting MIL -140 vs heritage PIT 141 
+--------------------------------------------------
+2019-08-06 15:40:20.946163: Value on MLB MIL vs PIT 7:05p current at sportsbetting MIL -140 vs bovada PIT 140 
+--------------------------------------------------
+2019-08-06 15:40:57.825994: Value on MLB MIL vs PIT 7:05p current at heritage MIL -1.5 110 vs bovada PIT 1.5 -110 
+--------------------------------------------------
+2019-08-06 15:58:46.375599: Value on MLB COL vs HOU 8:10p current at bovada COL 1.5 105 vs pinnacle HOU -1.5 -103 
+--------------------------------------------------
+2019-08-06 15:59:58.524447: Value on MLB COL vs HOU 8:10p current at bovada COL 1.5 105 vs pinnacle HOU -1.5 -104 
+--------------------------------------------------
+2019-08-06 16:01:10.868324: Value on MLB STL vs LAD 10:10p current at heritage STL 1.5 -105 vs pinnacle LAD -1.5 106 
+--------------------------------------------------
+2019-08-06 16:01:11.375137: Value on MLB STL vs LAD 10:10p current at bovada STL 1.5 -105 vs pinnacle LAD -1.5 106 
+--------------------------------------------------
+2019-08-06 16:46:16.665580: Value on MLB LAA vs CIN 7:10p current at heritage LAA 1.5 -140 vs pinnacle CIN -1.5 140 
+--------------------------------------------------
+2019-08-06 16:46:17.169999: Value on MLB COL vs HOU 8:10p current at bovada COL 1.5 105 vs pinnacle HOU -1.5 -105 
+--------------------------------------------------
+2019-08-06 17:01:07.633582: Value on MLB MIA vs NYM 7:10p current at bovada MIA 1.5 125 vs pinnacle NYM -1.5 -125 
+--------------------------------------------------
+2019-08-06 17:58:22.096068: Value on MLB COL vs HOU 8:10p current at bovada COL 1.5 110 vs pinnacle HOU -1.5 -110 
+--------------------------------------------------
+2019-08-06 17:58:26.650172: Value on NFL Green Bay vs Chicago at sportsbetting over 45.5 -11 vs pinnacle under 46.0 104 
+--------------------------------------------------
+2019-08-06 18:09:02.316375: Value on MLB LAA vs CIN 7:10p current at bovada LAA 1.5 -140 vs pinnacle CIN -1.5 141 
+--------------------------------------------------
+2019-08-06 18:10:13.870869: Value on MLB LAA vs CIN 7:10p current at bovada LAA 1.5 -140 vs heritage CIN -1.5 140 
+--------------------------------------------------
+2019-08-06 18:26:10.112274: Value on MLB ATL vs MIN 1:10p next at heritage ATL 1.5 -165 vs pinnacle MIN -1.5 166 
+--------------------------------------------------
+2019-08-06 18:55:40.426570: Value on MLB MIL vs PIT 7:05p current at heritage MIL -1.5 110 vs bovada PIT 1.5 -110 
+--------------------------------------------------
+2019-08-06 19:01:01.266720: Value on MLB TOR vs TB 7:10p current at heritage TOR 1.5 100 vs pinnacle TB -1.5 -100 
+--------------------------------------------------
+2019-08-06 19:04:35.018851: Value on MLB TOR vs TB 7:10p current at bovada TOR 195 vs pinnacle TB -193 
+--------------------------------------------------
+2019-08-06 19:06:57.454820: Value on MLB MIA vs NYM 7:10p current at bovada MIA 1.5 125 vs pinnacle NYM -1.5 -123 
+--------------------------------------------------
+2019-08-06 19:06:57.977466: Value on MLB LAA vs CIN 7:10p current at bovada LAA 1.5 -150 vs heritage CIN -1.5 150 
+--------------------------------------------------
+2019-08-06 19:06:58.481767: Value on MLB KC vs BOS 7:10p current at bovada KC 1.5 100 vs heritage BOS -1.5 100 
+--------------------------------------------------
+2019-08-06 19:06:58.995873: Value on MLB MIA vs NYM 7:10p current at bovada MIA 240 vs pinnacle NYM -238 
+--------------------------------------------------
+2019-08-06 19:06:59.504067: Value on MLB TOR vs TB 7:10p current at bovada TOR 195 vs pinnacle TB -192 
+--------------------------------------------------
+2019-08-06 19:08:11.381039: Value on MLB MIA vs NYM 7:10p current at bovada MIA 240 vs sportsbetting NYM -240 
+--------------------------------------------------
+2019-08-06 19:08:11.885862: Value on MLB CWS vs DET 7:10p current at pinnacle CWS 108 vs bovada DET -108 
+--------------------------------------------------
+2019-08-06 19:09:24.463056: Value on MLB MIA vs NYM 7:10p current at bovada MIA 240 vs pinnacle NYM -240 
+--------------------------------------------------
+2019-08-06 19:10:01.159233: Value on MLB MIA vs NYM 7:10p current at bovada MIA 1.5 125 vs pinnacle NYM -1.5 -121 
+--------------------------------------------------
+2019-08-06 19:10:01.664364: Value on MLB KC vs BOS 7:10p current at sportsbetting KC 1.5 100 vs heritage BOS -1.5 100 
+--------------------------------------------------
+2019-08-06 19:10:02.173614: Value on MLB MIA vs NYM 7:10p current at bovada MIA 240 vs pinnacle NYM -239 
+--------------------------------------------------
+2019-08-06 19:35:52.949188: Value on MLB ATL vs MIN 8:10p current at bovada ATL 1.5 -115 vs bookmaker MIN -1.5 117 
+--------------------------------------------------
+2019-08-06 19:35:53.458094: Value on MLB ATL vs MIN 8:10p current at bovada ATL 1.5 -115 vs heritage MIN -1.5 115 
+--------------------------------------------------
+2019-08-06 19:35:53.963268: Value on MLB COL vs HOU 8:10p current at bovada COL 1.5 115 vs pinnacle HOU -1.5 -115 
+--------------------------------------------------
+2019-08-06 19:35:54.475593: Value on MLB COL vs HOU 8:10p current at bovada COL 1.5 115 vs heritage HOU -1.5 -115 
+--------------------------------------------------
+2019-08-06 19:46:07.413973: Value on MLB ATL vs MIN 8:10p current at bovada ATL 1.5 -115 vs pinnacle MIN -1.5 115 
+--------------------------------------------------
+2019-08-06 21:30:50.666828: Value on NFL Green Bay vs Chicago at sportsbetting over 45.5 -11 vs pinnacle under 46.0 104 
+--------------------------------------------------
+2019-08-06 21:54:40.984244: Value on MLB STL vs LAD 10:10p current at heritage STL 1.5 100 vs pinnacle LAD -1.5 101 
+--------------------------------------------------
+2019-08-06 21:54:41.489709: Value on MLB STL vs LAD 10:10p current at bovada STL 1.5 100 vs pinnacle LAD -1.5 101 
+--------------------------------------------------
+2019-08-06 21:55:54.273283: Value on MLB STL vs LAD 10:10p current at heritage STL 1.5 100 vs pinnacle LAD -1.5 -100 
+--------------------------------------------------
+2019-08-06 21:55:54.781719: Value on MLB STL vs LAD 10:10p current at bovada STL 1.5 100 vs pinnacle LAD -1.5 -100 
+--------------------------------------------------
+2019-08-07 09:25:29.524260: Value on MLB COL vs HOU 2:10p current at bovada COL 1.5 170 vs pinnacle HOU -1.5 -170 
+--------------------------------------------------
+2019-08-07 09:25:34.018306: Value on NFL Green Bay vs Chicago at sportsbetting over 45.5 -11 vs pinnacle under 46.0 104 
+--------------------------------------------------
+2019-08-07 09:56:37.993350: Value on MLB MIL vs PIT 7:05p current at pinnacle MIL -114 vs sportsbetting PIT 114 
+--------------------------------------------------
+2019-08-07 10:00:09.751059: Value on MLB MIL vs PIT 7:05p current at heritage MIL -119 vs pinnacle PIT 120 
+--------------------------------------------------
+2019-08-07 10:00:10.266615: Value on MLB MIL vs PIT 7:05p current at sportsbetting MIL -117 vs pinnacle PIT 120 
+--------------------------------------------------
+2019-08-07 10:07:48.714736: Value on MLB ATL vs MIN 1:10p current at pinnacle ATL -107 vs heritage MIN 107 
+--------------------------------------------------
+2019-08-07 10:51:24.894161: Value on MLB MIL vs PIT 7:05p current at sportsbetting MIL -116 vs bookmaker PIT 116 
+--------------------------------------------------
+2019-08-07 11:18:36.000325: Value on NFL Tennessee vs Philadelphia at bovada Tennessee 155 vs bookmaker Philadelphia -154 
+--------------------------------------------------
+2019-08-07 11:39:47.329373: Value on MLB COL vs HOU 2:10p current at bovada COL 1.5 170 vs heritage HOU -1.5 -170 
+--------------------------------------------------
+2019-08-07 11:47:28.379325: Value on MLB TOR vs TB 1:10p current at heritage TOR 1.5 110 vs bookmaker TB -1.5 -110 
+--------------------------------------------------
+2019-08-07 11:52:14.772212: Value on MLB ATL vs MIN 1:10p current at bovada ATL -108 vs pinnacle MIN 109 
+--------------------------------------------------
+2019-08-07 11:53:25.900730: Value on MLB ATL vs MIN 1:10p current at bovada ATL -108 vs heritage MIN 108 
+--------------------------------------------------
+2019-08-07 11:58:08.894946: Value on MLB TEX vs CLE 1:10p current at heritage TEX 1.5 100 vs bookmaker CLE -1.5 100 
+--------------------------------------------------
+2019-08-07 12:20:21.955443: Value on MLB STL vs LAD 3:10p current at bovada STL 1.5 -155 vs pinnacle LAD -1.5 155 
+--------------------------------------------------
+2019-08-07 12:23:17.698410: Value on MLB OAK vs CHC 2:20p current at bovada OAK 1.5 -140 vs pinnacle CHC -1.5 142 
+--------------------------------------------------
+2019-08-07 12:24:27.866903: Value on MLB OAK vs CHC 2:20p current at bovada OAK 1.5 -140 vs pinnacle CHC -1.5 140 
+--------------------------------------------------
+2019-08-07 12:45:35.567599: Value on MLB COL vs HOU 2:10p current at bovada COL 1.5 180 vs pinnacle HOU -1.5 -180 
+--------------------------------------------------
+2019-08-07 12:46:10.993991: Value on MLB COL vs HOU 2:10p current at bovada COL 1.5 180 vs pinnacle HOU -1.5 -177 
+--------------------------------------------------
+2019-08-07 12:47:21.886361: Value on MLB COL vs HOU 2:10p current at bovada COL 1.5 180 vs pinnacle HOU -1.5 -179 
+--------------------------------------------------
+2019-08-07 12:47:57.932166: Value on MLB COL vs HOU 2:10p current at heritage COL 1.5 171 vs pinnacle HOU -1.5 -171 
+--------------------------------------------------
+2019-08-07 12:47:58.436615: Value on MLB COL vs HOU 2:10p current at bovada COL 1.5 180 vs pinnacle HOU -1.5 -171 
+--------------------------------------------------
+2019-08-07 12:48:33.706326: Value on MLB COL vs HOU 2:10p current at bovada COL 1.5 180 vs pinnacle HOU -1.5 -174 
+--------------------------------------------------
+2019-08-07 12:48:34.224956: Value on MLB COL vs HOU 2:10p current at bovada COL 1.5 180 vs sportsbetting HOU -1.5 -180 
+--------------------------------------------------
+2019-08-07 12:50:54.744212: Value on MLB COL vs HOU 2:10p current at bovada COL 1.5 180 vs heritage HOU -1.5 -179 
+--------------------------------------------------
+2019-08-07 12:52:07.620773: Value on MLB COL vs HOU 2:10p current at bovada COL 1.5 180 vs pinnacle HOU -1.5 -176 
+--------------------------------------------------
+2019-08-07 13:01:53.005250: Value on MLB COL vs HOU 2:10p current at bovada COL 1.5 175 vs pinnacle HOU -1.5 -174 
+--------------------------------------------------
+2019-08-07 14:50:10.309638: Value on NFL Green Bay vs Chicago at sportsbetting over 45.5 -11 vs pinnacle under 46.0 104 
+--------------------------------------------------
+2019-08-07 15:09:24.179537: Value on MLB STL vs LAD 3:10p current at bovada STL 1.5 -165 vs heritage LAD -1.5 166 
+--------------------------------------------------
+2019-08-07 15:59:35.436381: Value on NFL Denver vs Seattle at bookmaker Denver -103 vs pinnacle Seattle 108 
+--------------------------------------------------
+2019-08-07 15:59:35.941855: Value on NFL Denver vs Seattle at heritage Denver -105 vs pinnacle Seattle 108 
+--------------------------------------------------
+2019-08-07 15:59:36.445912: Value on NFL Denver vs Seattle at sportsbetting Denver -102 vs pinnacle Seattle 108 
+--------------------------------------------------
+2019-08-07 15:59:36.950010: Value on NFL Denver vs Seattle at bovada Denver 100 vs pinnacle Seattle 108 
+--------------------------------------------------
+2019-08-07 15:59:37.454987: Value on NFL Denver vs Seattle at bookmaker Denver 1.0 -110 vs pinnacle Seattle -1.0 114 
+--------------------------------------------------
+2019-08-07 15:59:37.959818: Value on NFL Denver vs Seattle at sportsbetting Denver 1.0 -108 vs pinnacle Seattle -1.0 114 
+--------------------------------------------------
+2019-08-07 15:59:38.463844: Value on NFL Denver vs Seattle at bovada Denver 1.0 -110 vs pinnacle Seattle -1.0 114 
+--------------------------------------------------
+2019-08-07 16:00:14.478886: Value on NFL Denver vs Seattle at bookmaker Denver -103 vs pinnacle Seattle 114 
+--------------------------------------------------
+2019-08-07 16:00:14.983151: Value on NFL Denver vs Seattle at heritage Denver -105 vs pinnacle Seattle 114 
+--------------------------------------------------
+2019-08-07 16:00:15.487093: Value on NFL Denver vs Seattle at sportsbetting Denver -102 vs pinnacle Seattle 114 
+--------------------------------------------------
+2019-08-07 16:00:15.991773: Value on NFL Denver vs Seattle at bovada Denver 100 vs pinnacle Seattle 114 
+--------------------------------------------------
+2019-08-07 16:00:48.504779: Value on MLB MIL vs PIT 7:05p current at sportsbetting MIL -115 vs bookmaker PIT 115 
+--------------------------------------------------
+2019-08-07 16:00:52.989825: Value on NFL Denver vs Seattle at bookmaker Denver -103 vs pinnacle Seattle 115 
+--------------------------------------------------
+2019-08-07 16:00:53.494502: Value on NFL Denver vs Seattle at bookmaker Denver -103 vs sportsbetting Seattle 115 
+--------------------------------------------------
+2019-08-07 16:00:53.999270: Value on NFL Denver vs Seattle at heritage Denver -105 vs pinnacle Seattle 115 
+--------------------------------------------------
+2019-08-07 16:00:54.503282: Value on NFL Denver vs Seattle at heritage Denver -105 vs sportsbetting Seattle 115 
+--------------------------------------------------
+2019-08-07 16:00:55.007780: Value on NFL Denver vs Seattle at bovada Denver 100 vs pinnacle Seattle 115 
+--------------------------------------------------
+2019-08-07 16:00:55.511974: Value on NFL Denver vs Seattle at bovada Denver 100 vs sportsbetting Seattle 115 
+--------------------------------------------------
+2019-08-07 16:01:31.547888: Value on NFL Denver vs Seattle at bovada Denver 100 vs heritage Seattle 100 
+--------------------------------------------------
+2019-08-07 16:02:07.444970: Value on NFL Denver vs Seattle at bookmaker Denver -103 vs pinnacle Seattle 118 
+--------------------------------------------------
+2019-08-07 16:02:07.958185: Value on NFL Denver vs Seattle at bovada Denver 100 vs pinnacle Seattle 118 
+--------------------------------------------------
+2019-08-07 16:03:19.098202: Value on NFL Denver vs Seattle at bookmaker Denver -103 vs pinnacle Seattle 120 
+--------------------------------------------------
+2019-08-07 16:03:19.602248: Value on NFL Denver vs Seattle at bookmaker Denver -103 vs heritage Seattle 110 
+--------------------------------------------------
+2019-08-07 16:03:20.107409: Value on NFL Denver vs Seattle at bookmaker Denver -103 vs sportsbetting Seattle 118 
+--------------------------------------------------
+2019-08-07 16:03:20.611565: Value on NFL Denver vs Seattle at bovada Denver 100 vs pinnacle Seattle 120 
+--------------------------------------------------
+2019-08-07 16:03:21.115868: Value on NFL Denver vs Seattle at bovada Denver 100 vs heritage Seattle 110 
+--------------------------------------------------
+2019-08-07 16:03:21.620922: Value on NFL Denver vs Seattle at bovada Denver 100 vs sportsbetting Seattle 118 
+--------------------------------------------------
+2019-08-07 16:03:57.720103: Value on NFL Denver vs Seattle at bookmaker Denver -103 vs pinnacle Seattle 127 
+--------------------------------------------------
+2019-08-07 16:03:58.225721: Value on NFL Denver vs Seattle at bovada Denver 100 vs pinnacle Seattle 127 
+--------------------------------------------------
+2019-08-07 16:05:10.084102: Value on NFL Denver vs Seattle at bookmaker Denver -103 vs pinnacle Seattle 125 
+--------------------------------------------------
+2019-08-07 16:05:10.588427: Value on NFL Denver vs Seattle at bovada Denver 100 vs pinnacle Seattle 125 
+--------------------------------------------------
+2019-08-07 16:05:45.343077: Value on NFL Denver vs Seattle at bookmaker Denver -103 vs sportsbetting Seattle 125 
+--------------------------------------------------
+2019-08-07 16:05:45.847170: Value on NFL Denver vs Seattle at bovada Denver 100 vs sportsbetting Seattle 125 
+--------------------------------------------------
+2019-08-07 16:06:58.504065: Value on NFL Denver vs Seattle at bookmaker Denver -103 vs pinnacle Seattle 126 
+--------------------------------------------------
+2019-08-07 16:06:59.008428: Value on NFL Denver vs Seattle at bovada Denver 100 vs pinnacle Seattle 126 
+--------------------------------------------------
+2019-08-07 16:07:34.235362: Value on NFL Denver vs Seattle at bookmaker Denver -103 vs heritage Seattle 115 
+--------------------------------------------------
+2019-08-07 16:07:34.740216: Value on NFL Denver vs Seattle at bovada Denver 100 vs heritage Seattle 115 
+--------------------------------------------------
+2019-08-08 10:25:06.488312: Value on NFL Green Bay vs Chicago at sportsbetting over 45.5 -11 vs pinnacle under 46.0 104 
+--------------------------------------------------
+2019-08-08 10:40:21.251763: Value on NFL Indianapolis vs Buffalo at sportsbetting over 34.5 -12 vs pinnacle under 35.0 100 
+--------------------------------------------------
+2019-08-08 10:40:21.761840: Value on NFL Indianapolis vs Buffalo at bovada over 34.5 -11 vs pinnacle under 35.0 100 
+--------------------------------------------------
+2019-08-08 10:42:07.516169: Value on NFL Carolina vs Chicago at pinnacle Carolina 3.0 109 vs sportsbetting Chicago -3.0 -109 
+--------------------------------------------------
+2019-08-08 10:42:55.273981: Value on NFL Carolina vs Chicago at pinnacle Carolina 3.0 109 vs sportsbetting Chicago -3.0 -109 
+--------------------------------------------------
+2019-08-08 10:43:17.307970: Value on NFL Carolina vs Chicago at sportsbetting Carolina 165 vs bookmaker Chicago -165 
+--------------------------------------------------
+2019-08-08 10:43:17.824310: Value on NFL Carolina vs Chicago at sportsbetting Carolina 165 vs heritage Chicago -160 
+--------------------------------------------------
+2019-08-08 10:43:18.340565: Value on NFL Carolina vs Chicago at sportsbetting Carolina 165 vs bovada Chicago -165 
+--------------------------------------------------
+2019-08-08 10:43:18.858990: Value on NFL Carolina vs Chicago at pinnacle Carolina 3.0 109 vs sportsbetting Chicago -3.0 -109 
+--------------------------------------------------
+2019-08-08 10:43:47.650911: Value on NFL Carolina vs Chicago at sportsbetting Carolina 3.0 110 vs heritage Chicago -3.0 -110 
+--------------------------------------------------
+2019-08-08 10:43:57.946975: Value on NFL Carolina vs Chicago at sportsbetting Carolina 165 vs bookmaker Chicago -165 
+--------------------------------------------------
+2019-08-08 10:43:58.464383: Value on NFL Carolina vs Chicago at sportsbetting Carolina 165 vs heritage Chicago -160 
+--------------------------------------------------
+2019-08-08 10:43:58.969946: Value on NFL Carolina vs Chicago at sportsbetting Carolina 165 vs bovada Chicago -165 
+--------------------------------------------------
+2019-08-08 10:43:59.489413: Value on NFL Carolina vs Chicago at sportsbetting Carolina 3.0 110 vs heritage Chicago -3.0 -110 
+--------------------------------------------------
+2019-08-08 10:46:21.763274: Value on NFL Carolina vs Chicago at bovada Carolina 165 vs bookmaker Chicago -165 
+--------------------------------------------------
+2019-08-08 11:53:21.478339: Value on NFL Washington vs Cleveland at pinnacle Washington 104 vs bookmaker Cleveland 103 
+--------------------------------------------------
+2019-08-08 11:53:21.993440: Value on NFL Washington vs Cleveland at pinnacle Washington 104 vs bovada Cleveland 100 
+--------------------------------------------------
+2019-08-08 11:56:11.945862: Value on NFL Washington vs Cleveland at pinnacle Washington 113 vs bookmaker Cleveland 103 
+--------------------------------------------------
+2019-08-08 11:56:12.463205: Value on NFL Washington vs Cleveland at pinnacle Washington 113 vs sportsbetting Cleveland -105 
+--------------------------------------------------
+2019-08-08 11:56:12.967459: Value on NFL Washington vs Cleveland at pinnacle Washington 113 vs bovada Cleveland 100 
+--------------------------------------------------
+2019-08-08 11:57:37.082201: Value on NFL Washington vs Cleveland at pinnacle Washington 111 vs bookmaker Cleveland 103 
+--------------------------------------------------
+2019-08-08 11:57:37.600735: Value on NFL Washington vs Cleveland at pinnacle Washington 111 vs sportsbetting Cleveland -105 
+--------------------------------------------------
+2019-08-08 11:57:38.116153: Value on NFL Washington vs Cleveland at pinnacle Washington 111 vs bovada Cleveland 100 
+--------------------------------------------------
+2019-08-08 11:57:38.627127: Value on NFL Washington vs Cleveland at heritage Washington 100 vs bookmaker Cleveland 103 
+--------------------------------------------------
+2019-08-08 11:57:39.145163: Value on NFL Washington vs Cleveland at heritage Washington 100 vs bovada Cleveland 100 
+--------------------------------------------------
+2019-08-08 11:58:07.765935: Value on NFL Washington vs Cleveland at bookmaker Washington 103 vs bovada Cleveland 100 
+--------------------------------------------------
+2019-08-08 11:59:31.833556: Value on NFL Washington vs Cleveland at heritage Washington 105 vs sportsbetting Cleveland -105 
+--------------------------------------------------
+2019-08-08 11:59:32.338678: Value on NFL Washington vs Cleveland at heritage Washington 105 vs bovada Cleveland 100 
+--------------------------------------------------
+2019-08-08 12:01:53.546255: Value on NFL Washington vs Cleveland at sportsbetting Washington 110 vs bovada Cleveland 100 
+--------------------------------------------------
+2019-08-08 12:14:30.932146: Value on NFL Denver vs Seattle at pinnacle Denver -3.5 109 vs bookmaker Seattle 3.5 -105 
+--------------------------------------------------
+2019-08-08 12:14:31.439230: Value on NFL Denver vs Seattle at pinnacle Denver -3.5 109 vs sportsbetting Seattle 3.5 -108 
+--------------------------------------------------
+2019-08-08 12:14:31.943252: Value on NFL Denver vs Seattle at pinnacle Denver -3.5 109 vs bovada Seattle 3.5 -105 
+--------------------------------------------------
+2019-08-08 12:15:29.830860: Value on NFL Denver vs Seattle at pinnacle Denver -162 vs bookmaker Seattle 163 
+--------------------------------------------------
+2019-08-08 12:15:58.221402: Value on NFL Denver vs Seattle at sportsbetting Denver -3.5 105 vs bookmaker Seattle 3.5 -105 
+--------------------------------------------------
+2019-08-08 12:15:58.726117: Value on NFL Denver vs Seattle at sportsbetting Denver -3.5 105 vs bovada Seattle 3.5 -105 
+--------------------------------------------------
+2019-08-08 12:16:54.858632: Value on NFL Denver vs Seattle at pinnacle Denver -158 vs bookmaker Seattle 163 
+--------------------------------------------------
+2019-08-08 12:16:55.363067: Value on NFL Denver vs Seattle at pinnacle Denver -158 vs bovada Seattle 160 
+--------------------------------------------------
+2019-08-08 12:19:44.716756: Value on NFL Carolina vs Chicago at bookmaker Carolina 148 vs pinnacle Chicago -148 
+--------------------------------------------------
+2019-08-08 12:19:45.222742: Value on NFL Denver vs Seattle at sportsbetting Denver -160 vs bookmaker Seattle 163 
+--------------------------------------------------
+2019-08-08 12:43:07.627227: Value on NFL N.Y. Jets vs N.Y. Giants at heritage N.Y. Jets -130 vs pinnacle N.Y. Giants 131 
+--------------------------------------------------
+2019-08-08 12:43:08.131748: Value on NFL N.Y. Jets vs N.Y. Giants at heritage N.Y. Jets -130 vs sportsbetting N.Y. Giants 130 
+--------------------------------------------------
+2019-08-08 12:43:08.636007: Value on NFL N.Y. Jets vs N.Y. Giants at heritage N.Y. Jets -130 vs bovada N.Y. Giants 130 
+--------------------------------------------------
+2019-08-08 12:43:37.197364: Value on NFL N.Y. Jets vs N.Y. Giants at heritage N.Y. Jets -130 vs pinnacle N.Y. Giants 135 
+--------------------------------------------------
+2019-08-08 19:29:36.261682: Value on NFL New England vs Detroit at bovada New England 2.5 -105 vs sportsbetting Detroit -2.5 109 
+--------------------------------------------------
+2019-08-12 11:32:56.118156: Value on NFL Seattle vs Minnesota at pinnacle Seattle 3.5 106 vs bookmaker Minnesota -3.5 -105 
+--------------------------------------------------
+2019-08-12 11:32:56.623802: Value on NFL Seattle vs Minnesota at sportsbetting Seattle 3.5 105 vs bookmaker Minnesota -3.5 -105 
+--------------------------------------------------
+2019-08-12 11:35:45.997234: Value on NFL Cleveland vs Indianapolis at bovada Cleveland 0.0 -110 vs pinnacle Indianapolis 0.0 112 
+--------------------------------------------------
+2019-08-12 11:37:37.673095: Value on NFL Cleveland vs Indianapolis at bovada Cleveland 0.0 -110 vs sportsbetting Indianapolis 0.0 110 
+--------------------------------------------------
+2019-08-12 11:46:02.246291: Value on NFL Dallas vs L.A. Rams at bovada Dallas 3.0 -125 vs pinnacle L.A. Rams -3.0 131 
+--------------------------------------------------
+2019-08-14 10:39:38.624450: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bookmaker L.A. Chargers -3.0 -119 
+--------------------------------------------------
+2019-08-14 10:39:39.135435: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bovada L.A. Chargers -3.0 -120 
+--------------------------------------------------
+2019-08-14 17:01:05.070888: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bookmaker L.A. Chargers -3.0 -119 
+--------------------------------------------------
+2019-08-14 17:01:05.588392: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bovada L.A. Chargers -3.0 -120 
+--------------------------------------------------
+2019-08-15 17:24:08.828381: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bookmaker L.A. Chargers -3.0 -119 
+--------------------------------------------------
+2019-08-15 17:24:09.334919: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bovada L.A. Chargers -3.0 -120 
+--------------------------------------------------
+2019-08-15 17:41:54.186537: Value on NFL Cleveland vs Indianapolis at bookmaker Cleveland 156 vs sportsbetting Indianapolis -150 
+--------------------------------------------------
+2019-08-15 17:41:54.691286: Value on NFL Cleveland vs Indianapolis at heritage Cleveland 150 vs sportsbetting Indianapolis -150 
+--------------------------------------------------
+2019-08-15 17:41:55.196714: Value on NFL Cleveland vs Indianapolis at bovada Cleveland 150 vs sportsbetting Indianapolis -150 
+--------------------------------------------------
+2019-08-15 17:42:51.593225: Value on NFL Cleveland vs Indianapolis at bovada Cleveland 3.0 100 vs pinnacle Indianapolis -3.0 100 
+--------------------------------------------------
+2019-08-15 17:43:47.975294: Value on NFL Cleveland vs Indianapolis at bookmaker Cleveland 156 vs bovada Indianapolis -155 
+--------------------------------------------------
+2019-08-15 17:47:33.306353: Value on NFL Buffalo vs Carolina at bovada Buffalo 3.0 -115 vs sportsbetting Carolina -3.0 115 
+--------------------------------------------------
+2019-08-15 18:58:33.859123: Value on NFL Green Bay vs Baltimore at heritage Green Bay 165 vs bookmaker Baltimore -160 
+--------------------------------------------------
+2019-08-15 18:58:34.364755: Value on NFL Green Bay vs Baltimore at sportsbetting Green Bay 165 vs bookmaker Baltimore -160 
+--------------------------------------------------
+2019-08-15 18:59:31.107178: Value on NFL Green Bay vs Baltimore at bovada Green Bay 170 vs bookmaker Baltimore -160 
+--------------------------------------------------
+2019-08-15 19:00:27.521970: Value on NFL Green Bay vs Baltimore at pinnacle Green Bay 160 vs bookmaker Baltimore -160 
+--------------------------------------------------
+2019-08-15 19:00:28.027151: Value on NFL Green Bay vs Baltimore at sportsbetting Green Bay 167 vs bookmaker Baltimore -160 
+--------------------------------------------------
+2019-08-16 09:31:36.163441: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bookmaker L.A. Chargers -3.0 -119 
+--------------------------------------------------
+2019-08-16 09:31:36.681114: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bovada L.A. Chargers -3.0 -120 
+--------------------------------------------------
+2019-08-16 09:32:15.601314: Value on NCAAF Syracuse vs Liberty at bovada Syracuse -100 vs pinnacle Liberty 559 
+--------------------------------------------------
+2019-08-16 09:32:16.106705: Value on NCAAF Syracuse vs Liberty at bovada Syracuse -100 vs heritage Liberty 605 
+--------------------------------------------------
+2019-08-16 09:32:16.610973: Value on NCAAF Missouri vs Wyoming at bovada Missouri -100 vs pinnacle Wyoming 600 
+--------------------------------------------------
+2019-08-16 09:32:17.114679: Value on NCAAF Missouri vs Wyoming at bovada Missouri -100 vs heritage Wyoming 630 
+--------------------------------------------------
+2019-08-16 09:35:15.279208: Value on NCAAF Syracuse vs Liberty at bovada Syracuse -100 vs pinnacle Liberty 559 
+--------------------------------------------------
+2019-08-16 09:35:15.789202: Value on NCAAF Syracuse vs Liberty at bovada Syracuse -100 vs heritage Liberty 605 
+--------------------------------------------------
+2019-08-16 09:35:16.304009: Value on NCAAF Missouri vs Wyoming at bovada Missouri -100 vs pinnacle Wyoming 600 
+--------------------------------------------------
+2019-08-16 09:35:16.809647: Value on NCAAF Missouri vs Wyoming at bovada Missouri -100 vs heritage Wyoming 630 
+--------------------------------------------------
+2019-08-16 09:39:23.434012: Value on NCAAF Syracuse vs Liberty at bovada Syracuse -100 vs pinnacle Liberty 559 
+--------------------------------------------------
+2019-08-16 09:39:23.940132: Value on NCAAF Syracuse vs Liberty at bovada Syracuse -100 vs heritage Liberty 605 
+--------------------------------------------------
+2019-08-16 09:39:24.456082: Value on NCAAF Missouri vs Wyoming at bovada Missouri -100 vs pinnacle Wyoming 600 
+--------------------------------------------------
+2019-08-16 09:39:24.972009: Value on NCAAF Missouri vs Wyoming at bovada Missouri -100 vs heritage Wyoming 630 
+--------------------------------------------------

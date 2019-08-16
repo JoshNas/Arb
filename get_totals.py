@@ -61,7 +61,7 @@ def get_site(odds):
         under = [float(odds[0]), fix_neg(int(odds[-4:]))]
     elif len(odds) == 16:
         # for lines with 1/2 and double digits
-        over = [float(odds[0:3].replace('½', '.5')), fix_neg(int(odds[4:7]))]
+        over = [float(odds[0:3].replace('½', '.5')), fix_neg(int(odds[4:8]))]
         under = [float(odds[0:3].replace('½', '.5')), fix_neg(int(odds[-4:]))]
     else:
         # could add something for triple digit NCAAF lines
