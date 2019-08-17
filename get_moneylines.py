@@ -75,7 +75,6 @@ def clean(site):
             # convert home odds after losing sign on split
             home = home * -1
         return away, home
-    except ValueError:
+    except (ValueError, IndexError):
         # no odds for this site
-        print('\n')
         return None, None

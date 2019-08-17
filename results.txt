@@ -1250,3 +1250,61 @@
 --------------------------------------------------
 2019-08-16 10:19:54.233422: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bovada L.A. Chargers -3.0 -120 
 --------------------------------------------------
+2019-08-16 10:38:57.549754: Value on MLB CWS vs LAA 10:07p current at heritage CWS 1.5 -174 vs pinnacle LAA -1.5 174 
+--------------------------------------------------
+2019-08-16 11:47:00.408172: Value on MLB SD vs PHI 7:05p current at bookmaker SD 114 vs pinnacle PHI -111 
+--------------------------------------------------
+2019-08-16 11:47:41.746696: Value on NFL New Orleans vs L.A. Chargers at pinnacle New Orleans 126 vs sportsbetting L.A. Chargers -126 
+--------------------------------------------------
+2019-08-16 12:39:14.382226: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bookmaker L.A. Chargers -3.0 -119 
+--------------------------------------------------
+2019-08-16 12:39:14.886700: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bovada L.A. Chargers -3.0 -120 
+--------------------------------------------------
+2019-08-17 11:14:38.145757: Value on NFL Seattle vs Minnesota at bovada Seattle 160 vs pinnacle Minnesota -157 
+--------------------------------------------------
+2019-08-17 11:14:38.663575: Value on NFL Seattle vs Minnesota at bovada Seattle 160 vs bookmaker Minnesota -160 
+--------------------------------------------------
+2019-08-17 11:14:39.182508: Value on NFL Seattle vs Minnesota at bovada Seattle 160 vs sportsbetting Minnesota -160 
+--------------------------------------------------
+2019-08-17 11:14:39.702964: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bookmaker L.A. Chargers -3.0 -119 
+--------------------------------------------------
+2019-08-17 11:14:40.219181: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bovada L.A. Chargers -3.0 -120 
+--------------------------------------------------
+2019-08-17 11:19:09.200355: Value on NFL New Orleans vs L.A. Chargers at pinnacle New Orleans -103 vs sportsbetting L.A. Chargers 111 
+--------------------------------------------------
+2019-08-17 11:21:03.506203: Value on NFL New Orleans vs L.A. Chargers at pinnacle New Orleans -103 vs bookmaker L.A. Chargers 105 
+--------------------------------------------------
+2019-08-17 11:21:04.010709: Value on NFL New Orleans vs L.A. Chargers at pinnacle New Orleans -103 vs sportsbetting L.A. Chargers 107 
+--------------------------------------------------
+2019-08-17 11:29:15.828836: Value on NFL New Orleans vs L.A. Chargers at pinnacle New Orleans -103 vs bovada L.A. Chargers 105 
+--------------------------------------------------
+2019-08-17 12:06:59.369792: Value on NFL New England vs Tennessee at pinnacle New England -111 vs bookmaker Tennessee 114 
+--------------------------------------------------
+2019-08-17 12:08:15.046351: Value on NFL New England vs Tennessee at pinnacle New England -1.0 -101 vs sportsbetting Tennessee 1.0 102 
+--------------------------------------------------
+2019-08-17 12:09:30.161429: Value on NFL New England vs Tennessee at pinnacle New England -112 vs bookmaker Tennessee 114 
+--------------------------------------------------
+2019-08-17 12:24:29.524473: Value on MLB CHC vs PIT 1:35p current at pinnacle CHC -1.5 110 vs bovada PIT 1.5 -110 
+--------------------------------------------------
+2019-08-17 12:30:05.182994: Value on MLB CHC vs PIT 1:35p current at pinnacle CHC -1.5 110 vs heritage PIT 1.5 -110 
+--------------------------------------------------
+2019-08-17 13:02:57.756524: Value on NFL New Orleans vs L.A. Chargers at pinnacle New Orleans -103 vs bookmaker L.A. Chargers 105 
+--------------------------------------------------
+2019-08-17 13:02:58.265530: Value on NFL New Orleans vs L.A. Chargers at pinnacle New Orleans -103 vs sportsbetting L.A. Chargers 107 
+--------------------------------------------------
+2019-08-17 13:02:58.781868: Value on NFL New Orleans vs L.A. Chargers at pinnacle New Orleans -103 vs bovada L.A. Chargers 105 
+--------------------------------------------------
+2019-08-17 13:02:59.304526: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bookmaker L.A. Chargers -3.0 -119 
+--------------------------------------------------
+2019-08-17 13:02:59.821430: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bovada L.A. Chargers -3.0 -120 
+--------------------------------------------------
+2019-08-17 14:31:04.975714: Value on NFL New Orleans vs L.A. Chargers at pinnacle New Orleans -103 vs bookmaker L.A. Chargers 105 
+--------------------------------------------------
+2019-08-17 14:31:05.493084: Value on NFL New Orleans vs L.A. Chargers at pinnacle New Orleans -103 vs sportsbetting L.A. Chargers 107 
+--------------------------------------------------
+2019-08-17 14:31:06.008745: Value on NFL New Orleans vs L.A. Chargers at pinnacle New Orleans -103 vs bovada L.A. Chargers 105 
+--------------------------------------------------
+2019-08-17 14:31:06.526941: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bookmaker L.A. Chargers -3.0 -119 
+--------------------------------------------------
+2019-08-17 14:31:07.033813: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bovada L.A. Chargers -3.0 -120 
+--------------------------------------------------
