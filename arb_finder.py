@@ -3,8 +3,7 @@ import tkinter as tk
 import winsound
 import datetime as dt
 import json
-import mlb
-import nfl
+from Sports import mlb, nfl
 import compare
 
 

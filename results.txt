@@ -1308,3 +1308,449 @@
 --------------------------------------------------
 2019-08-17 14:31:07.033813: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bovada L.A. Chargers -3.0 -120 
 --------------------------------------------------
+2019-08-17 14:36:49.096115: Value on MLB DET vs TB 6:10p current at bovada DET 1.5 150 vs pinnacle TB -1.5 -149 
+--------------------------------------------------
+2019-08-17 15:08:44.956852: Value on NFL New England vs Tennessee at pinnacle New England -113 vs bookmaker Tennessee 113 
+--------------------------------------------------
+2019-08-17 15:08:45.461919: Value on NFL New England vs Tennessee at pinnacle New England -113 vs bovada Tennessee 115 
+--------------------------------------------------
+2019-08-17 15:21:53.510085: Value on NFL Detroit vs Houston at bookmaker Detroit 192 vs pinnacle Houston -191 
+--------------------------------------------------
+2019-08-17 15:21:54.014245: Value on NFL Detroit vs Houston at bookmaker Detroit 192 vs sportsbetting Houston -190 
+--------------------------------------------------
+2019-08-17 15:34:25.843124: Value on MLB DET vs TB 6:10p current at bovada DET 1.5 150 vs pinnacle TB -1.5 -147 
+--------------------------------------------------
+2019-08-17 15:36:55.554776: Value on MLB DET vs TB 6:10p current at bovada DET 1.5 150 vs heritage TB -1.5 -150 
+--------------------------------------------------
+2019-08-17 17:01:53.553481: Value on MLB DET vs TB 6:10p current at bovada DET 1.5 150 vs pinnacle TB -1.5 -150 
+--------------------------------------------------
+2019-08-17 17:01:54.058666: Value on MLB NYM vs KC 7:15p current at pinnacle NYM -1.5 -119 vs bovada KC 1.5 120 
+--------------------------------------------------
+2019-08-17 17:01:58.270329: Value on NFL Detroit vs Houston at bookmaker Detroit 170 vs pinnacle Houston -169 
+--------------------------------------------------
+2019-08-17 17:01:58.781000: Value on NFL Detroit vs Houston at bookmaker Detroit 170 vs heritage Houston -165 
+--------------------------------------------------
+2019-08-17 17:01:59.297833: Value on NFL Detroit vs Houston at bookmaker Detroit 170 vs sportsbetting Houston -168 
+--------------------------------------------------
+2019-08-17 17:01:59.813159: Value on NFL Detroit vs Houston at bovada Detroit 170 vs pinnacle Houston -169 
+--------------------------------------------------
+2019-08-17 17:02:00.318068: Value on NFL Detroit vs Houston at bovada Detroit 170 vs heritage Houston -165 
+--------------------------------------------------
+2019-08-17 17:02:00.838935: Value on NFL Detroit vs Houston at bovada Detroit 170 vs sportsbetting Houston -168 
+--------------------------------------------------
+2019-08-17 17:02:01.354333: Value on NFL Detroit vs Houston at bookmaker Detroit 4.0 -111 vs sportsbetting Houston -4.0 120 
+--------------------------------------------------
+2019-08-17 17:02:01.869365: Value on NFL Detroit vs Houston at bovada Detroit 4.0 -110 vs sportsbetting Houston -4.0 120 
+--------------------------------------------------
+2019-08-17 17:02:02.386014: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bookmaker L.A. Chargers -3.0 -119 
+--------------------------------------------------
+2019-08-17 17:02:02.901903: Value on NFL Indianapolis vs L.A. Chargers at sportsbetting Indianapolis 3.0 120 vs bovada L.A. Chargers -3.0 -120 
+--------------------------------------------------
+2019-08-27 09:20:51.093665: Value on NFL N.Y. Giants vs Dallas at bovada N.Y. Giants 290 vs pinnacle Dallas -285 
+--------------------------------------------------
+2019-08-27 09:20:59.435657: Value on NCAAF Texas State vs Texas A&M at heritage Texas State 8515 vs pinnacle Texas A&M -5938 
+--------------------------------------------------
+2019-08-27 09:20:59.955801: Value on NCAAF New Mexico State vs Washington State at heritage New Mexico State 7010 vs pinnacle Washington State -5131 
+--------------------------------------------------
+2019-08-27 09:36:44.349586: Value on NCAAF Texas State vs Texas A&M at heritage Texas State 8515 vs pinnacle Texas A&M -5952 
+--------------------------------------------------
+2019-08-27 09:43:25.508026: Value on MLB CLE vs DET 7:10p current at bookmaker CLE -135 vs pinnacle DET 137 
+--------------------------------------------------
+2019-08-27 09:43:26.013229: Value on MLB CLE vs DET 7:10p current at heritage CLE -136 vs pinnacle DET 137 
+--------------------------------------------------
+2019-08-27 09:44:04.835614: Value on MLB CLE vs DET 7:10p current at bookmaker CLE -135 vs heritage DET 136 
+--------------------------------------------------
+2019-08-27 11:28:01.298059: Value on MLB ARI vs SF 9:45p current at bookmaker ARI 1.5 -160 vs pinnacle SF -1.5 160 
+--------------------------------------------------
+2019-08-27 11:28:01.802991: Value on MLB ARI vs SF 9:45p current at heritage ARI 1.5 -155 vs pinnacle SF -1.5 160 
+--------------------------------------------------
+2019-08-27 11:28:02.307438: Value on MLB ARI vs SF 9:45p current at heritage ARI 1.5 -155 vs sportsbetting SF -1.5 159 
+--------------------------------------------------
+2019-08-27 11:28:02.813146: Value on MLB ARI vs SF 9:45p current at bovada ARI 1.5 -160 vs pinnacle SF -1.5 160 
+--------------------------------------------------
+2019-08-27 11:28:03.318276: Value on MLB ARI vs SF 9:45p current at bookmaker ARI 131 vs pinnacle SF -131 
+--------------------------------------------------
+2019-08-27 11:28:07.814967: Value on NFL N.Y. Giants vs Dallas at bovada N.Y. Giants 290 vs pinnacle Dallas -285 
+--------------------------------------------------
+2019-08-27 11:28:16.754941: Value on NCAAF New Mexico State vs Washington State at heritage New Mexico State 7010 vs pinnacle Washington State -4583 
+--------------------------------------------------
+2019-08-27 11:32:31.922723: Value on MLB ARI vs SF 9:45p current at heritage ARI 128 vs bookmaker SF -127 
+--------------------------------------------------
+2019-08-27 11:38:56.163435: Value on NCAAF Boise State vs Florida State at sportsbetting Boise State 5.5 105 vs heritage Florida State -5.5 -105 
+--------------------------------------------------
+2019-08-28 10:27:19.814371: Value on MLB NYY vs SEA 4:10p current at pinnacle NYY -1.5 -130 vs heritage SEA 1.5 130 
+--------------------------------------------------
+2019-08-28 10:27:24.614663: Value on NFL N.Y. Giants vs Dallas at bovada N.Y. Giants 290 vs pinnacle Dallas -285 
+--------------------------------------------------
+2019-08-28 10:27:35.342627: Value on NCAAF New Mexico State vs Washington State at heritage New Mexico State 7010 vs pinnacle Washington State -4181 
+--------------------------------------------------
+2019-08-28 10:36:22.418459: Value on NFL Pittsburgh vs Carolina at bovada Pittsburgh -3.5 -105 vs pinnacle Carolina 3.5 105 
+--------------------------------------------------
+2019-08-28 10:40:07.545328: Value on NFL Pittsburgh vs Carolina at bovada Pittsburgh -3.5 -105 vs pinnacle Carolina 3.5 109 
+--------------------------------------------------
+2019-08-28 10:40:45.264511: Value on NFL Pittsburgh vs Carolina at bookmaker Pittsburgh -3.5 -110 vs pinnacle Carolina 3.5 111 
+--------------------------------------------------
+2019-08-28 10:40:45.779909: Value on NFL Pittsburgh vs Carolina at bovada Pittsburgh -3.5 -105 vs pinnacle Carolina 3.5 111 
+--------------------------------------------------
+2019-08-28 11:06:32.495609: Value on NFL Oakland vs Seattle at pinnacle Oakland 130 vs heritage Seattle -130 
+--------------------------------------------------
+2019-08-28 11:17:12.700628: Value on MLB STL vs MIL 2:10p current at sportsbetting STL -120 vs bovada MIL 120 
+--------------------------------------------------
+2019-08-28 11:17:51.220628: Value on MLB STL vs MIL 2:10p current at heritage STL -1.5 130 vs bovada MIL 1.5 -130 
+--------------------------------------------------
+2019-08-28 11:19:45.397876: Value on MLB STL vs MIL 2:10p current at bookmaker STL -119 vs bovada MIL 120 
+--------------------------------------------------
+2019-08-28 11:24:47.037652: Value on MLB ATL vs TOR 7:07p current at bookmaker ATL -136 vs sportsbetting TOR 136 
+--------------------------------------------------
+2019-08-28 14:39:58.250997: Value on NFL N.Y. Giants vs Dallas at bovada N.Y. Giants 290 vs pinnacle Dallas -285 
+--------------------------------------------------
+2019-08-28 14:40:06.476423: Value on NCAAF New Mexico State vs Washington State at heritage New Mexico State 7010 vs pinnacle Washington State -4181 
+--------------------------------------------------
+2019-08-28 15:16:06.765071: Value on NCAAF UCLA vs Cincinnati at bovada UCLA 3.0 100 vs heritage Cincinnati -3.0 100 
+--------------------------------------------------
+2019-08-28 15:43:14.820813: Value on MLB NYY vs SEA 4:10p current at pinnacle NYY -1.5 -149 vs bovada SEA 1.5 150 
+--------------------------------------------------
+2019-08-28 15:48:12.141396: Value on MLB NYY vs SEA 4:10p current at pinnacle NYY -1.5 -155 vs heritage SEA 1.5 155 
+--------------------------------------------------
+2019-08-28 15:55:06.982579: Value on MLB NYY vs SEA 4:10p current at pinnacle NYY -1.5 -155 vs bovada SEA 1.5 160 
+--------------------------------------------------
+2019-08-28 15:55:07.489464: Value on MLB NYY vs SEA 4:10p current at heritage NYY -1.5 -160 vs bovada SEA 1.5 160 
+--------------------------------------------------
+2019-08-28 15:56:59.261669: Value on MLB NYY vs SEA 4:10p current at pinnacle NYY -1.5 -153 vs bovada SEA 1.5 160 
+--------------------------------------------------
+2019-08-28 15:58:14.505224: Value on MLB NYY vs SEA 4:10p current at pinnacle NYY -1.5 -154 vs bovada SEA 1.5 160 
+--------------------------------------------------
+2019-08-28 16:00:42.986237: Value on MLB NYY vs SEA 4:10p current at pinnacle NYY -1.5 -152 vs bovada SEA 1.5 160 
+--------------------------------------------------
+2019-08-28 16:03:13.010711: Value on MLB NYY vs SEA 4:10p current at pinnacle NYY -1.5 -151 vs bovada SEA 1.5 160 
+--------------------------------------------------
+2019-08-29 09:09:37.271473: Value on MLB OAK vs KC 1:15p current at bookmaker OAK -1.5 -125 vs heritage KC 1.5 125 
+--------------------------------------------------
+2019-08-29 09:09:37.788276: Value on MLB PIT vs COL 8:40p current at pinnacle PIT 1.5 -166 vs bookmaker COL -1.5 166 
+--------------------------------------------------
+2019-08-29 09:09:42.327040: Value on NFL N.Y. Giants vs Dallas at bovada N.Y. Giants 290 vs pinnacle Dallas -285 
+--------------------------------------------------
+2019-08-29 09:09:49.729369: Value on NCAAF New Mexico State vs Washington State at heritage New Mexico State 7010 vs pinnacle Washington State -4489 
+--------------------------------------------------
+2019-08-29 09:27:54.251395: Value on MLB PIT vs COL 8:40p current at pinnacle PIT 1.5 -166 vs bookmaker COL -1.5 166 
+--------------------------------------------------
+2019-08-29 09:27:54.768775: Value on MLB CIN vs MIA 7:10p current at bookmaker CIN -150 vs pinnacle MIA 161 
+--------------------------------------------------
+2019-08-29 09:27:55.279304: Value on MLB CIN vs MIA 7:10p current at bookmaker CIN -150 vs heritage MIA 162 
+--------------------------------------------------
+2019-08-29 09:27:55.795583: Value on MLB CIN vs MIA 7:10p current at bookmaker CIN -150 vs sportsbetting MIA 165 
+--------------------------------------------------
+2019-08-29 09:28:01.030280: Value on NFL N.Y. Giants vs Dallas at bovada N.Y. Giants 290 vs pinnacle Dallas -285 
+--------------------------------------------------
+2019-08-29 09:28:07.439986: Value on NCAAF New Mexico State vs Washington State at heritage New Mexico State 7010 vs pinnacle Washington State -4489 
+--------------------------------------------------
+2019-08-29 09:29:16.812033: Value on MLB CIN vs MIA 7:10p current at bookmaker CIN -150 vs sportsbetting MIA 169 
+--------------------------------------------------
+2019-08-30 09:56:09.347932: Value on NFL N.Y. Giants vs Dallas at bovada N.Y. Giants 290 vs pinnacle Dallas -285 
+--------------------------------------------------
+2019-08-30 09:56:17.661802: Value on NCAAF New Mexico State vs Washington State at heritage New Mexico State 7010 vs pinnacle Washington State -5041 
+--------------------------------------------------
+2019-08-30 10:09:55.704125: Value on MLB CLE vs TB 7:10p current at bookmaker CLE -141 vs pinnacle TB 142 
+--------------------------------------------------
+2019-08-30 10:11:51.054364: Value on MLB PIT vs COL 8:40p current at pinnacle PIT 127 vs bookmaker COL -126 
+--------------------------------------------------
+2019-08-30 10:11:51.572901: Value on MLB PIT vs COL 8:40p current at sportsbetting PIT 126 vs bookmaker COL -126 
+--------------------------------------------------
+2019-09-04 08:36:23.825034: Value on NCAAF Arkansas vs Ole Miss at heritage Arkansas 7.0 -105 vs sportsbetting Ole Miss -7.0 105 
+--------------------------------------------------
+2019-09-04 09:36:46.076643: Value on MLB COL vs LAD 10:10p current at bookmaker COL 1.5 140 vs pinnacle LAD -1.5 -139 
+--------------------------------------------------
+2019-09-04 09:36:46.581474: Value on MLB COL vs LAD 10:10p current at bovada COL 1.5 140 vs pinnacle LAD -1.5 -139 
+--------------------------------------------------
+2019-09-04 09:38:14.651209: Value on MLB COL vs LAD 10:10p current at bookmaker COL 1.5 140 vs pinnacle LAD -1.5 -140 
+--------------------------------------------------
+2019-09-04 09:38:15.156254: Value on MLB COL vs LAD 10:10p current at bookmaker COL 1.5 140 vs heritage LAD -1.5 -140 
+--------------------------------------------------
+2019-09-04 09:38:15.660594: Value on MLB COL vs LAD 10:10p current at bovada COL 1.5 140 vs pinnacle LAD -1.5 -140 
+--------------------------------------------------
+2019-09-04 09:38:16.164959: Value on MLB COL vs LAD 10:10p current at bovada COL 1.5 140 vs heritage LAD -1.5 -140 
+--------------------------------------------------
+2019-09-04 10:18:14.318116: Value on MLB MIN vs BOS 7:10p current at pinnacle MIN 130 vs heritage BOS -130 
+--------------------------------------------------
+2019-09-04 10:18:14.823206: Value on MLB MIN vs BOS 7:10p current at pinnacle MIN 130 vs sportsbetting BOS -130 
+--------------------------------------------------
+2019-09-04 10:21:11.547456: Value on MLB NYM vs WSH 1:05p current at bovada NYM 1.5 -155 vs pinnacle WSH -1.5 155 
+--------------------------------------------------
+2019-09-04 10:22:40.184865: Value on MLB NYM vs WSH 1:05p current at bovada NYM 1.5 -155 vs heritage WSH -1.5 155 
+--------------------------------------------------
+2019-09-04 10:46:29.767734: Value on NFL Kansas City vs Jacksonville at sportsbetting Kansas City -175 vs bovada Jacksonville 175 
+--------------------------------------------------
+2019-09-04 10:46:30.272035: Value on NFL Kansas City vs Jacksonville at sportsbetting Kansas City -3.5 105 vs bookmaker Jacksonville 3.5 -105 
+--------------------------------------------------
+2019-09-04 10:46:30.776314: Value on NFL Kansas City vs Jacksonville at sportsbetting Kansas City -3.5 105 vs heritage Jacksonville 3.5 -105 
+--------------------------------------------------
+2019-09-04 10:48:45.172656: Value on NFL Kansas City vs Jacksonville at heritage Kansas City -3.5 105 vs bookmaker Jacksonville 3.5 -105 
+--------------------------------------------------
+2019-09-04 11:19:03.460508: Value on MLB PHI vs CIN 6:40p current at heritage PHI -1.5 125 vs pinnacle CIN 1.5 -122 
+--------------------------------------------------
+2019-09-04 11:19:49.555163: Value on MLB PHI vs CIN 6:40p current at sportsbetting PHI -132 vs pinnacle CIN 133 
+--------------------------------------------------
+2019-09-04 11:20:34.936389: Value on MLB PHI vs CIN 6:40p current at heritage PHI -1.5 125 vs sportsbetting CIN 1.5 -125 
+--------------------------------------------------
+2019-09-04 11:21:19.590378: Value on MLB PHI vs CIN 6:40p current at bookmaker PHI -1.5 120 vs heritage CIN 1.5 -120 
+--------------------------------------------------
+2019-09-04 11:21:20.094710: Value on MLB PHI vs CIN 6:40p current at bovada PHI -1.5 120 vs heritage CIN 1.5 -120 
+--------------------------------------------------
+2019-09-04 11:24:18.729118: Value on MLB PHI vs CIN 6:40p current at bookmaker PHI -1.5 120 vs bovada CIN 1.5 -120 
+--------------------------------------------------
+2019-09-04 11:31:41.954386: Value on MLB MIA vs PIT 7:05p current at heritage MIA 1.5 -120 vs pinnacle PIT -1.5 120 
+--------------------------------------------------
+2019-09-04 11:36:14.586835: Value on MLB NYM vs WSH 1:05p current at heritage NYM 1.5 -160 vs pinnacle WSH -1.5 165 
+--------------------------------------------------
+2019-09-04 11:36:15.091592: Value on MLB NYM vs WSH 1:05p current at bovada NYM 1.5 -165 vs pinnacle WSH -1.5 165 
+--------------------------------------------------
+2019-09-04 11:36:15.598619: Value on MLB NYM vs WSH 1:05p current at heritage NYM 117 vs pinnacle WSH -117 
+--------------------------------------------------
+2019-09-04 11:42:13.795190: Value on MLB MIA vs PIT 7:05p current at bookmaker MIA 1.5 -125 vs pinnacle PIT -1.5 125 
+--------------------------------------------------
+2019-09-04 11:42:14.315653: Value on MLB MIA vs PIT 7:05p current at bookmaker MIA 1.5 -125 vs heritage PIT -1.5 125 
+--------------------------------------------------
+2019-09-04 12:09:59.730836: Value on NCAAF Ohio vs Pittsburgh at sportsbetting over 53.0 105 vs heritage under 53.5 -105 
+--------------------------------------------------
+2019-09-04 12:39:25.931775: Value on MLB TEX vs NYY 6:35p current at heritage TEX 140 vs pinnacle NYY -140 
+--------------------------------------------------
+2019-09-04 12:39:26.450879: Value on MLB TEX vs NYY 6:35p current at sportsbetting TEX 140 vs pinnacle NYY -140 
+--------------------------------------------------
+2019-09-04 12:52:04.112374: Value on MLB NYM vs WSH 1:05p current at heritage NYM 1.5 -170 vs pinnacle WSH -1.5 170 
+--------------------------------------------------
+2019-09-04 12:52:04.635202: Value on MLB NYM vs WSH 1:05p current at bovada NYM 1.5 -170 vs pinnacle WSH -1.5 170 
+--------------------------------------------------
+2019-09-04 12:52:05.152347: Value on MLB NYM vs WSH 1:05p current at bookmaker NYM 110 vs pinnacle WSH -110 
+--------------------------------------------------
+2019-09-04 12:52:05.667745: Value on MLB NYM vs WSH 1:05p current at heritage NYM 110 vs pinnacle WSH -110 
+--------------------------------------------------
+2019-09-04 12:52:06.185015: Value on MLB NYM vs WSH 1:05p current at bovada NYM 110 vs pinnacle WSH -110 
+--------------------------------------------------
+2019-09-04 12:52:22.000767: Value on NCAAF UAB vs Akron at sportsbetting over 47.5 110 vs pinnacle under 48.5 -102 
+--------------------------------------------------
+2019-09-04 12:52:22.519405: Value on NCAAF UAB vs Akron at sportsbetting over 47.5 110 vs heritage under 48.5 -105 
+--------------------------------------------------
+2019-09-04 12:52:23.023334: Value on NCAAF UAB vs Akron at sportsbetting over 47.5 110 vs bovada under 49.0 -110 
+--------------------------------------------------
+2019-09-04 12:53:07.747080: Value on NCAAF Miami (FL) vs North Carolina at bookmaker Miami (FL) -170 vs bovada North Carolina 170 
+--------------------------------------------------
+2019-09-04 12:53:53.297418: Value on NCAAF UAB vs Akron at sportsbetting over 47.5 110 vs bookmaker under 49.0 -110 
+--------------------------------------------------
+2019-09-04 12:55:07.482014: Value on MLB NYM vs WSH 1:05p current at heritage NYM 1.5 -170 vs pinnacle WSH -1.5 171 
+--------------------------------------------------
+2019-09-04 12:55:07.994073: Value on MLB NYM vs WSH 1:05p current at bovada NYM 1.5 -170 vs pinnacle WSH -1.5 171 
+--------------------------------------------------
+2019-09-04 12:57:37.162987: Value on NCAAF UAB vs Akron at sportsbetting over 47.0 110 vs bookmaker under 47.5 -104 
+--------------------------------------------------
+2019-09-04 12:57:37.668963: Value on NCAAF Coastal Carolina vs Kansas at heritage over 51.0 -105 vs sportsbetting under 51.5 110 
+--------------------------------------------------
+2019-09-04 13:00:32.481558: Value on NCAAF Tulsa vs San Jose State at bookmaker over 49.5 -107 vs sportsbetting under 50.5 110 
+--------------------------------------------------
+2019-09-04 13:00:32.986589: Value on NCAAF Tulsa vs San Jose State at heritage over 49.5 -105 vs sportsbetting under 50.5 110 
+--------------------------------------------------
+2019-09-04 13:00:33.490635: Value on NCAAF Tulsa vs San Jose State at bovada over 50.0 -105 vs sportsbetting under 50.5 110 
+--------------------------------------------------
+2019-09-04 13:02:32.584450: Value on MLB NYM vs WSH 1:05p current at bookmaker NYM 109 vs pinnacle WSH -109 
+--------------------------------------------------
+2019-09-04 13:02:48.093502: Value on NCAAF Western Kentucky vs Florida International at sportsbetting over 58.0 115 vs bookmaker under 59.0 -110 
+--------------------------------------------------
+2019-09-04 13:02:48.597848: Value on NCAAF Western Kentucky vs Florida International at sportsbetting over 58.0 115 vs heritage under 59.0 -105 
+--------------------------------------------------
+2019-09-04 13:02:49.103287: Value on NCAAF Western Kentucky vs Florida International at sportsbetting over 58.0 115 vs bovada under 59.0 -110 
+--------------------------------------------------
+2019-09-04 13:03:19.054579: Value on MLB NYM vs WSH 1:05p current at bookmaker NYM 109 vs sportsbetting WSH -109 
+--------------------------------------------------
+2019-09-04 13:04:03.130977: Value on MLB NYM vs WSH 1:05p current at bovada NYM 1.5 -170 vs pinnacle WSH -1.5 174 
+--------------------------------------------------
+2019-09-04 13:05:32.258900: Value on MLB NYM vs WSH 1:05p current at bookmaker NYM 108 vs pinnacle WSH -106 
+--------------------------------------------------
+2019-09-04 13:05:47.549992: Value on NCAAF Western Kentucky vs Florida International at sportsbetting over 57.5 120 vs bookmaker under 60.0 -113 
+--------------------------------------------------
+2019-09-04 13:05:48.054078: Value on NCAAF Western Kentucky vs Florida International at sportsbetting over 57.5 120 vs bovada under 59.0 -110 
+--------------------------------------------------
+2019-09-04 13:05:48.558623: Value on NCAAF Tulsa vs San Jose State at bookmaker over 49.5 -107 vs sportsbetting under 51.5 113 
+--------------------------------------------------
+2019-09-04 13:05:49.064651: Value on NCAAF Tulsa vs San Jose State at bovada over 50.0 -105 vs sportsbetting under 51.5 113 
+--------------------------------------------------
+2019-09-04 13:07:46.737962: Value on MLB NYM vs WSH 1:05p current at bookmaker NYM 108 vs sportsbetting WSH -108 
+--------------------------------------------------
+2019-09-04 13:08:45.319872: Value on NCAAF Western Kentucky vs Florida International at sportsbetting over 57.5 120 vs bookmaker under 59.0 -110 
+--------------------------------------------------
+2019-09-04 13:22:37.749105: Value on MLB TEX vs NYY 6:35p current at pinnacle TEX 149 vs sportsbetting NYY -149 
+--------------------------------------------------
+2019-09-04 13:23:22.030149: Value on MLB CWS vs CLE 7:10p current at heritage CWS 1.5 135 vs pinnacle CLE -1.5 -134 
+--------------------------------------------------
+2019-09-04 13:23:22.548803: Value on MLB CWS vs CLE 7:10p current at sportsbetting CWS 1.5 135 vs pinnacle CLE -1.5 -134 
+--------------------------------------------------
+2019-09-04 13:27:06.416143: Value on MLB MIN vs BOS 7:10p current at pinnacle MIN 139 vs sportsbetting BOS -138 
+--------------------------------------------------
+2019-09-04 14:10:12.074069: Value on MLB CWS vs CLE 7:10p current at bovada CWS 1.5 130 vs heritage CLE -1.5 -130 
+--------------------------------------------------
+2019-09-04 15:01:02.604435: Value on NCAAF Nevada vs Oregon at sportsbetting Nevada 23.0 115 vs bookmaker Oregon -23.0 -111 
+--------------------------------------------------
+2019-09-04 16:19:22.581246: Value on NCAAF Nebraska vs Colorado at pinnacle Nebraska -156 vs bovada Colorado 160 
+--------------------------------------------------
+2019-09-04 16:20:38.919327: Value on NCAAF Nebraska vs Colorado at pinnacle Nebraska -152 vs bookmaker Colorado 155 
+--------------------------------------------------
+2019-09-04 18:50:24.746475: Value on MLB CWS vs CLE 7:10p current at bovada CWS 1.5 135 vs pinnacle CLE -1.5 -134 
+--------------------------------------------------
+2019-09-04 18:51:41.170266: Value on MLB CWS vs CLE 7:10p current at bovada CWS 1.5 135 vs pinnacle CLE -1.5 -133 
+--------------------------------------------------
+2019-09-05 09:04:10.175963: Value on NFL Kansas City vs Jacksonville at pinnacle Kansas City -166 vs bovada Jacksonville 170 
+--------------------------------------------------
+2019-09-05 09:04:10.688132: Value on NFL Kansas City vs Jacksonville at sportsbetting Kansas City -170 vs bovada Jacksonville 170 
+--------------------------------------------------
+2019-09-05 09:32:44.013516: Value on MLB SF vs STL 1:15p current at bovada SF 1.5 -110 vs heritage STL -1.5 110 
+--------------------------------------------------
+2019-09-05 11:25:37.440125: Value on NCAAF Minnesota vs Fresno State at sportsbetting over 47.5 105 vs heritage under 48.0 -105 
+--------------------------------------------------
+2019-09-05 11:26:55.662755: Value on NCAAF Miami (FL) vs North Carolina at bookmaker Miami (FL) -175 vs pinnacle North Carolina 175 
+--------------------------------------------------
+2019-09-05 11:26:56.169838: Value on NCAAF Miami (FL) vs North Carolina at bovada Miami (FL) -175 vs pinnacle North Carolina 175 
+--------------------------------------------------
+2019-09-05 11:28:13.678401: Value on NCAAF Miami (FL) vs North Carolina at bookmaker Miami (FL) -175 vs sportsbetting North Carolina 175 
+--------------------------------------------------
+2019-09-05 11:28:14.196943: Value on NCAAF Miami (FL) vs North Carolina at bovada Miami (FL) -175 vs sportsbetting North Carolina 175 
+--------------------------------------------------
+2019-09-05 11:37:21.099809: Value on NCAAF Western Kentucky vs Florida International at sportsbetting Western Kentucky 7.0 107 vs heritage Florida International -7.0 -105 
+--------------------------------------------------
+2019-09-05 12:11:23.646885: Value on NCAAF Western Kentucky vs Florida International at sportsbetting Western Kentucky 7.0 107 vs heritage Florida International -7.0 -105 
+--------------------------------------------------
+2019-09-05 12:30:43.797738: Value on MLB CWS vs CLE 1:10p current at heritage CWS 1.5 -110 vs pinnacle CLE -1.5 110 
+--------------------------------------------------
+2019-09-05 12:35:58.299737: Value on NFL Denver vs Oakland at bookmaker Denver 103 vs pinnacle Oakland 110 
+--------------------------------------------------
+2019-09-05 12:36:33.449520: Value on MLB SF vs STL 1:15p current at bookmaker SF 179 vs sportsbetting STL -179 
+--------------------------------------------------
+2019-09-05 12:37:12.321838: Value on MLB SF vs STL 1:15p current at bookmaker SF 1.5 -106 vs pinnacle STL -1.5 107 
+--------------------------------------------------
+2019-09-05 12:37:12.826325: Value on MLB SF vs STL 1:15p current at bookmaker SF 179 vs pinnacle STL -177 
+--------------------------------------------------
+2019-09-05 12:37:59.312657: Value on NFL Denver vs Oakland at bookmaker Denver 103 vs pinnacle Oakland 109 
+--------------------------------------------------
+2019-09-05 12:38:35.351193: Value on MLB SF vs STL 1:15p current at bookmaker SF 1.5 -106 vs pinnacle STL -1.5 106 
+--------------------------------------------------
+2019-09-05 12:39:58.330369: Value on NFL Denver vs Oakland at bookmaker Denver 103 vs pinnacle Oakland 111 
+--------------------------------------------------
+2019-09-05 12:39:58.838510: Value on NFL Denver vs Oakland at bookmaker Denver 103 vs heritage Oakland 100 
+--------------------------------------------------
+2019-09-05 12:39:59.354598: Value on NFL Denver vs Oakland at bookmaker Denver 103 vs sportsbetting Oakland 101 
+--------------------------------------------------
+2019-09-05 12:41:55.721733: Value on NFL Denver vs Oakland at bookmaker Denver 103 vs bovada Oakland 105 
+--------------------------------------------------
+2019-09-05 12:43:49.345704: Value on MLB SF vs STL 1:15p current at bookmaker SF 179 vs pinnacle STL -178 
+--------------------------------------------------
+2019-09-05 13:10:31.706871: Value on NFL San Francisco vs Tampa Bay at bookmaker San Francisco 105 vs sportsbetting Tampa Bay -104 
+--------------------------------------------------
+2019-09-05 14:52:45.738600: Value on MLB LAA vs OAK 3:37p current at heritage LAA 156 vs pinnacle OAK -155 
+--------------------------------------------------
+2019-09-05 14:52:46.258492: Value on MLB LAA vs OAK 3:37p current at sportsbetting LAA 156 vs pinnacle OAK -155 
+--------------------------------------------------
+2019-09-05 15:29:46.279207: Value on MLB SEA vs HOU 8:10p current at heritage SEA 1.5 125 vs bookmaker HOU -1.5 -125 
+--------------------------------------------------
+2019-09-05 15:35:36.602660: Value on MLB LAA vs OAK 3:37p current at heritage LAA 153 vs pinnacle OAK -153 
+--------------------------------------------------
+2019-09-05 16:10:21.802508: Value on NCAAF Western Kentucky vs Florida International at sportsbetting Western Kentucky 7.5 -102 vs pinnacle Florida International -7.5 103 
+--------------------------------------------------
+2019-09-05 16:18:43.435279: Value on NFL Atlanta vs Minnesota at pinnacle Atlanta 180 vs bovada Minnesota -180 
+--------------------------------------------------
+2019-09-05 16:51:04.897758: Value on MLB MIN vs BOS 7:10p current at pinnacle MIN 145 vs bookmaker BOS -145 
+--------------------------------------------------
+2019-09-05 16:51:05.420804: Value on MLB MIN vs BOS 7:10p current at pinnacle MIN 145 vs sportsbetting BOS -145 
+--------------------------------------------------
+2019-09-05 16:53:53.759132: Value on MLB MIN vs BOS 7:10p current at heritage MIN 145 vs sportsbetting BOS -145 
+--------------------------------------------------
+2019-09-05 16:56:34.430448: Value on MLB MIN vs BOS 7:10p current at heritage MIN 145 vs bookmaker BOS -145 
+--------------------------------------------------
+2019-09-05 17:08:14.259981: Value on MLB MIN vs BOS 7:10p current at heritage MIN 149 vs bookmaker BOS -145 
+--------------------------------------------------
+2019-09-06 09:13:58.006329: Value on NCAAF Illinois vs Connecticut at sportsbetting Illinois -1000 vs bookmaker Connecticut 1011 
+--------------------------------------------------
+2019-09-06 09:13:58.527597: Value on NCAAF Arkansas State vs UNLV at heritage Arkansas State 105 vs pinnacle UNLV -102 
+--------------------------------------------------
+2019-09-06 09:13:59.066984: Value on NCAAF Stanford vs USC at pinnacle Stanford 126 vs bovada USC -115 
+--------------------------------------------------
+2019-09-06 09:13:59.605276: Value on NCAAF Stanford vs USC at bookmaker Stanford 137 vs bovada USC -115 
+--------------------------------------------------
+2019-09-06 09:14:00.138347: Value on NCAAF Stanford vs USC at heritage Stanford 130 vs bovada USC -115 
+--------------------------------------------------
+2019-09-06 09:14:00.665730: Value on NCAAF Stanford vs USC at sportsbetting Stanford 135 vs bovada USC -115 
+--------------------------------------------------
+2019-09-06 10:26:51.252488: Value on NCAAF Illinois vs Connecticut at sportsbetting Illinois -1000 vs bookmaker Connecticut 1011 
+--------------------------------------------------
+2019-09-06 10:26:51.789597: Value on NCAAF Arkansas State vs UNLV at heritage Arkansas State 105 vs pinnacle UNLV -103 
+--------------------------------------------------
+2019-09-06 10:26:52.305936: Value on NCAAF Stanford vs USC at pinnacle Stanford 126 vs bovada USC -115 
+--------------------------------------------------
+2019-09-06 10:26:52.831062: Value on NCAAF Stanford vs USC at bookmaker Stanford 130 vs bovada USC -115 
+--------------------------------------------------
+2019-09-06 10:26:53.357108: Value on NCAAF Stanford vs USC at heritage Stanford 130 vs bovada USC -115 
+--------------------------------------------------
+2019-09-06 10:26:53.881172: Value on NCAAF Stanford vs USC at sportsbetting Stanford 135 vs bovada USC -115 
+--------------------------------------------------
+2019-09-06 10:28:08.210127: Value on MLB NYY vs BOS 7:10p current at heritage NYY -1.5 135 vs pinnacle BOS 1.5 -132 
+--------------------------------------------------
+2019-09-06 10:29:40.452655: Value on MLB NYY vs BOS 7:10p current at heritage NYY -1.5 135 vs pinnacle BOS 1.5 -134 
+--------------------------------------------------
+2019-09-06 10:57:34.465217: Value on NCAAF Arkansas State vs UNLV at heritage Arkansas State 105 vs pinnacle UNLV -103 
+--------------------------------------------------
+2019-09-06 10:57:34.970836: Value on NCAAF Stanford vs USC at pinnacle Stanford 126 vs bovada USC -115 
+--------------------------------------------------
+2019-09-06 10:57:35.475392: Value on NCAAF Stanford vs USC at bookmaker Stanford 130 vs bovada USC -115 
+--------------------------------------------------
+2019-09-06 10:57:35.979400: Value on NCAAF Stanford vs USC at heritage Stanford 130 vs bovada USC -115 
+--------------------------------------------------
+2019-09-06 10:57:36.487043: Value on NCAAF Stanford vs USC at sportsbetting Stanford 135 vs bovada USC -115 
+--------------------------------------------------
+2019-09-06 11:09:16.532290: Value on MLB TOR vs TB 7:10p current at heritage TOR 1.5 -115 vs pinnacle TB -1.5 118 
+--------------------------------------------------
+2019-09-06 11:10:02.380827: Value on MLB TOR vs TB 7:10p current at sportsbetting TOR 174 vs pinnacle TB -171 
+--------------------------------------------------
+2019-09-06 11:10:02.885977: Value on MLB TOR vs TB 7:10p current at sportsbetting TOR 174 vs heritage TB -174 
+--------------------------------------------------
+2019-09-06 15:12:15.707257: Value on NCAAF Arkansas State vs UNLV at heritage Arkansas State 105 vs pinnacle UNLV -102 
+--------------------------------------------------
+2019-09-06 15:14:16.143837: Value on NCAAF Arkansas State vs UNLV at heritage Arkansas State 105 vs pinnacle UNLV -105 
+--------------------------------------------------
+2019-09-06 15:19:59.425854: Value on NFL Washington vs Philadelphia at pinnacle Washington 10.0 108 vs heritage Philadelphia -10.0 -105 
+--------------------------------------------------
+2019-09-06 15:30:21.315646: Value on MLB ARI vs CIN 7:10p current at pinnacle ARI -110 vs sportsbetting CIN 110 
+--------------------------------------------------
+2019-09-06 15:32:30.447967: Value on NCAAF Sacramento State vs Arizona State at pinnacle Sacramento State 35.5 107 vs heritage Arizona State -35.5 -105 
+--------------------------------------------------
+2019-09-09 12:50:27.617125: Value on NCAAF North Carolina State vs West Virginia at heritage North Carolina State -7.0 -105 vs sportsbetting West Virginia 7.0 105 
+--------------------------------------------------
+2019-09-09 13:20:04.572785: Value on NFL Chicago vs Denver at sportsbetting Chicago 0.0 100 vs pinnacle Denver 0.0 -100 
+--------------------------------------------------
+2019-09-09 13:32:34.081142: Value on NCAAF Florida vs Kentucky at pinnacle Florida -9.0 101 vs sportsbetting Kentucky 9.0 100 
+--------------------------------------------------
+2019-09-09 13:37:14.378445: Value on NFL L.A. Chargers vs Detroit at pinnacle L.A. Chargers -3.0 106 vs heritage Detroit 3.0 -105 
+--------------------------------------------------
+2019-09-09 13:59:18.012778: Value on NFL Seattle vs Pittsburgh at heritage Seattle 3.5 -105 vs pinnacle Pittsburgh -3.5 105 
+--------------------------------------------------
+2019-09-09 14:47:20.107725: Value on MLB OAK vs HOU 8:10p current at pinnacle OAK 1.5 -115 vs heritage HOU -1.5 115 
+--------------------------------------------------
+2019-09-09 18:45:07.532114: Value on NFL Denver vs Oakland at pinnacle Denver -144 vs bovada Oakland 145 
+--------------------------------------------------
+2019-09-09 18:46:59.553170: Value on NFL Denver vs Oakland at pinnacle Denver -3.0 108 vs bovada Oakland 3.0 -105 
+--------------------------------------------------
+2019-09-10 11:49:21.059575: Value on MLB OAK vs HOU 8:10p current at heritage OAK 1.5 -125 vs bookmaker HOU -1.5 125 
+--------------------------------------------------
+2019-09-10 11:49:21.575093: Value on MLB KC vs CWS 8:10p current at heritage KC 1.5 -165 vs bookmaker CWS -1.5 166 
+--------------------------------------------------
+2019-09-10 12:14:56.998602: Value on NFL Chicago vs Denver at bookmaker Chicago -1.5 -113 vs pinnacle Denver 1.5 113 
+--------------------------------------------------
+2019-09-10 12:15:34.064762: Value on NFL Jacksonville vs Houston at pinnacle over 44.5 117 vs bookmaker under 45.0 -116 
+--------------------------------------------------
+2019-09-10 12:16:17.016415: Value on NCAAF Texas Tech vs Arizona at bookmaker over 74.0 -110 vs sportsbetting under 75.5 110 
+--------------------------------------------------
+2019-09-10 12:16:17.538358: Value on NCAAF Texas Tech vs Arizona at bovada over 74.0 -110 vs sportsbetting under 75.5 110 
+--------------------------------------------------
+2019-09-10 12:18:07.004172: Value on NCAAF Georgia State vs Western Michigan at heritage over 66.5 -105 vs sportsbetting under 68.0 105 
+--------------------------------------------------
+2019-09-10 12:54:06.756501: Value on NCAAF Stanford vs UCF at pinnacle Stanford 7.5 -101 vs sportsbetting UCF -7.5 105 
+--------------------------------------------------
+2019-09-10 13:04:59.896019: Value on MLB BOS vs TOR 7:07p current at pinnacle BOS -151 vs heritage TOR 152 
+--------------------------------------------------
+2019-09-10 13:05:00.416954: Value on MLB BOS vs TOR 7:07p current at pinnacle BOS -151 vs sportsbetting TOR 151 
+--------------------------------------------------

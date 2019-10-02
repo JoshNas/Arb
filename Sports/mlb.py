@@ -1,9 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import datetime as dt
-import get_moneylines as gm
-import get_spreads as gs
-import get_totals as gt
+from GetLines import get_totals as gt, get_moneylines as gm, get_spreads as gs
 
 
 def get_game_date(game):
