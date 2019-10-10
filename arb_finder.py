@@ -3,7 +3,7 @@ import tkinter as tk
 import winsound
 import datetime as dt
 import json
-from Sports import mlb, nfl
+from Sports import mlb, nfl, nhl, nba
 import compare
 
 
@@ -52,7 +52,7 @@ class ValueFinder(object):
         tk.Button(settings_tab, command=self.save_selections, text='Save').pack(side='left', anchor='nw')
 
     def save_selections(self):
-        selections = self.state()
+        selections = [var.get() for var in self.vars]
         sports = ["NBA", "NCAAB", "MLB", "NHL", "NFL", "NCAAF", "Email"]
         data = dict()
         for sport, selection in zip(sports, selections):
@@ -60,11 +60,6 @@ class ValueFinder(object):
 
         with open('settings.json', 'w') as outfile:
             json.dump(data, outfile)
-
-    def state(self):
-        # could make part of save_selections, but considering using this to also check before running instead
-        # of relying on JSON read
-        return map((lambda v: v.get()), self.vars)
 
     def add_to_gui(self, values):
         for value in values:
@@ -83,7 +78,12 @@ class ValueFinder(object):
         self.results.delete('1.0', 'end')
         if self.vars[0].get():
             # NBA
-            pass
+            moneylines = nba.get_moneylines()
+            spreads = nba.get_spreads()
+            totals = nba.get_totals()
+            self.add_to_gui(compare.compare_spreads(spreads, 'NBA'))
+            self.add_to_gui(compare.compare_ml(moneylines, 'NBA'))
+            self.add_to_gui(compare.compare_totals(totals, 'NBA'))
         if self.vars[1].get():
             # NCAAB
             pass
@@ -97,7 +97,12 @@ class ValueFinder(object):
             self.add_to_gui(compare.compare_totals(totals, 'MLB'))
         if self.vars[3].get():
             # NHL
-            pass
+            moneylines = nhl.get_moneylines()
+            puck_lines = nhl.get_pucklines()
+            totals = nhl.get_totals()
+            self.add_to_gui(compare.compare_spreads(puck_lines, 'NHL'))
+            self.add_to_gui(compare.compare_ml(moneylines, 'NHL'))
+            self.add_to_gui(compare.compare_totals(totals, 'NHL'))
         if self.vars[4].get():
             # NFL
             moneylines = nfl.get_money_lines(self.nfl_ml)
