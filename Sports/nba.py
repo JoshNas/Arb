@@ -31,13 +31,14 @@ def get_games(url):
 def get_game_info(game):
     """Get teams and time"""
     teams = game.find_all('a')
-    away_team = teams[1].get_text().split('-')[0].strip()
-    home_team = teams[2].get_text().split('-')[0].strip()
-    # print(teams[1].get_text().split('-')[0])
-    # print(teams[2].get_text().split('-')[0])
-    time = game.find('div', attrs={'class': 'el-div eventLine-time'}) \
-        .find('div', attrs={'class': "eventLine-book-value"}).get_text()
-    return f'{away_team} vs {home_team} {time}'
+    try:
+        away_team = teams[1].get_text().split('-')[0].strip()
+        home_team = teams[2].get_text().split('-')[0].strip()
+        time = game.find('div', attrs={'class': 'el-div eventLine-time'}) \
+            .find('div', attrs={'class': "eventLine-book-value"}).get_text()
+        return f'{away_team} vs {home_team} {time}'
+    except IndexError:
+        return None
 
 
 def get_moneylines():
