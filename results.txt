@@ -1754,3 +1754,19 @@
 --------------------------------------------------
 2019-09-10 13:05:00.416954: Value on MLB BOS vs TOR 7:07p current at pinnacle BOS -151 vs sportsbetting TOR 151 
 --------------------------------------------------
+2019-11-12 09:54:04.336387: Value on NBA Portland vs Sacramento 10:00p current at bookmaker Portland 110 vs pinnacle Sacramento 120 
+--------------------------------------------------
+2019-11-12 09:54:04.840850: Value on NBA Portland vs Sacramento 10:00p current at bookmaker Portland 110 vs heritage Sacramento 110 
+--------------------------------------------------
+2019-11-12 09:54:05.343066: Value on NBA Portland vs Sacramento 10:00p current at bookmaker Portland 110 vs sportsbetting Sacramento 113 
+--------------------------------------------------
+2019-11-12 09:54:05.844967: Value on NBA Portland vs Sacramento 10:00p current at bookmaker Portland 110 vs bovada Sacramento 115 
+--------------------------------------------------
+2019-11-12 09:54:28.398131: Value on NCAAF Western Michigan vs Ohio at bookmaker Western Michigan 107 vs pinnacle Ohio -103 
+--------------------------------------------------
+2019-11-12 09:54:28.901589: Value on NCAAF Western Michigan vs Ohio at bookmaker Western Michigan 107 vs heritage Ohio -105 
+--------------------------------------------------
+2019-11-12 09:54:29.404523: Value on NCAAF Western Michigan vs Ohio at bookmaker Western Michigan 107 vs sportsbetting Ohio -103 
+--------------------------------------------------
+2019-11-12 09:54:29.907596: Value on NCAAF Western Michigan vs Ohio at bookmaker Western Michigan 107 vs bovada Ohio -105 
+--------------------------------------------------

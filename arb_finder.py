@@ -3,7 +3,7 @@ import tkinter as tk
 import winsound
 import datetime as dt
 import json
-from Sports import mlb, nfl, nhl, nba
+from Sports import mlb, nfl, nhl, nba, ncaab
 import compare
 
 
@@ -86,7 +86,12 @@ class ValueFinder(object):
             self.add_to_gui(compare.compare_totals(totals, 'NBA'))
         if self.vars[1].get():
             # NCAAB
-            pass
+            moneylines = ncaab.get_moneylines()
+            spreads = ncaab.get_spreads()
+            totals = ncaab.get_totals()
+            self.add_to_gui(compare.compare_spreads(spreads, 'NCAAB'))
+            self.add_to_gui(compare.compare_ml(moneylines, 'NCAAB'))
+            self.add_to_gui(compare.compare_totals(totals, 'NCAAB'))
         if self.vars[2].get():
             # MLB
             run_lines = mlb.get_runlines()
