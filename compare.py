@@ -61,7 +61,7 @@ def compare_totals(lines, sport):
                 under_odds = game['unders'].get(under_site)[1]
                 # print(f"Comparing {game['game']} {over_site} {over} {over_odds} vs "
                 #       f"{under_site} {under} {under_odds}\n")
-                if over - under < 0 and over_odds + under_odds >= 0:
+                if over - under < 0 <= over_odds + under_odds:
                     teams = game['game']
                     value.append(f'Value on {sport} {teams} at {over_site} over {over} {over_odds} vs '
                                  f'{under_site} under {under} {under_odds} {breaker}')

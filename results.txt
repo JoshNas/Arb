@@ -1770,3 +1770,63 @@
 --------------------------------------------------
 2019-11-12 09:54:29.907596: Value on NCAAF Western Michigan vs Ohio at bookmaker Western Michigan 107 vs bovada Ohio -105 
 --------------------------------------------------
+2019-11-12 09:56:34.504131: Value on NBA Portland vs Sacramento 10:00p current at bookmaker Portland 110 vs pinnacle Sacramento 122 
+--------------------------------------------------
+2019-11-12 09:58:13.515098: Value on NBA Portland vs Sacramento 10:00p current at bookmaker Portland 110 vs sportsbetting Sacramento 115 
+--------------------------------------------------
+2019-11-12 10:02:16.581835: Value on NBA Portland vs Sacramento 10:00p current at bookmaker Portland 110 vs heritage Sacramento 120 
+--------------------------------------------------
+2019-11-12 10:06:14.460423: Value on NBA Portland vs Sacramento 10:00p current at bookmaker Portland 110 vs bovada Sacramento 120 
+--------------------------------------------------
+2019-11-12 10:08:41.250496: Value on NBA Portland vs Sacramento 10:00p current at bookmaker Portland 110 vs pinnacle Sacramento 118 
+--------------------------------------------------
+2019-11-13 11:57:01.639875: Value on NCAAB Villanova vs Ohio State 7:00p current at bookmaker Villanova 125 vs pinnacle Ohio -119 
+--------------------------------------------------
+2019-11-13 11:57:02.143786: Value on NCAAB Villanova vs Ohio State 7:00p current at bookmaker Villanova 125 vs heritage Ohio -120 
+--------------------------------------------------
+2019-11-13 11:57:02.647350: Value on NCAAB Villanova vs Ohio State 7:00p current at bookmaker Villanova 125 vs sportsbetting Ohio -120 
+--------------------------------------------------
+2019-11-13 11:57:03.149824: Value on NCAAB Miami (OH) vs Purdue Fort Wayne 7:00p current at pinnacle Miami -121 vs bookmaker vs 133 
+--------------------------------------------------
+2019-11-13 11:57:03.652511: Value on NCAAB Miami (OH) vs Purdue Fort Wayne 7:00p current at heritage Miami -125 vs bookmaker vs 133 
+--------------------------------------------------
+2019-11-13 11:57:04.155502: Value on NCAAB Miami (OH) vs Purdue Fort Wayne 7:00p current at sportsbetting Miami -125 vs bookmaker vs 133 
+--------------------------------------------------
+2019-11-13 11:57:04.658780: Value on NCAAB Miami (OH) vs Purdue Fort Wayne 7:00p current at bovada Miami -130 vs bookmaker vs 133 
+--------------------------------------------------
+2019-11-13 11:59:52.399439: Value on NCAAB Villanova vs Ohio State 7:00p current at bookmaker Villanova 125 vs pinnacle Ohio -119 
+--------------------------------------------------
+2019-11-13 11:59:52.902865: Value on NCAAB Villanova vs Ohio State 7:00p current at bookmaker Villanova 125 vs heritage Ohio -120 
+--------------------------------------------------
+2019-11-13 11:59:53.406274: Value on NCAAB Villanova vs Ohio State 7:00p current at bookmaker Villanova 125 vs sportsbetting Ohio -120 
+--------------------------------------------------
+2019-11-13 11:59:53.909367: Value on NCAAB Miami (OH) vs Purdue Fort Wayne 7:00p current at pinnacle Miami -121 vs bookmaker vs 133 
+--------------------------------------------------
+2019-11-13 11:59:54.413236: Value on NCAAB Miami (OH) vs Purdue Fort Wayne 7:00p current at heritage Miami -125 vs bookmaker vs 133 
+--------------------------------------------------
+2019-11-13 11:59:54.916638: Value on NCAAB Miami (OH) vs Purdue Fort Wayne 7:00p current at sportsbetting Miami -125 vs bookmaker vs 133 
+--------------------------------------------------
+2019-11-13 11:59:55.418840: Value on NCAAB Miami (OH) vs Purdue Fort Wayne 7:00p current at bovada Miami -130 vs bookmaker vs 133 
+--------------------------------------------------
+2019-11-13 12:06:22.714713: Value on NCAAB Miami (OH) vs Purdue Fort Wayne 7:00p current at pinnacle Miami -121 vs bookmaker vs 133 
+--------------------------------------------------
+2019-11-13 12:06:23.215634: Value on NCAAB Miami (OH) vs Purdue Fort Wayne 7:00p current at heritage Miami -125 vs bookmaker vs 133 
+--------------------------------------------------
+2019-11-13 12:06:23.716740: Value on NCAAB Miami (OH) vs Purdue Fort Wayne 7:00p current at sportsbetting Miami -125 vs bookmaker vs 133 
+--------------------------------------------------
+2019-11-13 12:06:24.218331: Value on NCAAB Miami (OH) vs Purdue Fort Wayne 7:00p current at bovada Miami -125 vs bookmaker vs 133 
+--------------------------------------------------
+2019-11-13 12:06:24.719679: Value on NCAAB Villanova vs Ohio State 7:00p current at bookmaker Villanova 125 vs pinnacle Ohio -119 
+--------------------------------------------------
+2019-11-13 12:06:25.221031: Value on NCAAB Villanova vs Ohio State 7:00p current at bookmaker Villanova 125 vs heritage Ohio -120 
+--------------------------------------------------
+2019-11-13 12:06:25.722106: Value on NCAAB Villanova vs Ohio State 7:00p current at bookmaker Villanova 125 vs sportsbetting Ohio -120 
+--------------------------------------------------
+2019-11-13 12:06:26.223056: Value on NCAAB Villanova vs Ohio State 7:00p current at bookmaker Villanova 125 vs bovada Ohio -120 
+--------------------------------------------------
+2019-11-13 12:15:01.438378: Value on NBA Golden State vs L.A. Lakers 10:00p current at bookmaker Golden 351 vs pinnacle vs -347 
+--------------------------------------------------
+2019-11-13 12:15:58.187505: Value on NBA Golden State vs L.A. Lakers 10:00p current at bookmaker Golden 351 vs pinnacle vs -344 
+--------------------------------------------------
+2019-11-13 12:17:22.978479: Value on NBA Golden State vs L.A. Lakers 10:00p current at bookmaker Golden 351 vs pinnacle vs -331 
+--------------------------------------------------

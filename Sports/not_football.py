@@ -4,7 +4,6 @@ import datetime as dt
 from GetLines import get_totals as gt, get_moneylines as gm, get_spreads as gs
 
 
-
 def get_game_date(game):
     """"Checks if SBR game is taking place today, yesterday, or tomorrow"""
     date = game.find('div', attrs={'class': 'date'}).get_text()
@@ -21,11 +20,11 @@ def get_game_date(game):
     return game_date
 
 
-def get_games(url):
+def get_games(url, sport):
     """Scrape MLB moneylines from SBR"""
     page = requests.get(url)
     soup = BeautifulSoup(page.content, "html.parser")
-    game_days = soup.find_all('div', attrs={'class': "eventGroup class-nba-basketball show-rotation"})
+    game_days = soup.find_all('div', attrs={'class': f"eventGroup class-{sport} show-rotation"})
     return game_days
 
 
@@ -43,10 +42,9 @@ def get_game_info(game):
         return None
 
 
-def get_moneylines():
+def get_moneylines(url, sport):
     """Scrape MLB moneylines from SBR"""
-    url = 'https://classic.sportsbookreview.com/betting-odds/nba-basketball/money-line/'
-    game_days = get_games(url)
+    game_days = get_games(url, sport)
 
     money_lines = []
 
@@ -67,9 +65,8 @@ def get_moneylines():
     return money_lines
 
 
-def get_spreads():
-    url = 'https://classic.sportsbookreview.com/betting-odds/nba-basketball/'
-    game_days = get_games(url)
+def get_spreads(url, sport):
+    game_days = get_games(url, sport)
 
     spreads = []
 
@@ -81,18 +78,20 @@ def get_spreads():
             for game in games:
                 teams = get_game_info(game)
                 game_info = f'{teams} {game_date}'
-                lines = gs.run_lines(game)
+                if 'basketball' in sport:
+                    lines = gs.spreads(game)
+                else:
+                    # baseball and hockey
+                    lines = gs.run_lines(game)
                 if lines[0]:
                     # check that lines aren't empty
                     line = {'game': game_info, 'away_odds': lines[0], 'home_odds': lines[1]}
                     spreads.append(line)
-
     return spreads
 
 
-def get_totals():
-    url = 'https://classic.sportsbookreview.com/betting-odds/nba-basketball/totals/'
-    game_days = get_games(url)
+def get_totals(url, sport):
+    game_days = get_games(url, sport)
 
     totals = []
 

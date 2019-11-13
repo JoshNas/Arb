@@ -24,7 +24,7 @@ def get_games(url):
     """Scrape MLB moneylines from SBR"""
     page = requests.get(url)
     soup = BeautifulSoup(page.content, "html.parser")
-    game_days = soup.find_all('div', attrs={'class': "eventGroup class-nba-basketball show-rotation"})
+    game_days = soup.find_all('div', attrs={'class': f"eventGroup class-nba-basketball show-rotation"})
     return game_days
 
 

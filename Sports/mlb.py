@@ -29,14 +29,16 @@ def get_games(url):
 
 
 def get_game_info(game):
-    """Get teams and time"""
+    """Get teams and game time"""
     try:
         teams = game.find_all('a')
         away_team = teams[1].get_text().split('-')[0].strip()
         home_team = teams[2].get_text().split('-')[0].strip()
-        time = game.find('div', attrs={'class': 'el-div eventLine-time'}) \
+        game_time = game.find('div', attrs={'class': 'el-div eventLine-time'}) \
             .find('div', attrs={'class': "eventLine-book-value"}).get_text()
-        return f'{away_team} vs {home_team} {time}'
+
+        return f'{away_team} vs {home_team} {game_time}'
+
     except IndexError:
         return None
 
@@ -50,15 +52,14 @@ def get_moneylines():
 
     for game_day in game_days:
         game_date = get_game_date(game_day)
-        if game_date:
+        if game_date:   # ignores games from previous day
             games = game_day.find_all('div', attrs={'class': 'event-holder holder-scheduled'})
 
             for game in games:
                 teams = get_game_info(game)
                 game_info = f'{teams} {game_date}'
                 lines = gm.moneyline(game)
-                if lines:
-                    # check that lines aren't empty
+                if lines:  # check that lines aren't empty
                     line = {'game': game_info, 'away_odds': lines[0], 'home_odds': lines[1]}
                     money_lines.append(line)
 
