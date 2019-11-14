@@ -1830,3 +1830,249 @@
 --------------------------------------------------
 2019-11-13 12:17:22.978479: Value on NBA Golden State vs L.A. Lakers 10:00p current at bookmaker Golden 351 vs pinnacle vs -331 
 --------------------------------------------------
+2019-11-13 13:34:45.701291: Value on NBA Philadelphia vs Orlando 7:00p current at pinnacle Philadelphia 121 vs bookmaker Orlando -115 
+--------------------------------------------------
+2019-11-13 13:34:46.204539: Value on NBA Philadelphia vs Orlando 7:00p current at heritage Philadelphia 125 vs bookmaker Orlando -115 
+--------------------------------------------------
+2019-11-13 13:34:46.707609: Value on NBA Philadelphia vs Orlando 7:00p current at sportsbetting Philadelphia 117 vs bookmaker Orlando -115 
+--------------------------------------------------
+2019-11-13 13:34:47.211014: Value on NBA Golden State vs L.A. Lakers 10:00p current at bookmaker Golden 351 vs pinnacle vs -336 
+--------------------------------------------------
+2019-11-13 13:34:47.713360: Value on NBA Golden State vs L.A. Lakers 10:00p current at bookmaker Golden 351 vs sportsbetting vs -350 
+--------------------------------------------------
+2019-11-13 13:34:52.855713: Value on NCAAB Quinnipiac vs Brown 7:00p current at bookmaker Quinnipiac 234 vs pinnacle Brown -221 
+--------------------------------------------------
+2019-11-13 13:34:53.357722: Value on NCAAB Quinnipiac vs Brown 7:00p current at bookmaker Quinnipiac 234 vs heritage Brown -225 
+--------------------------------------------------
+2019-11-13 13:34:53.859833: Value on NCAAB Quinnipiac vs Brown 7:00p current at bookmaker Quinnipiac 234 vs sportsbetting Brown -220 
+--------------------------------------------------
+2019-11-13 13:34:54.362747: Value on NCAAB Quinnipiac vs Brown 7:00p current at bookmaker Quinnipiac 234 vs bovada Brown -230 
+--------------------------------------------------
+2019-11-13 13:34:54.864770: Value on NCAAB Villanova vs Ohio State 7:00p current at bookmaker Villanova 125 vs pinnacle Ohio -117 
+--------------------------------------------------
+2019-11-13 13:34:55.366198: Value on NCAAB Villanova vs Ohio State 7:00p current at bookmaker Villanova 125 vs heritage Ohio -120 
+--------------------------------------------------
+2019-11-13 13:34:55.867450: Value on NCAAB Villanova vs Ohio State 7:00p current at bookmaker Villanova 125 vs sportsbetting Ohio -120 
+--------------------------------------------------
+2019-11-13 13:34:56.368800: Value on NCAAB Villanova vs Ohio State 7:00p current at bookmaker Villanova 125 vs bovada Ohio -115 
+--------------------------------------------------
+2019-11-13 13:34:56.870989: Value on NCAAB Cal State Fullerton vs Wyoming 9:00p current at sportsbetting Cal 133 vs bookmaker Fullerton -133 
+--------------------------------------------------
+2019-11-13 13:37:08.542039: Value on NBA Philadelphia vs Orlando 7:00p current at bovada Philadelphia 120 vs bookmaker Orlando -115 
+--------------------------------------------------
+2019-11-13 13:37:49.869865: Value on NBA Philadelphia vs Orlando 7:00p current at pinnacle Philadelphia 119 vs bookmaker Orlando -115 
+--------------------------------------------------
+2019-11-13 13:38:31.035782: Value on NBA Philadelphia vs Orlando 7:00p current at sportsbetting Philadelphia 115 vs bookmaker Orlando -115 
+--------------------------------------------------
+2019-11-13 13:44:06.219708: Value on NBA Philadelphia vs Orlando 7:00p current at pinnacle Philadelphia 120 vs bookmaker Orlando -115 
+--------------------------------------------------
+2019-11-13 13:51:41.834251: Value on NBA Golden State vs L.A. Lakers 10:00p current at bookmaker Golden 351 vs pinnacle vs -333 
+--------------------------------------------------
+2019-11-13 13:55:53.661830: Value on NBA Golden State vs L.A. Lakers 10:00p current at bookmaker Golden 351 vs pinnacle vs -334 
+--------------------------------------------------
+2019-11-13 14:05:39.482414: Value on NBA Golden State vs L.A. Lakers 10:00p current at bookmaker Golden 351 vs pinnacle vs -338 
+--------------------------------------------------
+2019-11-13 14:17:19.354696: Value on NBA Golden State vs L.A. Lakers 10:00p current at bookmaker Golden 351 vs pinnacle vs -339 
+--------------------------------------------------
+2019-11-13 16:23:26.988654: Value on NBA Philadelphia vs Orlando 7:00p current at pinnacle Philadelphia 121 vs bookmaker Orlando -115 
+--------------------------------------------------
+2019-11-13 16:23:27.491196: Value on NBA Philadelphia vs Orlando 7:00p current at heritage Philadelphia 120 vs bookmaker Orlando -115 
+--------------------------------------------------
+2019-11-13 16:23:27.992472: Value on NBA Philadelphia vs Orlando 7:00p current at sportsbetting Philadelphia 120 vs bookmaker Orlando -115 
+--------------------------------------------------
+2019-11-13 16:23:28.493596: Value on NBA Philadelphia vs Orlando 7:00p current at bovada Philadelphia 120 vs bookmaker Orlando -115 
+--------------------------------------------------
+2019-11-13 16:23:28.994460: Value on NBA Golden State vs L.A. Lakers 10:00p current at bookmaker Golden 351 vs pinnacle vs -332 
+--------------------------------------------------
+2019-11-13 16:23:29.495683: Value on NBA Golden State vs L.A. Lakers 10:00p current at bookmaker Golden 351 vs sportsbetting vs -340 
+--------------------------------------------------
+2019-11-13 16:23:33.477692: Value on NHL Chicago vs Vegas 10:00p current at heritage Chicago 1.5 -115 vs bookmaker Vegas -1.5 115 
+--------------------------------------------------
+2019-11-13 16:23:44.507559: Value on NCAAF Louisiana Tech vs Marshall at pinnacle Louisiana Tech 148 vs bookmaker Marshall -140 
+--------------------------------------------------
+2019-11-13 16:23:45.008574: Value on NCAAF Louisiana Tech vs Marshall at heritage Louisiana Tech 150 vs bookmaker Marshall -140 
+--------------------------------------------------
+2019-11-13 16:23:45.509508: Value on NCAAF Louisiana Tech vs Marshall at sportsbetting Louisiana Tech 155 vs bookmaker Marshall -140 
+--------------------------------------------------
+2019-11-13 16:23:46.011034: Value on NCAAF Louisiana Tech vs Marshall at bovada Louisiana Tech 145 vs bookmaker Marshall -140 
+--------------------------------------------------
+2019-11-13 16:24:56.133889: Value on NBA Golden State vs L.A. Lakers 10:00p current at bookmaker Golden 351 vs pinnacle vs -333 
+--------------------------------------------------
+2019-11-13 17:41:00.961982: Value on NBA Philadelphia vs Orlando 7:00p current at pinnacle Philadelphia 122 vs bookmaker Orlando -115 
+--------------------------------------------------
+2019-11-13 17:41:01.463679: Value on NBA Philadelphia vs Orlando 7:00p current at heritage Philadelphia 120 vs bookmaker Orlando -115 
+--------------------------------------------------
+2019-11-13 17:41:01.965067: Value on NBA Philadelphia vs Orlando 7:00p current at sportsbetting Philadelphia 120 vs bookmaker Orlando -115 
+--------------------------------------------------
+2019-11-13 17:41:02.466441: Value on NBA Philadelphia vs Orlando 7:00p current at bovada Philadelphia 120 vs bookmaker Orlando -115 
+--------------------------------------------------
+2019-11-13 17:41:02.967784: Value on NBA Washington vs Boston 7:30p current at bookmaker Washington 317 vs pinnacle Boston -284 
+--------------------------------------------------
+2019-11-13 17:41:03.468979: Value on NBA Washington vs Boston 7:30p current at bookmaker Washington 317 vs sportsbetting Boston -300 
+--------------------------------------------------
+2019-11-13 17:41:03.970322: Value on NBA Golden State vs L.A. Lakers 10:00p current at bookmaker Golden 351 vs pinnacle vs -317 
+--------------------------------------------------
+2019-11-13 17:41:04.471174: Value on NBA Golden State vs L.A. Lakers 10:00p current at bookmaker Golden 351 vs sportsbetting vs -325 
+--------------------------------------------------
+2019-11-13 17:41:08.722737: Value on NHL Chicago vs Vegas 10:00p current at heritage Chicago 1.5 -115 vs bookmaker Vegas -1.5 115 
+--------------------------------------------------
+2019-11-13 17:41:09.224189: Value on NHL Chicago vs Vegas 10:00p current at bovada Chicago 1.5 -115 vs bookmaker Vegas -1.5 115 
+--------------------------------------------------
+2019-11-13 17:41:19.425646: Value on NCAAF Louisiana Tech vs Marshall at pinnacle Louisiana Tech 152 vs bookmaker Marshall -140 
+--------------------------------------------------
+2019-11-13 17:41:19.926730: Value on NCAAF Louisiana Tech vs Marshall at heritage Louisiana Tech 155 vs bookmaker Marshall -140 
+--------------------------------------------------
+2019-11-13 17:41:20.427928: Value on NCAAF Louisiana Tech vs Marshall at sportsbetting Louisiana Tech 160 vs bookmaker Marshall -140 
+--------------------------------------------------
+2019-11-13 17:41:20.929518: Value on NCAAF Louisiana Tech vs Marshall at bovada Louisiana Tech 155 vs bookmaker Marshall -140 
+--------------------------------------------------
+2019-11-13 17:42:32.719851: Value on NBA Washington vs Boston 7:30p current at bookmaker Washington 317 vs pinnacle Boston -285 
+--------------------------------------------------
+2019-11-13 17:44:29.696911: Value on NBA Philadelphia vs Orlando 7:00p current at pinnacle Philadelphia 117 vs bookmaker Orlando -115 
+--------------------------------------------------
+2019-11-13 17:45:48.129560: Value on NBA Philadelphia vs Orlando 7:00p current at pinnacle Philadelphia 119 vs bookmaker Orlando -115 
+--------------------------------------------------
+2019-11-13 17:45:48.633290: Value on NBA Golden State vs L.A. Lakers 10:00p current at bookmaker Golden 351 vs pinnacle vs -318 
+--------------------------------------------------
+2019-11-14 11:17:19.089539: <generator object compare_ml.<locals>.<genexpr> at 0x0759B870>2019-11-14 11:17:19.592953: <generator object compare_ml.<locals>.<genexpr> at 0x0759B8F0>2019-11-14 11:17:20.096273: <generator object compare_ml.<locals>.<genexpr> at 0x03DBA4F0>2019-11-14 11:17:20.599669: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C1B0>2019-11-14 11:17:21.103363: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C1F0>2019-11-14 11:17:21.607199: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C230>2019-11-14 11:17:22.110177: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C270>2019-11-14 11:17:22.614020: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C2B0>2019-11-14 11:17:23.117554: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C2F0>2019-11-14 11:17:23.621663: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C370>2019-11-14 11:17:24.124884: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C3B0>2019-11-14 11:17:24.628107: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C3F0>2019-11-14 11:17:25.130259: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C430>2019-11-14 11:17:25.632242: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C470>2019-11-14 11:17:26.135842: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C4B0>2019-11-14 11:17:26.639525: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C4F0>2019-11-14 11:17:27.143004: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C530>2019-11-14 11:17:27.646856: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C330>2019-11-14 11:17:28.150204: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C570>2019-11-14 11:17:28.653477: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C5B0>2019-11-14 11:17:29.156101: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C5F0>2019-11-14 11:17:29.659448: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C630>2019-11-14 11:17:30.163210: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C670>2019-11-14 11:17:30.666803: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C6B0>2019-11-14 11:17:31.170476: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C6F0>2019-11-14 11:17:31.673839: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C730>2019-11-14 11:17:32.177194: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C770>2019-11-14 11:17:32.679687: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C7B0>2019-11-14 11:17:33.180924: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C7F0>2019-11-14 11:17:33.683278: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C830>2019-11-14 11:17:34.186470: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C870>2019-11-14 11:17:34.689713: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C8B0>2019-11-14 11:17:35.192497: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C8F0>2019-11-14 11:17:35.694946: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C930>2019-11-14 11:17:36.196962: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C970>2019-11-14 11:17:36.700730: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C9B0>2019-11-14 11:17:37.203893: <generator object compare_ml.<locals>.<genexpr> at 0x07B9C9F0>2019-11-14 11:17:37.706448: <generator object compare_ml.<locals>.<genexpr> at 0x07B9CA30>2019-11-14 11:17:38.209553: <generator object compare_ml.<locals>.<genexpr> at 0x07B9CA70>2019-11-14 11:17:38.712469: <generator object compare_ml.<locals>.<genexpr> at 0x07B9CAB0>2019-11-14 11:17:39.215820: <generator object compare_ml.<locals>.<genexpr> at 0x07B9CAF0>2019-11-14 11:17:39.718902: <generator object compare_ml.<locals>.<genexpr> at 0x07B9CB30>2019-11-14 11:17:40.221609: <generator object compare_ml.<locals>.<genexpr> at 0x07B9CB70>2019-11-14 11:17:40.724922: <generator object compare_ml.<locals>.<genexpr> at 0x07B9CBB0>2019-11-14 11:17:41.228889: <generator object compare_ml.<locals>.<genexpr> at 0x07B9CBF0>2019-11-14 11:17:41.732668: <generator object compare_ml.<locals>.<genexpr> at 0x07B9CC30>2019-11-14 11:17:42.234086: <generator object compare_ml.<locals>.<genexpr> at 0x07B9CC70>2019-11-14 11:17:42.736852: <generator object compare_ml.<locals>.<genexpr> at 0x07B9CCB0>2019-11-14 11:17:59.030387: <generator object compare_ml.<locals>.<genexpr> at 0x0748DBB0>2019-11-14 11:17:59.533845: <generator object compare_ml.<locals>.<genexpr> at 0x0748DC30>2019-11-14 11:18:00.035921: <generator object compare_ml.<locals>.<genexpr> at 0x03CB94F0>2019-11-14 11:18:00.539258: <generator object compare_ml.<locals>.<genexpr> at 0x07A9B4F0>2019-11-14 11:18:01.042239: <generator object compare_ml.<locals>.<genexpr> at 0x07A9B530>2019-11-14 11:18:01.545758: <generator object compare_ml.<locals>.<genexpr> at 0x07A9B570>2019-11-14 11:18:02.049093: <generator object compare_ml.<locals>.<genexpr> at 0x07A9B5B0>2019-11-14 11:18:02.551378: <generator object compare_ml.<locals>.<genexpr> at 0x07A9B5F0>2019-11-14 11:18:03.055469: <generator object compare_ml.<locals>.<genexpr> at 0x07A9B630>2019-11-14 11:18:03.558040: <generator object compare_ml.<locals>.<genexpr> at 0x07A9B6B0>2019-11-14 11:18:04.061231: <generator object compare_ml.<locals>.<genexpr> at 0x07A9B6F0>2019-11-14 11:18:04.564633: <generator object compare_ml.<locals>.<genexpr> at 0x07A9B730>2019-11-14 11:18:05.068481: <generator object compare_ml.<locals>.<genexpr> at 0x07A9B770>2019-11-14 11:18:05.572390: <generator object compare_ml.<locals>.<genexpr> at 0x07A9B7B0>2019-11-14 11:18:06.076377: <generator object compare_ml.<locals>.<genexpr> at 0x07A9B7F0>2019-11-14 11:18:06.579708: <generator object compare_ml.<locals>.<genexpr> at 0x07A9B830>2019-11-14 11:18:07.082638: <generator object compare_ml.<locals>.<genexpr> at 0x07A9B870>2019-11-14 11:18:07.586138: <generator object compare_ml.<locals>.<genexpr> at 0x07A9B670>2019-11-14 11:18:08.091365: <generator object compare_ml.<locals>.<genexpr> at 0x07A9B8B0>2019-11-14 11:18:08.594411: <generator object compare_ml.<locals>.<genexpr> at 0x07A9B8F0>2019-11-14 11:18:09.097876: <generator object compare_ml.<locals>.<genexpr> at 0x07A9B930>2019-11-14 11:18:09.601639: <generator object compare_ml.<locals>.<genexpr> at 0x07A9B970>2019-11-14 11:18:10.103977: <generator object compare_ml.<locals>.<genexpr> at 0x07A9B9B0>2019-11-14 11:18:10.607222: <generator object compare_ml.<locals>.<genexpr> at 0x07A9B9F0>2019-11-14 11:18:11.110283: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BA30>2019-11-14 11:18:11.613829: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BA70>2019-11-14 11:18:12.117329: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BAB0>2019-11-14 11:18:12.619686: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BAF0>2019-11-14 11:18:13.122496: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BB30>2019-11-14 11:18:13.625500: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BB70>2019-11-14 11:18:14.128640: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BBB0>2019-11-14 11:18:14.631662: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BBF0>2019-11-14 11:18:15.133848: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BC30>2019-11-14 11:18:15.637212: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BC70>2019-11-14 11:18:16.140666: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BCB0>2019-11-14 11:18:16.644035: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BCF0>2019-11-14 11:18:17.147052: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BD30>2019-11-14 11:18:17.649226: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BD70>2019-11-14 11:18:18.153089: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BDB0>2019-11-14 11:18:18.656350: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BDF0>2019-11-14 11:18:19.160045: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BE30>2019-11-14 11:18:19.663259: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BE70>2019-11-14 11:18:20.165659: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BEB0>2019-11-14 11:18:20.667690: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BEF0>2019-11-14 11:18:21.171432: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BF30>2019-11-14 11:18:21.675186: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BF70>2019-11-14 11:18:22.178325: <generator object compare_ml.<locals>.<genexpr> at 0x07A9BFB0>2019-11-14 11:18:22.680322: <generator object compare_ml.<locals>.<genexpr> at 0x07AAD030>2019-11-14 11:19:19.075817: <generator object compare_ml.<locals>.<genexpr> at 0x0768DBB0>2019-11-14 11:19:19.579596: <generator object compare_ml.<locals>.<genexpr> at 0x0768DC30>2019-11-14 11:19:20.083011: <generator object compare_ml.<locals>.<genexpr> at 0x03EA94F0>2019-11-14 11:19:20.585423: <generator object compare_ml.<locals>.<genexpr> at 0x07C8B4F0>2019-11-14 11:19:21.088471: <generator object compare_ml.<locals>.<genexpr> at 0x07C8B530>2019-11-14 11:19:21.591445: <generator object compare_ml.<locals>.<genexpr> at 0x07C8B570>2019-11-14 11:19:22.094049: <generator object compare_ml.<locals>.<genexpr> at 0x07C8B5B0>2019-11-14 11:19:22.595799: <generator object compare_ml.<locals>.<genexpr> at 0x07C8B5F0>2019-11-14 11:19:23.097801: <generator object compare_ml.<locals>.<genexpr> at 0x07C8B630>2019-11-14 11:19:23.599590: <generator object compare_ml.<locals>.<genexpr> at 0x07C8B6B0>2019-11-14 11:19:24.102843: <generator object compare_ml.<locals>.<genexpr> at 0x07C8B6F0>2019-11-14 11:19:24.606426: <generator object compare_ml.<locals>.<genexpr> at 0x07C8B730>2019-11-14 11:19:25.110058: <generator object compare_ml.<locals>.<genexpr> at 0x07C8B770>2019-11-14 11:19:25.612497: <generator object compare_ml.<locals>.<genexpr> at 0x07C8B7B0>2019-11-14 11:19:26.115525: <generator object compare_ml.<locals>.<genexpr> at 0x07C8B7F0>2019-11-14 11:19:26.618541: <generator object compare_ml.<locals>.<genexpr> at 0x07C8B830>2019-11-14 11:19:27.121907: <generator object compare_ml.<locals>.<genexpr> at 0x07C8B870>2019-11-14 11:19:27.625630: <generator object compare_ml.<locals>.<genexpr> at 0x07C8B670>2019-11-14 11:19:28.128827: <generator object compare_ml.<locals>.<genexpr> at 0x07C8B8B0>2019-11-14 11:19:28.632463: <generator object compare_ml.<locals>.<genexpr> at 0x07C8B8F0>2019-11-14 11:19:29.135711: <generator object compare_ml.<locals>.<genexpr> at 0x07C8B930>2019-11-14 11:19:29.639590: <generator object compare_ml.<locals>.<genexpr> at 0x07C8B970>2019-11-14 11:19:30.142671: <generator object compare_ml.<locals>.<genexpr> at 0x07C8B9B0>2019-11-14 11:19:30.644644: <generator object compare_ml.<locals>.<genexpr> at 0x07C8B9F0>2019-11-14 11:19:31.148040: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BA30>2019-11-14 11:19:31.651229: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BA70>2019-11-14 11:19:32.155218: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BAB0>2019-11-14 11:19:32.658890: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BAF0>2019-11-14 11:19:33.162728: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BB30>2019-11-14 11:19:33.665068: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BB70>2019-11-14 11:19:34.168507: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BBB0>2019-11-14 11:19:34.671324: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BBF0>2019-11-14 11:19:35.175354: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BC30>2019-11-14 11:19:35.677588: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BC70>2019-11-14 11:19:36.179672: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BCB0>2019-11-14 11:19:36.681758: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BCF0>2019-11-14 11:19:37.184683: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BD30>2019-11-14 11:19:37.688315: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BD70>2019-11-14 11:19:38.191514: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BDB0>2019-11-14 11:19:38.695153: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BDF0>2019-11-14 11:19:39.198463: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BE30>2019-11-14 11:19:39.701879: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BE70>2019-11-14 11:19:40.204692: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BEB0>2019-11-14 11:19:40.706642: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BEF0>2019-11-14 11:19:41.207640: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BF30>2019-11-14 11:19:41.708642: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BF70>2019-11-14 11:19:42.209714: <generator object compare_ml.<locals>.<genexpr> at 0x07C8BFB0>2019-11-14 11:19:42.710711: <generator object compare_ml.<locals>.<genexpr> at 0x07C9D030>2019-11-14 11:21:29.690837: NFL Jacksonville vs Indianapolis ('bookmaker', 140) ('heritage', -150) 
+--------------------------------------------------
+2019-11-14 11:21:30.194789: NFL N.Y. Jets vs Washington ('pinnacle', 110) ('heritage', -120) 
+--------------------------------------------------
+2019-11-14 11:21:30.698103: NFL N.Y. Jets vs Washington ('pinnacle', 110) ('bovada', -115) 
+--------------------------------------------------
+2019-11-14 11:21:31.202211: NFL N.Y. Jets vs Washington ('bookmaker', 105) ('bovada', -115) 
+--------------------------------------------------
+2019-11-14 11:21:31.704299: NFL New England vs Philadelphia ('pinnacle', -185) ('bovada', 175) 
+--------------------------------------------------
+2019-11-14 11:21:32.206968: NFL New England vs Philadelphia ('sportsbetting', -183) ('bovada', 175) 
+--------------------------------------------------
+2019-11-14 11:23:33.802136: <generator object compare_ml.<locals>.<genexpr> at 0x0705CBB0>2019-11-14 11:23:34.306253: <generator object compare_ml.<locals>.<genexpr> at 0x0705CC30>2019-11-14 11:23:34.809205: <generator object compare_ml.<locals>.<genexpr> at 0x0386B4F0>2019-11-14 11:23:35.312231: <generator object compare_ml.<locals>.<genexpr> at 0x0765C4F0>2019-11-14 11:23:35.815585: <generator object compare_ml.<locals>.<genexpr> at 0x0765C530>2019-11-14 11:23:36.318959: <generator object compare_ml.<locals>.<genexpr> at 0x0765C570>2019-11-14 11:23:36.822569: <generator object compare_ml.<locals>.<genexpr> at 0x0765C5B0>2019-11-14 11:23:37.325830: <generator object compare_ml.<locals>.<genexpr> at 0x0765C5F0>2019-11-14 11:25:58.215032: <generator object compare_ml.<locals>.<genexpr> at 0x0770BBF0>2019-11-14 11:25:58.718732: <generator object compare_ml.<locals>.<genexpr> at 0x0770BC70>2019-11-14 11:25:59.221921: <generator object compare_ml.<locals>.<genexpr> at 0x03F1B530>2019-11-14 11:25:59.725822: <generator object compare_ml.<locals>.<genexpr> at 0x07D0B530>2019-11-14 11:26:00.228983: <generator object compare_ml.<locals>.<genexpr> at 0x07D0B570>2019-11-14 11:26:00.732944: <generator object compare_ml.<locals>.<genexpr> at 0x07D0B5B0>2019-11-14 11:26:01.235825: <generator object compare_ml.<locals>.<genexpr> at 0x07D0B5F0>2019-11-14 11:26:01.739147: <generator object compare_ml.<locals>.<genexpr> at 0x07D0B630>2019-11-14 11:26:02.242284: <generator object compare_ml.<locals>.<genexpr> at 0x07D0B670>2019-11-14 11:26:02.745628: <generator object compare_ml.<locals>.<genexpr> at 0x07D0B6F0>2019-11-14 11:26:03.248933: <generator object compare_ml.<locals>.<genexpr> at 0x07D0B730>2019-11-14 11:26:03.750879: <generator object compare_ml.<locals>.<genexpr> at 0x07D0B770>2019-11-14 11:26:04.254117: <generator object compare_ml.<locals>.<genexpr> at 0x07D0B7B0>2019-11-14 11:26:04.757871: <generator object compare_ml.<locals>.<genexpr> at 0x07D0B7F0>2019-11-14 11:28:00.392613: NFL Jacksonville vs Indianapolis ('bookmaker', 140) ('heritage', -150) 
+--------------------------------------------------
+2019-11-14 11:28:00.896460: NFL N.Y. Jets vs Washington ('pinnacle', 110) ('heritage', -120) 
+--------------------------------------------------
+2019-11-14 11:28:01.399837: NFL N.Y. Jets vs Washington ('pinnacle', 110) ('bovada', -115) 
+--------------------------------------------------
+2019-11-14 11:28:01.903254: NFL N.Y. Jets vs Washington ('bookmaker', 105) ('bovada', -115) 
+--------------------------------------------------
+2019-11-14 11:28:02.406740: NFL New England vs Philadelphia ('pinnacle', -185) ('bovada', 175) 
+--------------------------------------------------
+2019-11-14 11:28:02.909990: NFL New England vs Philadelphia ('sportsbetting', -183) ('bovada', 175) 
+--------------------------------------------------
+2019-11-14 11:28:30.328142: NFL Jacksonville vs Indianapolis ('bookmaker', 140) ('heritage', -150) 
+--------------------------------------------------
+2019-11-14 11:28:30.830233: NFL N.Y. Jets vs Washington ('pinnacle', 110) ('heritage', -120) 
+--------------------------------------------------
+2019-11-14 11:28:31.332679: NFL N.Y. Jets vs Washington ('pinnacle', 110) ('bovada', -115) 
+--------------------------------------------------
+2019-11-14 11:28:31.833893: NFL N.Y. Jets vs Washington ('bookmaker', 105) ('bovada', -115) 
+--------------------------------------------------
+2019-11-14 11:28:32.337719: NFL New England vs Philadelphia ('pinnacle', -185) ('bovada', 175) 
+--------------------------------------------------
+2019-11-14 11:28:32.840115: NFL New England vs Philadelphia ('sportsbetting', -183) ('bovada', 175) 
+--------------------------------------------------
+2019-11-14 11:38:23.446611: NFL Pittsburgh vs Cleveland ('pinnacle', [3.0, -115]) ('pinnacle', [-3.0, 105]) 
+--------------------------------------------------
+2019-11-14 11:38:23.950227: NFL Pittsburgh vs Cleveland ('pinnacle', [3.0, -115]) ('heritage', [-3.0, 105]) 
+--------------------------------------------------
+2019-11-14 11:38:24.453735: NFL Pittsburgh vs Cleveland ('heritage', [3.0, -115]) ('pinnacle', [-3.0, 105]) 
+--------------------------------------------------
+2019-11-14 11:38:24.955963: NFL Pittsburgh vs Cleveland ('heritage', [3.0, -115]) ('heritage', [-3.0, 105]) 
+--------------------------------------------------
+2019-11-14 11:38:25.459911: NFL Jacksonville vs Indianapolis ('pinnacle', [3.0, -109]) ('heritage', [-3.0, 100]) 
+--------------------------------------------------
+2019-11-14 11:38:25.963543: NFL Jacksonville vs Indianapolis ('heritage', [3.0, -110]) ('heritage', [-3.0, 100]) 
+--------------------------------------------------
+2019-11-14 11:38:26.467075: NFL Houston vs Baltimore ('bovada', [4.5, -115]) ('pinnacle', [-4.5, 107]) 
+--------------------------------------------------
+2019-11-14 11:38:26.971092: NFL Arizona vs San Francisco ('pinnacle', [11.0, -114]) ('pinnacle', [-11.0, 104]) 
+--------------------------------------------------
+2019-11-14 11:40:23.025567: NFL Pittsburgh vs Cleveland ('pinnacle', [3.0, -115]) ('pinnacle', [-3.0, 105]) 
+--------------------------------------------------
+2019-11-14 11:40:23.528793: NFL Pittsburgh vs Cleveland ('pinnacle', [3.0, -115]) ('heritage', [-3.0, 105]) 
+--------------------------------------------------
+2019-11-14 11:40:24.031149: NFL Pittsburgh vs Cleveland ('heritage', [3.0, -115]) ('pinnacle', [-3.0, 105]) 
+--------------------------------------------------
+2019-11-14 11:40:24.534420: NFL Pittsburgh vs Cleveland ('heritage', [3.0, -115]) ('heritage', [-3.0, 105]) 
+--------------------------------------------------
+2019-11-14 11:40:25.037921: NFL Jacksonville vs Indianapolis ('pinnacle', [3.0, -109]) ('heritage', [-3.0, 100]) 
+--------------------------------------------------
+2019-11-14 11:40:25.541396: NFL Jacksonville vs Indianapolis ('heritage', [3.0, -110]) ('heritage', [-3.0, 100]) 
+--------------------------------------------------
+2019-11-14 11:40:26.044422: NFL Houston vs Baltimore ('bovada', [4.5, -115]) ('pinnacle', [-4.5, 107]) 
+--------------------------------------------------
+2019-11-14 11:40:26.547177: NFL Arizona vs San Francisco ('pinnacle', [11.0, -114]) ('pinnacle', [-11.0, 104]) 
+--------------------------------------------------
+2019-11-14 11:40:27.051981: NFL Denver vs Minnesota ('pinnacle', [40.5, 100]) ('heritage', [40.0, -105]) 
+--------------------------------------------------
+2019-11-14 11:40:27.555316: NFL Denver vs Minnesota ('pinnacle', [40.5, 100]) ('bovada', [40.0, -105]) 
+--------------------------------------------------
+2019-11-14 11:40:28.058705: NFL Houston vs Baltimore ('bookmaker', [51.5, -110]) ('pinnacle', [51.0, 104]) 
+--------------------------------------------------
+2019-11-14 11:40:28.560637: NFL Houston vs Baltimore ('heritage', [51.5, -105]) ('pinnacle', [51.0, 104]) 
+--------------------------------------------------
+2019-11-14 11:40:29.062961: NFL Houston vs Baltimore ('sportsbetting', [51.5, -110]) ('pinnacle', [51.0, 104]) 
+--------------------------------------------------
+2019-11-14 11:40:29.565873: NFL Atlanta vs Carolina ('pinnacle', [49.5, 103]) ('bookmaker', [49.5, -110]) 
+--------------------------------------------------
+2019-11-14 11:40:30.068922: NFL Atlanta vs Carolina ('pinnacle', [49.5, 103]) ('heritage', [49.0, -105]) 
+--------------------------------------------------
+2019-11-14 11:40:30.572171: NFL Atlanta vs Carolina ('pinnacle', [49.5, 103]) ('sportsbetting', [49.5, -113]) 
+--------------------------------------------------
+2019-11-14 11:40:31.075648: NFL Atlanta vs Carolina ('pinnacle', [49.5, 103]) ('bovada', [49.5, -110]) 
+--------------------------------------------------
+2019-11-14 11:40:41.657238: NFL Pittsburgh vs Cleveland ('pinnacle', [3.0, -115]) ('pinnacle', [-3.0, 105]) 
+--------------------------------------------------
+2019-11-14 11:40:42.161357: NFL Arizona vs San Francisco ('pinnacle', [11.0, -114]) ('pinnacle', [-11.0, 104]) 
+--------------------------------------------------
+2019-11-14 11:40:42.666546: NFL Denver vs Minnesota ('pinnacle', [40.5, 100]) ('heritage', [40.0, -105]) 
+--------------------------------------------------
+2019-11-14 11:40:43.169571: NFL Denver vs Minnesota ('pinnacle', [40.5, 100]) ('bovada', [40.0, -105]) 
+--------------------------------------------------
+2019-11-14 11:40:43.672472: NFL Houston vs Baltimore ('heritage', [51.5, -105]) ('pinnacle', [51.0, 104]) 
+--------------------------------------------------
+2019-11-14 11:40:44.176069: NFL Atlanta vs Carolina ('pinnacle', [49.5, 103]) ('heritage', [49.0, -105]) 
+--------------------------------------------------
+2019-11-14 11:40:44.679165: NFL Buffalo vs Miami ('pinnacle', [41.0, 104]) ('heritage', [40.5, -105]) 
+--------------------------------------------------
+2019-11-14 11:40:45.180959: NFL New England vs Philadelphia ('heritage', [45.0, -105]) ('pinnacle', [44.5, 105]) 
+--------------------------------------------------
+2019-11-14 11:40:45.682987: NFL New England vs Philadelphia ('bovada', [45.0, -110]) ('pinnacle', [44.5, 105]) 
+--------------------------------------------------
+2019-11-14 11:40:46.186418: NFL Kansas City vs L.A. Chargers ('pinnacle', [52.5, 102]) ('heritage', [52.0, -105]) 
+--------------------------------------------------
+2019-11-14 11:40:46.689305: NFL Kansas City vs L.A. Chargers ('pinnacle', [52.5, 102]) ('bovada', [52.0, -105]) 
+--------------------------------------------------
+2019-11-14 11:41:37.767086: NBA Miami vs Cleveland 6:00p current ('bookmaker', -175) ('pinnacle', 165) 
+--------------------------------------------------
+2019-11-14 11:41:38.269382: NBA Miami vs Cleveland 6:00p current ('sportsbetting', -175) ('pinnacle', 165) 
+--------------------------------------------------
+2019-11-14 11:41:38.771900: NBA Miami vs Cleveland 6:00p current ('bovada', -175) ('pinnacle', 165) 
+--------------------------------------------------
+2019-11-14 11:41:39.276054: NBA Miami vs Cleveland 6:00p current ('pinnacle', [-4.0, -110]) ('pinnacle', [4.0, 100]) 
+--------------------------------------------------
+2019-11-14 11:41:39.778951: NBA Miami vs Cleveland 6:00p current ('heritage', [-4.0, -105]) ('pinnacle', [4.0, 100]) 
+--------------------------------------------------
+2019-11-14 11:42:49.955705: NHL Carolina vs Buffalo 7:00p current ('pinnacle', -127) ('sportsbetting', 119) 
+--------------------------------------------------
+2019-11-14 11:42:50.459506: NHL Carolina vs Buffalo 7:00p current ('heritage', -129) ('sportsbetting', 119) 
+--------------------------------------------------
+2019-11-14 11:42:50.962804: NHL Arizona vs Minnesota 8:00p current ('pinnacle', 106) ('heritage', -116) 
+--------------------------------------------------
+2019-11-14 11:42:51.465876: NHL Arizona vs Minnesota 8:00p current ('sportsbetting', 107) ('pinnacle', -117) 
+--------------------------------------------------
+2019-11-14 11:42:51.969682: NHL Arizona vs Minnesota 8:00p current ('sportsbetting', 107) ('heritage', -116) 
+--------------------------------------------------
+2019-11-14 11:42:52.472162: NHL Colorado vs Edmonton 9:00p current ('heritage', 121) ('pinnacle', -130) 
+--------------------------------------------------
+2019-11-14 11:42:52.974971: NHL Colorado vs Edmonton 9:00p current ('sportsbetting', 120) ('pinnacle', -130) 
+--------------------------------------------------
+2019-11-14 11:42:53.477135: NHL Winnipeg vs Florida 7:00p current ('heritage', [1.5, -165]) ('heritage', [-1.5, 155]) 
+--------------------------------------------------
+2019-11-14 11:42:53.978990: NHL N.Y. Rangers vs Tampa Bay 7:00p current ('heritage', [1.5, 100]) ('pinnacle', [-1.5, -107]) 
+--------------------------------------------------
+2019-11-14 11:42:54.481060: NHL N.Y. Rangers vs Tampa Bay 7:00p current ('heritage', [1.5, 100]) ('bookmaker', [-1.5, -110]) 
+--------------------------------------------------
+2019-11-14 11:42:54.983931: NHL N.Y. Rangers vs Tampa Bay 7:00p current ('heritage', [1.5, 100]) ('heritage', [-1.5, -110]) 
+--------------------------------------------------
+2019-11-14 11:42:55.487751: NHL N.Y. Rangers vs Tampa Bay 7:00p current ('heritage', [1.5, 100]) ('bovada', [-1.5, -110]) 
+--------------------------------------------------

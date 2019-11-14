@@ -102,7 +102,6 @@ class ValueFinder(object):
             self.add_to_gui(compare.compare_totals(totals, 'NBA'))
         if self.vars[1].get():
             # NCAAB
-            print('starting ncaab')
             moneylines = nf.get_moneylines(self.ncaab_ml, 'ncaa-basketball')
             spreads = nf.get_spreads(self.ncaab_spreads, 'ncaa-basketball')
             totals = nf.get_totals(self.ncaab_totals, 'ncaa-basketball')
