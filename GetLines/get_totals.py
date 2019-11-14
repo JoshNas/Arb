@@ -29,14 +29,14 @@ def totals(game):
     except AttributeError:
         pass
 
-    try:
-        sportsbetting = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 999991}).get_text()
-        over, under = get_site(sportsbetting)
-        if over:
-            overs['sportsbetting'] = over
-            unders['sportsbetting'] = under
-    except AttributeError:
-        pass
+    # try:
+    #     sportsbetting = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 999991}).get_text()
+    #     over, under = get_site(sportsbetting)
+    #     if over:
+    #         overs['sportsbetting'] = over
+    #         unders['sportsbetting'] = under
+    # except AttributeError:
+    #     pass
 
     try:
         bovada = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 999996}).get_text()

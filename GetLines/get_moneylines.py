@@ -33,14 +33,14 @@ def moneyline(game):
     except AttributeError:
         pass
 
-    try:
-        sportsbetting = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 999991}).get_text()
-        away, home = clean(sportsbetting)
-        if away:
-            away_odds['sportsbetting'] = away
-            home_odds['sportsbetting'] = home
-    except AttributeError:
-        pass
+    # try:
+    #     sportsbetting = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 999991}).get_text()
+    #     away, home = clean(sportsbetting)
+    #     if away:
+    #         away_odds['sportsbetting'] = away
+    #         home_odds['sportsbetting'] = home
+    # except AttributeError:
+    #     pass
 
     try:
         bovada = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 999996}).get_text()

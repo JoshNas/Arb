@@ -24,13 +24,13 @@ def run_lines(game):
             away_odds['heritage'], home_odds['heritage'] = away, home
     except AttributeError:
         pass
-    try:
-        sportsbetting = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 999991}).get_text()
-        away, home = extract_runlines(sportsbetting)
-        if away:
-            away_odds['sportsbetting'], home_odds['sportsbetting'] = away, home
-    except AttributeError or ValueError:
-        pass
+    # try:
+    #     sportsbetting = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 999991}).get_text()
+    #     away, home = extract_runlines(sportsbetting)
+    #     if away:
+    #         away_odds['sportsbetting'], home_odds['sportsbetting'] = away, home
+    # except AttributeError or ValueError:
+    #     pass
     try:
         bovada = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 999996}).get_text()
         away, home = extract_runlines(bovada)
