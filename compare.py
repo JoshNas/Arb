@@ -30,7 +30,7 @@ def compare_totals(lines, sport):
     breaker = '\n' + '-' * 50 + '\n'
     value = []
     for game in lines:
-        combos = it.product(game['overs'].items(), game['unders'].items())
+        combos = it.product(game['unders'].items(), game['overs'].items())
         value.extend([f'{sport} {game["game"]} {combo[0]} {combo[1]} {breaker}' for combo in combos
                       if combo[0][1][0] - combo[1][1][0] >= 0 and combo[0][1][1] + combo[1][1][1] >= 0])
 
