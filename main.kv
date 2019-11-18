@@ -1,0 +1,81 @@
+<Display>:
+    BoxLayout:
+        orientation: 'vertical'
+        BoxLayout:
+            orientation: 'horizontal'
+            size_hint_x: None
+            size_hint_y: None
+            height: 20
+            width: root.width
+            Label:
+                font_size: 12
+                text: 'NFL: '
+            CheckBox:
+                name: 'NFL'
+                active: app.nfl_active
+                size_hint_x: .05
+                color: .294, .761, .623
+                on_active: root.update_settings(self, self.name, self.active)
+            Label:
+                font_size: 12
+                text: 'NCAAF:'
+            CheckBox:
+                name: 'NCAAF'
+                active: app.ncaaf_active
+                size_hint_x: .05
+                color: .294, .761, .623
+                on_active: root.update_settings(self, self.name, self.active)
+            Label:
+                font_size: 12
+                text: 'NBA:'
+            CheckBox:
+                name: 'NBA'
+                active: app.nba_active
+                size_hint_x: .05
+                color: .294, .761, .623
+                on_active: root.update_settings(self, self.name, self.active)
+            Label:
+                font_size: 12
+                text: 'NCAAB:'
+            CheckBox:
+                name: 'NCAAB'
+                active: app.ncaab_active
+                size_hint_x: .05
+                color: .294, .761, .623
+                on_active: root.update_settings(self, self.name, self.active)
+            Label:
+                font_size: 12
+                text: 'NHL:'
+            CheckBox:
+                name: 'NHL'
+                active: app.nhl_active
+                size_hint_x: .05
+                color: .294, .761, .623
+                on_active: root.update_settings(self, self.name, self.active)
+            Label:
+                font_size: 12
+                text: 'MLB:'
+            CheckBox:
+                name: 'MLB'
+                active: app.mlb_active
+                size_hint_x: .05
+                color: .294, .761, .623
+                on_active: root.update_settings(self, self.name, self.active)
+
+
+
+        TextInput:
+            size_hint_x: None
+            size_hint_y: None
+            height: root.height-20
+            width: root.width
+            font_size: 12
+            background_color: 0, 0, 0, 1
+            foreground_color: 0, 1, 0, 1
+            text: root.display_window
+
+
+
+
+
+

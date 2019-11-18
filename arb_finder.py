@@ -97,49 +97,49 @@ class ValueFinder(object):
             moneylines = nf.get_moneylines(self.nba_ml, 'nba-basketball')
             spreads = nf.get_spreads(self.nba_spreads, 'nba-basketball')
             totals = nf.get_totals(self.nba_totals, 'nba-basketball')
-            self.add_to_gui(compare.compare_ml(moneylines, 'NBA'))
-            self.add_to_gui(compare.compare_spreads(spreads, 'NBA'))
-            self.add_to_gui(compare.compare_totals(totals, 'NBA'))
+            self.add_to_gui(compare.moneylines(moneylines, 'NBA'))
+            self.add_to_gui(compare.spreads(spreads, 'NBA'))
+            self.add_to_gui(compare.totals(totals, 'NBA'))
         if self.vars[1].get():
             # NCAAB
             moneylines = nf.get_moneylines(self.ncaab_ml, 'ncaa-basketball')
             spreads = nf.get_spreads(self.ncaab_spreads, 'ncaa-basketball')
             totals = nf.get_totals(self.ncaab_totals, 'ncaa-basketball')
-            self.add_to_gui(compare.compare_ml(moneylines, 'NCAAB'))
-            self.add_to_gui(compare.compare_spreads(spreads, 'NCAAB'))
-            self.add_to_gui(compare.compare_totals(totals, 'NCAAB'))
+            self.add_to_gui(compare.moneylines(moneylines, 'NCAAB'))
+            self.add_to_gui(compare.spreads(spreads, 'NCAAB'))
+            self.add_to_gui(compare.totals(totals, 'NCAAB'))
         if self.vars[2].get():
             # MLB
             moneylines = nf.get_moneylines(self.mlb_ml, 'mlb-baseball')
             run_lines = nf.get_spreads(self.mlb_spreads, 'mlb-baseball')
             totals = nf.get_totals(self.mlb_totals, 'mlb-baseball')
-            self.add_to_gui(compare.compare_ml(moneylines, 'MLB'))
-            self.add_to_gui(compare.compare_spreads(run_lines, 'MLB'))
-            self.add_to_gui(compare.compare_totals(totals, 'MLB'))
+            self.add_to_gui(compare.moneylines(moneylines, 'MLB'))
+            self.add_to_gui(compare.spreads(run_lines, 'MLB'))
+            self.add_to_gui(compare.totals(totals, 'MLB'))
         if self.vars[3].get():
             # NHL
             moneylines = nf.get_moneylines(self.nhl_ml, 'nhl-hockey')
             puck_lines = nf.get_spreads(self.nhl_spreads, 'nhl-hockey')
             totals = nf.get_totals(self.nhl_totals, 'nhl-hockey')
-            self.add_to_gui(compare.compare_ml(moneylines, 'NHL'))
-            self.add_to_gui(compare.compare_spreads(puck_lines, 'NHL'))
-            self.add_to_gui(compare.compare_totals(totals, 'NHL'))
+            self.add_to_gui(compare.moneylines(moneylines, 'NHL'))
+            self.add_to_gui(compare.spreads(puck_lines, 'NHL'))
+            self.add_to_gui(compare.totals(totals, 'NHL'))
         if self.vars[4].get():
             # NFL
             moneylines = fb.get_money_lines(self.nfl_ml)
             spreads = fb.get_spreads(self.nfl_spreads)
             totals = fb.get_totals(self.nfl_totals)
-            self.add_to_gui(compare.compare_ml(moneylines, 'NFL'))
-            self.add_to_gui(compare.compare_spreads(spreads, 'NFL'))
-            self.add_to_gui(compare.compare_totals(totals, 'NFL'))
+            self.add_to_gui(compare.moneylines(moneylines, 'NFL'))
+            self.add_to_gui(compare.spreads(spreads, 'NFL'))
+            self.add_to_gui(compare.totals(totals, 'NFL'))
         if self.vars[5].get():
             # NCAAF
             moneylines = fb.get_money_lines(self.ncaaf_ml)
             spreads = fb.get_spreads(self.ncaaf_spreads)
             totals = fb.get_totals(self.ncaaf_totals)
-            self.add_to_gui(compare.compare_ml(moneylines, 'NCAAF'))
-            self.add_to_gui(compare.compare_spreads(spreads, 'NCAAF'))
-            self.add_to_gui(compare.compare_totals(totals, 'NCAAF'))
+            self.add_to_gui(compare.moneylines(moneylines, 'NCAAF'))
+            self.add_to_gui(compare.spreads(spreads, 'NCAAF'))
+            self.add_to_gui(compare.totals(totals, 'NCAAF'))
         if self.vars[6].get() and self.message_value:
             # email
             pass

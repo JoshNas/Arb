@@ -2090,3 +2090,33 @@
 --------------------------------------------------
 2019-11-14 11:56:45.805500: NCAAB Michigan State vs Seton Hall 8:30p current ('heritage', -230) ('bovada', 230) 
 --------------------------------------------------
+2019-11-16 14:00:42.046540: NBA Portland vs San Antonio 8:30p current ('pinnacle', 100) ('pinnacle', -110) 
+--------------------------------------------------
+2019-11-16 14:00:42.551209: NBA Portland vs San Antonio 8:30p current ('pinnacle', 100) ('bookmaker', -110) 
+--------------------------------------------------
+2019-11-16 14:00:47.409781: NFL New Orleans vs Tampa Bay ('pinnacle', -217) ('bovada', 210) 
+--------------------------------------------------
+2019-11-16 14:03:57.129355: NBA New Orleans vs Miami 8:00p current ('pinnacle', 230) ('bovada', -240) 
+--------------------------------------------------
+2019-11-16 14:06:08.045707: NBA New Orleans vs Miami 8:00p current ('pinnacle', 235) ('bovada', -240) 
+--------------------------------------------------
+2019-11-16 14:07:14.490938: NBA New Orleans vs Miami 8:00p current ('pinnacle', 241) ('bovada', -240) 
+--------------------------------------------------
+2019-11-16 14:08:18.565194: NBA New Orleans vs Miami 8:00p current ('pinnacle', 242) ('bovada', -240) 
+--------------------------------------------------
+2019-11-16 14:09:55.704449: NBA New Orleans vs Miami 8:00p current ('heritage', 240) ('bovada', -240) 
+--------------------------------------------------
+2019-11-16 14:13:07.524693: NBA Portland vs San Antonio 8:30p current ('pinnacle', 105) ('bookmaker', -110) 
+--------------------------------------------------
+2019-11-16 14:13:08.026840: NBA Portland vs San Antonio 8:30p current ('pinnacle', 105) ('heritage', -115) 
+--------------------------------------------------
+2019-11-16 14:13:08.529525: NBA Portland vs San Antonio 8:30p current ('pinnacle', 105) ('bovada', -115) 
+--------------------------------------------------
+2019-11-16 14:13:41.030644: NBA Portland vs San Antonio 8:30p current ('pinnacle', 107) ('bookmaker', -110) 
+--------------------------------------------------
+2019-11-16 14:13:41.532700: NBA Portland vs San Antonio 8:30p current ('pinnacle', 107) ('heritage', -115) 
+--------------------------------------------------
+2019-11-16 14:13:42.034744: NBA Portland vs San Antonio 8:30p current ('pinnacle', 107) ('bovada', -115) 
+--------------------------------------------------
+2019-11-16 14:15:19.596307: NBA Portland vs San Antonio 8:30p current ('heritage', 100) ('bookmaker', -110) 
+--------------------------------------------------
