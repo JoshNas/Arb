@@ -18,6 +18,7 @@ class Display(Widget):
 
     def __init__(self, **kwargs):
         super(Display, self).__init__(**kwargs)
+
         self.display_window = 'Lets get started'
         self.settings = json.load(open('settings.json'))
 
@@ -106,6 +107,7 @@ class Display(Widget):
 
 
 class ArbApp(App):
+    icon = 'images/dollar.ico'
     settings = json.load(open('settings.json'))
     nfl_active = settings['NFL']
     ncaaf_active = settings['NCAAF']
