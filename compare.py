@@ -34,6 +34,6 @@ def totals(lines, sport):
         combos = it.product(game['unders'].items(), game['overs'].items())
         value.extend([f'{sport} {game["game"]} {combo[0][0]}: {combo[0][1][0]} {combo[0][1][1]} and '
                       f'{combo[1][0]}: {combo[1][1][0]} {combo[1][1][1]}\n\n' for combo in combos
-                      if combo[0][1][0] + combo[1][1][0] >= 0 and combo[0][1][1] + combo[1][1][1] >= 0])
+                      if combo[0][1][0] - combo[1][1][0] >= 0 and combo[0][1][1] + combo[1][1][1] >= 0])
 
     return value

@@ -1,8 +1,7 @@
 from kivy.app import App
 from kivy.lang import Builder
 from kivy.uix.widget import Widget
-from kivy.uix.checkbox import CheckBox
-from kivy.properties import StringProperty, ObjectProperty
+from kivy.properties import StringProperty
 from kivy.clock import Clock
 import json
 from Sports import football as fb, not_football as nf
@@ -19,7 +18,7 @@ class Display(Widget):
     def __init__(self, **kwargs):
         super(Display, self).__init__(**kwargs)
 
-        self.display_window = 'Lets get started'
+        self.display_window = 'Getting lines...'
         self.settings = json.load(open('settings.json'))
 
         self.nfl_ml = 'https://classic.sportsbookreview.com/betting-odds/nfl-football/money-line/'

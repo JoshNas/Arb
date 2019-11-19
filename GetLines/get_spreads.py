@@ -81,14 +81,14 @@ def spreads(game):
     except AttributeError:
         pass
 
-    try:
-        sportsbetting = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 999991}).get_text()\
-            .replace('PK', '0 ').replace('\xa0', ' ').replace('½', '.5').split(' ')
-        away_line, home_line = extract_spreads(sportsbetting)
-        if away_line:
-            away_odds['sportsbetting'], home_odds['sportsbetting'] = away_line, home_line
-    except AttributeError:
-        pass
+    # try:
+    #     sportsbetting = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 999991}).get_text()\
+    #         .replace('PK', '0 ').replace('\xa0', ' ').replace('½', '.5').split(' ')
+    #     away_line, home_line = extract_spreads(sportsbetting)
+    #     if away_line:
+    #         away_odds['sportsbetting'], home_odds['sportsbetting'] = away_line, home_line
+    # except AttributeError:
+    #     pass
 
     try:
         bovada = game.find('div', attrs={'class': 'el-div eventLine-book', 'rel': 999996}).get_text()\
